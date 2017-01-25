@@ -1,0 +1,3 @@
+[submodule "gfwlist"]
+	path = gfwlist
+	url = https://github.com/gfwlist/gfwlist
