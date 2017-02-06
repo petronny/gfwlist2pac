@@ -1,7 +1,7 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * Generated: Sat, 04 Feb 2017 15:02:59 +0000
- * GFWList Last-Modified: Fri, 03 Feb 2017 11:20:47 +0100
+ * Generated: Mon, 06 Feb 2017 12:45:47 +0000
+ * GFWList Last-Modified: Sun, 05 Feb 2017 02:31:30 +0100
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2352,6 +2352,7 @@ var rules = [
             "jingsim.org", 
             "jinhai.de", 
             "jinpianwang.com", 
+            "jinroukong.com", 
             "jiruan.net", 
             "jitouch.com", 
             "jizzthis.com", 
