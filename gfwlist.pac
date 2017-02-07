@@ -1,7 +1,7 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * Generated: Mon, 06 Feb 2017 12:45:47 +0000
- * GFWList Last-Modified: Sun, 05 Feb 2017 02:31:30 +0100
+ * Generated: Tue, 07 Feb 2017 12:54:36 +0000
+ * GFWList Last-Modified: Mon, 06 Feb 2017 09:53:46 +0100
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4335,10 +4335,10 @@ var rules = [
             "videomega.tv", 
             "videomo.com", 
             "videopediaworld.com", 
+            "videopress.com", 
             "vidinfo.org", 
             "vietdaikynguyen.com", 
             "vijayatemple.org", 
-            "viki.com", 
             "vimeo.com", 
             "vimperator.org", 
             "vincnd.com", 
@@ -4530,6 +4530,7 @@ var rules = [
             "wjbk.org", 
             "wn.com", 
             "wnacg.com", 
+            "wnacg.org", 
             "wo.tc", 
             "woeser.com", 
             "woesermiddle-way.net", 
