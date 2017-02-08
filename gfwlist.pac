@@ -1,7 +1,7 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * Generated: Tue, 07 Feb 2017 12:54:36 +0000
- * GFWList Last-Modified: Mon, 06 Feb 2017 09:53:46 +0100
+ * Generated: Wed, 08 Feb 2017 13:03:13 +0000
+ * GFWList Last-Modified: Tue, 07 Feb 2017 12:40:34 +0100
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -322,6 +322,7 @@ var rules = [
             "android-x86.org", 
             "android.com", 
             "androidify.com", 
+            "andygod.com", 
             "angelfire.com", 
             "angularjs.org", 
             "animecrazy.net", 
@@ -1539,6 +1540,7 @@ var rules = [
             "gaycn.net", 
             "gaymap.cc", 
             "gaytube.com", 
+            "gaywatch.com", 
             "gazotube.com", 
             "gcc.org.hk", 
             "gclooney.com", 
@@ -1595,7 +1597,6 @@ var rules = [
             "gizlen.net", 
             "gjczz.com", 
             "glass8.eu", 
-            "glennhilton.com", 
             "globaljihad.net", 
             "globalmediaoutreach.com", 
             "globalmuseumoncommunism.org", 
@@ -2202,6 +2203,7 @@ var rules = [
             "imageab.com", 
             "imagefap.com", 
             "imageflea.com", 
+            "images-gaytube.com", 
             "imageshack.us", 
             "imagevenue.com", 
             "imagezilla.net", 
@@ -2338,6 +2340,8 @@ var rules = [
             "jdwsy.com", 
             "jeanyim.com", 
             "jetos.com", 
+            "jfqu36.club", 
+            "jfqu37.xyz", 
             "jgoodies.com", 
             "jiangweiping.com", 
             "jiaoyou8.com", 
@@ -2651,7 +2655,6 @@ var rules = [
             "meetup.com", 
             "mefeedia.com", 
             "mefound.com", 
-            "megaporn.com", 
             "megaproxy.com", 
             "megarotic.com", 
             "megavideo.com", 
@@ -3639,6 +3642,7 @@ var rules = [
             "sockslist.net", 
             "socrec.org", 
             "sod.co.jp", 
+            "sodatea.github.io", 
             "softether-download.com", 
             "softether.co.jp", 
             "softether.org", 
@@ -4705,6 +4709,7 @@ var rules = [
             "youtube.com", 
             "youtubecn.com", 
             "youtubeeducation.com", 
+            "youtubegaming.com", 
             "youversion.com", 
             "youxu.info", 
             "ytht.net", 
