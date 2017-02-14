@@ -6,7 +6,7 @@ git pull
 git submodule update --init
 cd gfwlist
 git pull origin master
-genpac --proxy="SOCKS5 127.0.0.1:1080" --gfwlist-proxy="SOCKS5 127.0.0.1:1080" -o ../gfwlist.pac --gfwlist-local=gfwlist.txt
+~/.local/bin/genpac --proxy="SOCKS5 127.0.0.1:1080" --gfwlist-proxy="SOCKS5 127.0.0.1:1080" -o ../gfwlist.pac --gfwlist-local=gfwlist.txt
 cd ..
 
 git add .
