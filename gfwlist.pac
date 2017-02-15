@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Tue, 14 Feb 2017 04:38:08 +0100
+ * GFWList Last-Modified: Wed, 15 Feb 2017 12:27:01 +0100
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1051,6 +1051,7 @@ var rules = [
             "dlsite.com", 
             "dlsite.jp", 
             "dmcdn.net", 
+            "dmhy.org", 
             "dmm.co.jp", 
             "dmm.com", 
             "dns-dns.com", 
@@ -4099,6 +4100,7 @@ var rules = [
             "toytractorshow.com", 
             "tparents.org", 
             "tpi.org.tw", 
+            "tracfone.com", 
             "traffichaus.com", 
             "transparency.org", 
             "treemall.com.tw", 
@@ -4606,6 +4608,7 @@ var rules = [
             "wowgirls.com", 
             "wowlegacy.ml", 
             "wowporn.com", 
+            "wowrk.com", 
             "woxinghuiguo.com", 
             "woyaolian.org", 
             "wozy.in", 
