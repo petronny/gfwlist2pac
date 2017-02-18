@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Fri, 17 Feb 2017 05:32:33 +0100
+ * GFWList Last-Modified: Sat, 18 Feb 2017 16:51:10 +0100
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1174,6 +1174,7 @@ var rules = [
             "ebookee.com", 
             "ecfa.org.tw", 
             "echofon.com", 
+            "ecimg.tw", 
             "ecministry.net", 
             "economist.com", 
             "ecstart.com", 
@@ -2686,6 +2687,7 @@ var rules = [
             "mcfog.com", 
             "mcreasite.com", 
             "md-t.org", 
+            "meansys.com", 
             "media.org.hk", 
             "mediachinese.com", 
             "mediafire.com", 
