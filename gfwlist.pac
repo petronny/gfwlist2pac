@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Sat, 18 Feb 2017 16:51:10 +0100
+ * GFWList Last-Modified: Mon, 20 Feb 2017 00:54:35 +0100
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -170,6 +170,7 @@ var rules = [
             "3arabtv.com", 
             "3boys2girls.com", 
             "3d-game.com", 
+            "3proxy.ru", 
             "3ren.ca", 
             "3tui.net", 
             "4bluestones.biz", 
