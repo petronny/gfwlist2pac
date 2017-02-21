@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Mon, 20 Feb 2017 00:54:35 +0100
+ * GFWList Last-Modified: Tue, 21 Feb 2017 03:04:53 +0100
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3582,6 +3582,7 @@ var rules = [
             "shadeyouvpn.com", 
             "shadow.ma", 
             "shadowsky.xyz", 
+            "shadowsocks.asia", 
             "shadowsocks.com", 
             "shadowsocks.org", 
             "shafaqna.com", 
