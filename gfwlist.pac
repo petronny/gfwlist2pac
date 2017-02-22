@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Tue, 21 Feb 2017 03:04:53 +0100
+ * GFWList Last-Modified: Wed, 22 Feb 2017 06:13:39 +0100
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3749,6 +3749,7 @@ var rules = [
             "spem.at", 
             "spencertipping.com", 
             "spicevpn.com", 
+            "spideroak.com", 
             "spike.com", 
             "spotflux.com", 
             "spotify.com", 
@@ -3757,7 +3758,6 @@ var rules = [
             "sprite.org", 
             "sproutcore.com", 
             "sproxy.info", 
-            "squarespace.com", 
             "squirly.info", 
             "srocket.us", 
             "ss-link.com", 
@@ -3774,7 +3774,6 @@ var rules = [
             "starp2p.com", 
             "startpage.com", 
             "state.gov", 
-            "state168.com", 
             "static-economist.com", 
             "staticflickr.com", 
             "statueofdemocracy.org", 
