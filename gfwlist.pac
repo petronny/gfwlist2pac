@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Wed, 22 Feb 2017 06:13:39 +0100
+ * GFWList Last-Modified: Sat, 25 Feb 2017 05:34:29 +0100
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1146,6 +1146,7 @@ var rules = [
             "dynamicdns.me.uk", 
             "dynamicdns.org.uk", 
             "dynawebinc.com", 
+            "dyndns-pics.com", 
             "dyndns.org", 
             "dyndns.pro", 
             "dynssl.com", 
@@ -2303,6 +2304,7 @@ var rules = [
             "ironicsoftware.com", 
             "ironpython.net", 
             "ironsocket.com", 
+            "is-a-hunter.com", 
             "is.gd", 
             "isaacmao.com", 
             "isasecret.com", 
