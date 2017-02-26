@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Sat, 25 Feb 2017 05:34:29 +0100
+ * GFWList Last-Modified: Sun, 26 Feb 2017 16:38:56 +0100
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3614,6 +3614,7 @@ var rules = [
             "shizhao.org", 
             "shkspr.mobi", 
             "shodanhq.com", 
+            "shooshtime.com", 
             "shop2000.com.tw", 
             "shopping.com", 
             "showhaotu.com", 
