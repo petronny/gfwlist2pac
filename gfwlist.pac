@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Sun, 26 Feb 2017 16:38:56 +0100
+ * GFWList Last-Modified: Mon, 27 Feb 2017 05:59:02 +0100
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -237,6 +237,7 @@ var rules = [
             "acgkj.com", 
             "acmetoy.com", 
             "acnw.com.au", 
+            "actfortibet.org", 
             "actimes.com.au", 
             "activpn.com", 
             "aculo.us", 
@@ -497,6 +498,7 @@ var rules = [
             "bestvpnusa.com", 
             "bet365.com", 
             "betfair.com", 
+            "betternet.co", 
             "bettervpn.com", 
             "bettween.com", 
             "betvictor.com", 
@@ -821,6 +823,7 @@ var rules = [
             "chubun.com", 
             "chuizi.net", 
             "churchinhongkong.org", 
+            "chushigangdrug.ch", 
             "cienen.com", 
             "cineastentreff.de", 
             "cipfg.org", 
@@ -1089,6 +1092,7 @@ var rules = [
             "dorjeshugden.com", 
             "dotplane.com", 
             "dotsub.com", 
+            "doub.io", 
             "dougscripts.com", 
             "douhokanko.net", 
             "doujincafe.com", 
@@ -1097,8 +1101,6 @@ var rules = [
             "dpp.org.tw", 
             "dpr.info", 
             "dragonsprings.org", 
-            "draw.io", 
-            "dreammask.org", 
             "drepung.org", 
             "drgan.net", 
             "drmingxia.org", 
@@ -1114,7 +1116,6 @@ var rules = [
             "dtdns.net", 
             "dtiblog.com", 
             "dtic.mil", 
-            "dtiserv2.com", 
             "dtwang.org", 
             "duanzhihu.com", 
             "duckdns.org", 
@@ -3626,6 +3627,7 @@ var rules = [
             "siddharthasintent.org", 
             "sidelinesnews.com", 
             "sidelinessportseatery.com", 
+            "sierrafriendsoftibet.org", 
             "sijihuisuo.club", 
             "sijihuisuo.com", 
             "silkbook.com", 
@@ -3656,7 +3658,6 @@ var rules = [
             "sitebro.tw", 
             "sitekreator.com", 
             "sitemaps.org", 
-            "sitetag.us", 
             "sixth.biz", 
             "sjrt.org", 
             "sjum.cn", 
@@ -3719,6 +3720,7 @@ var rules = [
             "sohfrance.org", 
             "soifind.com", 
             "sokamonline.com", 
+            "solidaritetibet.org", 
             "somee.com", 
             "songjianjun.com", 
             "sonicbbs.cc", 
@@ -4023,6 +4025,7 @@ var rules = [
             "tibetanphotoproject.com", 
             "tibetanpoliticalreview.org", 
             "tibetanreview.net", 
+            "tibetansports.org", 
             "tibetanwomen.org", 
             "tibetanyouth.org", 
             "tibetanyouthcongress.org", 
@@ -4489,6 +4492,7 @@ var rules = [
             "wahas.com", 
             "waigaobu.com", 
             "waikeung.org", 
+            "wailaike.net", 
             "waiwaier.com", 
             "wallornot.org", 
             "wallpapercasa.com", 
