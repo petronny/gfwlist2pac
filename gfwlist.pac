@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Mon, 27 Feb 2017 05:59:02 +0100
+ * GFWList Last-Modified: Tue, 28 Feb 2017 06:23:24 +0100
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -452,7 +452,6 @@ var rules = [
             "bannednews.org", 
             "barenakedislam.com", 
             "barnabu.co.uk", 
-            "barracuda.com", 
             "bartvpn.com", 
             "bastillepost.com", 
             "bayvoice.net", 
@@ -1315,6 +1314,7 @@ var rules = [
             "falun-ny.net", 
             "falunart.org", 
             "falunasia.info", 
+            "falunau.org", 
             "falundafa-dc.org", 
             "falundafa-florida.org", 
             "falundafa-nc.org", 
@@ -1409,6 +1409,7 @@ var rules = [
             "fleshbot.com", 
             "fleursdeslettres.com", 
             "flgg.us", 
+            "flgjustice.org", 
             "flickr.com", 
             "flickrhivemind.net", 
             "fling.com", 
