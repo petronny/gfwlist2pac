@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Wed, 01 Mar 2017 04:31:27 +0100
+ * GFWList Last-Modified: Wed, 08 Mar 2017 21:45:14 -0500
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1660,6 +1660,7 @@ var rules = [
             "golang.org", 
             "goldbet.com", 
             "goldbetsports.com", 
+            "goldeneyevault.com", 
             "goldenfrog.com", 
             "goldstep.net", 
             "goldwave.com", 
@@ -2012,6 +2013,7 @@ var rules = [
             "hentaivideoworld.com", 
             "heqinglian.net", 
             "heungkongdiscuss.com", 
+            "hexieshe.com", 
             "hexxeh.net", 
             "heywire.com", 
             "heyzo.com", 
@@ -3240,7 +3242,9 @@ var rules = [
             "pimg.tw", 
             "pin6.com", 
             "ping.fm", 
+            "pinimg.com", 
             "pinoy-n.com", 
+            "pinterest.com", 
             "piposay.com", 
             "piraattilahti.org", 
             "piring.com", 
@@ -3451,6 +3455,7 @@ var rules = [
             "retweetist.com", 
             "retweetrank.com", 
             "reuters.com", 
+            "reutersmedia.net", 
             "revleft.com", 
             "revocationcheck.com", 
             "revver.com", 
@@ -3600,6 +3605,7 @@ var rules = [
             "sharpdaily.hk", 
             "sharpdaily.tw", 
             "shat-tibet.com", 
+            "shattered.io", 
             "sheikyermami.com", 
             "shellfire.de", 
             "shenshou.org", 
