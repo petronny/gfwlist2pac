@@ -1,7 +1,7 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Mon, 20 Mar 2017 21:25:21 -0400
- * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
+ * GFWList Last-Modified: Sat, 25 Mar 2017 08:27:21 -0400
+ * GFWList From: local[gfwlist.txt]
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -410,6 +410,7 @@ var rules = [
             "athenaeizou.com", 
             "atlaspost.com", 
             "atnext.com", 
+            "audionow.com", 
             "authorizeddns.net", 
             "authorizeddns.org", 
             "authorizeddns.us", 
@@ -1023,6 +1024,7 @@ var rules = [
             "deck.ly", 
             "decodet.co", 
             "deepmind.com", 
+            "deezer.com", 
             "definebabe.com", 
             "deja.com", 
             "delcamp.net", 
@@ -2901,6 +2903,7 @@ var rules = [
             "myfreshnet.com", 
             "myftp.info", 
             "myftp.name", 
+            "myiphide.com", 
             "mykomica.org", 
             "mylftv.com", 
             "mymaji.com", 
@@ -3369,6 +3372,7 @@ var rules = [
             "psblog.name", 
             "psiphon.ca", 
             "psiphon3.com", 
+            "psiphontoday.com", 
             "pts.org.tw", 
             "ptt.cc", 
             "pttvan.org", 
@@ -4747,6 +4751,7 @@ var rules = [
             "xml-training-guide.com", 
             "xmovies.com", 
             "xn--4gq171p.com", 
+            "xn--ngstr-lra8j.com", 
             "xnxx.com", 
             "xpdo.net", 
             "xpud.org", 
