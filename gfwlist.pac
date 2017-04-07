@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Sat, 25 Mar 2017 08:27:21 -0400
+ * GFWList Last-Modified: Thu, 06 Apr 2017 21:47:18 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -91,6 +91,7 @@ var rules = [
             "soso.com", 
             "stag.gov.tw", 
             "stdtime.gov.tw", 
+            "storage.googleapis.com", 
             "syniumsoftware.com", 
             "taitung-house.gov.tw", 
             "taobao.com", 
@@ -115,7 +116,6 @@ var rules = [
         [
             "030buy.com", 
             "0rz.tw", 
-            "0to255.com", 
             "1-apple.com.tw", 
             "1000giri.net", 
             "100ke.org", 
@@ -563,6 +563,7 @@ var rules = [
             "bloomfortune.com", 
             "blueangellive.com", 
             "bmfinn.com", 
+            "bnews.co", 
             "bnrmetal.com", 
             "boardreader.com", 
             "bod.asia", 
@@ -1376,6 +1377,8 @@ var rules = [
             "fc2cn.com", 
             "fc2web.com", 
             "fdbox.com", 
+            "fdc64.de", 
+            "fdc64.org", 
             "fdc89.jp", 
             "feedburner.com", 
             "feelssh.com", 
@@ -2690,6 +2693,7 @@ var rules = [
             "manicur4ik.ru", 
             "mansion.com", 
             "mansionpoker.com", 
+            "manta.com", 
             "maplew.com", 
             "marc.info", 
             "marguerite.su", 
@@ -3273,6 +3277,7 @@ var rules = [
             "pin6.com", 
             "ping.fm", 
             "pinimg.com", 
+            "pinkrod.com", 
             "pinoy-n.com", 
             "pinterest.com", 
             "piposay.com", 
