@@ -1,7 +1,7 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Thu, 06 Apr 2017 21:47:18 -0400
- * GFWList From: local[gfwlist.txt]
+ * GFWList Last-Modified: Thu, 13 Apr 2017 23:49:36 -0400
+ * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -415,6 +415,7 @@ var rules = [
             "authorizeddns.org", 
             "authorizeddns.us", 
             "avaaz.org", 
+            "avbody.tv", 
             "avcity.tv", 
             "avcool.com", 
             "avdb.in", 
@@ -509,6 +510,7 @@ var rules = [
             "bfnn.org", 
             "bfsh.hk", 
             "bgvpn.com", 
+            "bianlei.com", 
             "biantailajiao.com", 
             "biantailajiao.in", 
             "biblesforamerica.org", 
@@ -957,6 +959,7 @@ var rules = [
             "d1c37gjwa26taa.cloudfront.net", 
             "d2bay.com", 
             "d2pass.com", 
+            "d3c33hcgiwev3.cloudfront.net", 
             "d3rhr7kgmtrq1v.cloudfront.net", 
             "dabr.co.uk", 
             "dabr.eu", 
@@ -1067,6 +1070,7 @@ var rules = [
             "dlsite.com", 
             "dlsite.jp", 
             "dlyoutube.com", 
+            "dm530.net", 
             "dmcdn.net", 
             "dmhy.org", 
             "dmm.co.jp", 
@@ -1329,6 +1333,7 @@ var rules = [
             "falundafa-florida.org", 
             "falundafa-nc.org", 
             "falundafa-pa.net", 
+            "falundafa-sacramento.org", 
             "falundafa.org", 
             "falundafaindia.org", 
             "falundafamuseum.org", 
@@ -2441,6 +2446,7 @@ var rules = [
             "jqueryui.com", 
             "jubushoushen.com", 
             "juhuaren.com", 
+            "jukujo-club.com", 
             "juliepost.com", 
             "juliereyc.com", 
             "junauza.com", 
@@ -2468,6 +2474,7 @@ var rules = [
             "kagyuoffice.org.tw", 
             "kaiyuan.de", 
             "kakao.com", 
+            "kalachakralugano.org", 
             "kangye.org", 
             "kankan.today", 
             "kannewyork.com", 
@@ -3812,6 +3819,7 @@ var rules = [
             "squirly.info", 
             "srocket.us", 
             "ss-link.com", 
+            "ssglobal.me", 
             "ssh91.com", 
             "ssl443.org", 
             "sspro.ml", 
@@ -4579,6 +4587,7 @@ var rules = [
             "webjb.org", 
             "weblagu.com", 
             "webmproject.org", 
+            "webpack.de", 
             "webrtc.org", 
             "webrush.net", 
             "webs-tv.net", 
