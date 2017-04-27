@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Thu, 13 Apr 2017 23:49:36 -0400
+ * GFWList Last-Modified: Wed, 26 Apr 2017 21:47:42 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -203,6 +203,7 @@ var rules = [
             "7cow.com", 
             "8-d.com", 
             "85cc.net", 
+            "85cc.us", 
             "85st.com", 
             "881903.com", 
             "888.com", 
@@ -338,6 +339,7 @@ var rules = [
             "annatam.com", 
             "anobii.com", 
             "anontext.com", 
+            "anonymise.us", 
             "anonymitynetwork.com", 
             "anonymizer.com", 
             "anpopo.com", 
@@ -1599,6 +1601,7 @@ var rules = [
             "geekerhome.com", 
             "geekheart.info", 
             "geekmanuals.com", 
+            "gekikame.com", 
             "gelbooru.com", 
             "geocities.co.jp", 
             "geocities.com", 
@@ -1818,6 +1821,7 @@ var rules = [
             "google.dz", 
             "google.ee", 
             "google.es", 
+            "google.eu", 
             "google.fi", 
             "google.fm", 
             "google.fr", 
@@ -2524,6 +2528,7 @@ var rules = [
             "kodingen.com", 
             "kompozer.net", 
             "konachan.com", 
+            "kone.com", 
             "koolsolutions.com", 
             "koornk.com", 
             "koranmandarin.com", 
@@ -2701,6 +2706,7 @@ var rules = [
             "mansion.com", 
             "mansionpoker.com", 
             "manta.com", 
+            "map.fastly.net", 
             "maplew.com", 
             "marc.info", 
             "marguerite.su", 
@@ -3085,6 +3091,7 @@ var rules = [
             "nukistream.com", 
             "nurgo-software.com", 
             "nusatrip.com", 
+            "nutaku.net", 
             "nuuvem.com", 
             "nuvid.com", 
             "nuzcom.com", 
@@ -3095,6 +3102,7 @@ var rules = [
             "nydus.ca", 
             "nylon-angel.com", 
             "nylonstockingsonline.com", 
+            "nyt.com", 
             "nytchina.com", 
             "nytcn.me", 
             "nytco.com", 
@@ -3514,6 +3522,7 @@ var rules = [
             "rigpa.org", 
             "riku.me", 
             "rileyguide.com", 
+            "riseup.net", 
             "ritouki.jp", 
             "rlwlw.com", 
             "rmjdw.com", 
@@ -3885,6 +3894,7 @@ var rules = [
             "suoluo.org", 
             "superpages.com", 
             "supervpn.net", 
+            "suppig.net", 
             "suprememastertv.com", 
             "surfeasy.com", 
             "surfeasy.com.au", 
@@ -4678,6 +4688,7 @@ var rules = [
             "woesermiddle-way.net", 
             "wokar.org", 
             "wolfax.com", 
+            "woolyss.com", 
             "woopie.jp", 
             "woopie.tv", 
             "wordpress.com", 
