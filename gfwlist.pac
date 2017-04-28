@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Wed, 26 Apr 2017 21:47:42 -0400
+ * GFWList Last-Modified: Fri, 28 Apr 2017 00:13:35 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2138,6 +2138,7 @@ var rules = [
             "hongzhi.li", 
             "hootsuite.com", 
             "hoovers.com", 
+            "hopedialogue.org", 
             "hopto.org", 
             "hornygamer.com", 
             "hotav.tv", 
@@ -3833,6 +3834,7 @@ var rules = [
             "ssl443.org", 
             "sspro.ml", 
             "sss.camp", 
+            "sstmlt.moe", 
             "sstmlt.net", 
             "stackoverflow.com", 
             "stage64.hk", 
