@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Fri, 28 Apr 2017 00:13:35 -0400
+ * GFWList Last-Modified: Tue, 16 May 2017 04:12:05 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1226,6 +1226,7 @@ var rules = [
             "emule-ed2k.com", 
             "emulefans.com", 
             "emuparadise.me", 
+            "enanyang.my", 
             "enewstree.com", 
             "enfal.de", 
             "engadget.com", 
@@ -1616,6 +1617,7 @@ var rules = [
             "getfoxyproxy.org", 
             "getfreedur.com", 
             "getgom.com", 
+            "geti2p.net", 
             "getiton.com", 
             "getjetso.com", 
             "getlantern.org", 
@@ -2121,6 +2123,7 @@ var rules = [
             "hkvwet.com", 
             "hkwcc.org.hk", 
             "hkzone.org", 
+            "hmonghot.com", 
             "hmvdigital.ca", 
             "hmvdigital.com", 
             "hnjhj.com", 
@@ -3097,6 +3100,7 @@ var rules = [
             "nuvid.com", 
             "nuzcom.com", 
             "nvquan.org", 
+            "nvtongzhisheng.org", 
             "nwtca.org", 
             "nyaa.eu", 
             "nyaa.se", 
