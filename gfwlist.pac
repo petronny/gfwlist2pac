@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Tue, 16 May 2017 04:12:05 -0400
+ * GFWList Last-Modified: Sat, 10 Jun 2017 23:00:50 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -371,6 +371,7 @@ var rules = [
             "aplusvpn.com", 
             "appdownloader.net", 
             "appledaily.com", 
+            "appshopper.com", 
             "appsocks.net", 
             "appspot.com", 
             "appsto.re", 
@@ -544,6 +545,7 @@ var rules = [
             "blockcn.com", 
             "blockless.com", 
             "blog.de", 
+            "blog.google", 
             "blog.jp", 
             "blogblog.com", 
             "blogcatalog.com", 
@@ -1236,6 +1238,7 @@ var rules = [
             "enlighten.org.tw", 
             "entermap.com", 
             "entnt.com", 
+            "environment.google", 
             "epac.to", 
             "episcopalchurch.org", 
             "epochhk.com", 
@@ -4269,6 +4272,7 @@ var rules = [
             "tvmost.com.hk", 
             "tvplayvideos.com", 
             "tvunetworks.com", 
+            "tw-blog.com", 
             "tw-npo.org", 
             "tw01.org", 
             "twaitter.com", 
