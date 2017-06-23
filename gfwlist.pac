@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Sat, 10 Jun 2017 23:00:50 -0400
+ * GFWList Last-Modified: Fri, 23 Jun 2017 06:53:11 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1040,6 +1040,7 @@ var rules = [
             "democrats.org", 
             "derekhsu.homeip.net", 
             "desc.se", 
+            "design.google", 
             "desipro.de", 
             "dessci.com", 
             "destroy-china.jp", 
@@ -1949,6 +1950,7 @@ var rules = [
             "grandtrial.org", 
             "grangorz.org", 
             "graphis.ne.jp", 
+            "graphql.org", 
             "graylog2.org", 
             "greasespot.net", 
             "great-firewall.com", 
@@ -2255,7 +2257,6 @@ var rules = [
             "ied2k.net", 
             "ienergy1.com", 
             "ifanqiang.com", 
-            "ifanr.com", 
             "ifcss.org", 
             "ifjc.org", 
             "ifreewares.com", 
@@ -3541,6 +3542,7 @@ var rules = [
             "roc-taiwan.org", 
             "rocket-inc.net", 
             "rocketbbs.com", 
+            "rocksdb.org", 
             "rocmp.org", 
             "rojo.com", 
             "rolia.net", 
@@ -4244,6 +4246,7 @@ var rules = [
             "tumview.com", 
             "tunein.com", 
             "tunnelbear.com", 
+            "tuo8.blue", 
             "tuo8.cc", 
             "tuo8.club", 
             "tuo8.fit", 
