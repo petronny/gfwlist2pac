@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Fri, 23 Jun 2017 06:53:11 -0400
+ * GFWList Last-Modified: Wed, 12 Jul 2017 22:45:42 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
