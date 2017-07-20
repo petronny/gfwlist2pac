@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Mon, 17 Jul 2017 06:31:02 -0400
+ * GFWList Last-Modified: Wed, 19 Jul 2017 21:51:32 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -457,6 +457,7 @@ var rules = [
             "bangyoulater.com", 
             "bannedbook.org", 
             "bannednews.org", 
+            "banorte.com", 
             "barenakedislam.com", 
             "barnabu.co.uk", 
             "bartvpn.com", 
@@ -741,6 +742,7 @@ var rules = [
             "changeip.org", 
             "changp.com", 
             "changsa.net", 
+            "channel8news.sg", 
             "chapm25.com", 
             "chatnook.com", 
             "chaturbate.com", 
@@ -1440,6 +1442,7 @@ var rules = [
             "flgjustice.org", 
             "flickr.com", 
             "flickrhivemind.net", 
+            "flickriver.com", 
             "fling.com", 
             "flipboard.com", 
             "flipkart.com", 
@@ -1458,7 +1461,6 @@ var rules = [
             "forum4hk.com", 
             "forums-free.com", 
             "fotile.me", 
-            "fotop.net", 
             "fourthinternational.org", 
             "foxbusiness.com", 
             "foxdie.us", 
@@ -1591,6 +1593,7 @@ var rules = [
             "gardennetworks.com", 
             "gardennetworks.org", 
             "gartlive.com", 
+            "gate-project.com", 
             "gather.com", 
             "gati.org.tw", 
             "gaybubble.com", 
@@ -2508,6 +2511,7 @@ var rules = [
             "kebrum.com", 
             "kechara.com", 
             "keepandshare.com", 
+            "keezmovies.com", 
             "kendatire.com", 
             "kendincos.net", 
             "kenengba.com", 
