@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Wed, 19 Jul 2017 21:51:32 -0400
+ * GFWList Last-Modified: Sun, 23 Jul 2017 22:47:48 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -101,6 +101,7 @@ var rules = [
             "thbstc.gov.tw", 
             "tncsec.gov.tw", 
             "tphcc.gov.tw", 
+            "uluai.com.cn", 
             "vghks.gov.tw", 
             "vghtc.gov.tw", 
             "vghtpe.gov.tw", 
@@ -1544,6 +1545,7 @@ var rules = [
             "ftchinese.com", 
             "ftp1.biz", 
             "ftpserver.biz", 
+            "ftv.com.tw", 
             "fucd.com", 
             "fuckcnnic.net", 
             "fuckgfw.org", 
@@ -2404,6 +2406,7 @@ var rules = [
             "jandyx.com", 
             "janwongphoto.com", 
             "japan-whores.com", 
+            "jav101.com", 
             "jav2be.com", 
             "jav68.tv", 
             "javakiba.org", 
@@ -4385,6 +4388,7 @@ var rules = [
             "tycool.com", 
             "typepad.com", 
             "tzangms.com", 
+            "u9un.com", 
             "ub0.cc", 
             "ubddns.org", 
             "uberproxy.net", 
