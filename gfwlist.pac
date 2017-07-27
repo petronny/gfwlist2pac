@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Sun, 23 Jul 2017 22:47:48 -0400
+ * GFWList Last-Modified: Wed, 26 Jul 2017 23:27:10 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -501,6 +501,7 @@ var rules = [
             "berlintwitterwall.com", 
             "berm.co.nz", 
             "bestforchina.org", 
+            "bestgore.com", 
             "bestvpn.com", 
             "bestvpnserver.com", 
             "bestvpnservice.com", 
@@ -3120,6 +3121,7 @@ var rules = [
             "nuuvem.com", 
             "nuvid.com", 
             "nuzcom.com", 
+            "nvdst.com", 
             "nvquan.org", 
             "nvtongzhisheng.org", 
             "nwtca.org", 
