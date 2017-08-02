@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Wed, 26 Jul 2017 23:27:10 -0400
+ * GFWList Last-Modified: Wed, 02 Aug 2017 00:55:01 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -132,7 +132,10 @@ var rules = [
             "173ng.com", 
             "177pic.info", 
             "17t17p.com", 
+            "18board.com", 
+            "18board.info", 
             "18onlygirls.com", 
+            "18p2p.com", 
             "18virginsex.com", 
             "1949er.org", 
             "1984.city", 
@@ -407,6 +410,7 @@ var rules = [
             "askstudent.com", 
             "askynz.net", 
             "assembla.com", 
+            "assimp.org", 
             "astrill.com", 
             "atc.org.au", 
             "atchinese.com", 
@@ -1036,6 +1040,7 @@ var rules = [
             "de-sci.org", 
             "deaftone.com", 
             "debian.org", 
+            "debug.com", 
             "deck.ly", 
             "decodet.co", 
             "deepmind.com", 
@@ -2348,6 +2353,7 @@ var rules = [
             "ippotv.com", 
             "ipredator.se", 
             "iptv.com.tw", 
+            "iptvbin.com", 
             "ipvanish.com", 
             "iredmail.org", 
             "irib.ir", 
@@ -4314,6 +4320,7 @@ var rules = [
             "tweetbackup.com", 
             "tweetboard.com", 
             "tweetboner.biz", 
+            "tweetcs.com", 
             "tweetdeck.com", 
             "tweetedtimes.com", 
             "tweetmylast.fm", 
