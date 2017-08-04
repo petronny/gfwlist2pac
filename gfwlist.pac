@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Wed, 02 Aug 2017 00:55:01 -0400
+ * GFWList Last-Modified: Thu, 03 Aug 2017 23:28:09 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -947,6 +947,7 @@ var rules = [
             "crossthewall.net", 
             "csdparty.com", 
             "csuchen.de", 
+            "csw.org.uk", 
             "ctao.org", 
             "ctfriend.net", 
             "cthlo.github.io", 
@@ -1021,6 +1022,7 @@ var rules = [
             "data-vocabulary.org", 
             "daum.net", 
             "david-kilgour.com", 
+            "dawangidc.com", 
             "daxa.cn", 
             "dayabook.com", 
             "daylife.com", 
@@ -1245,6 +1247,7 @@ var rules = [
             "enewstree.com", 
             "enfal.de", 
             "engadget.com", 
+            "engagedaily.org", 
             "englishforeveryone.org", 
             "englishfromengland.co.uk", 
             "englishpen.org", 
@@ -1484,6 +1487,7 @@ var rules = [
             "freakshare.com", 
             "free-gate.org", 
             "free-hada-now.org", 
+            "free-proxy.cz", 
             "free-ssh.com", 
             "free.fr", 
             "free4u.com.ar", 
@@ -2285,6 +2289,7 @@ var rules = [
             "ihakka.net", 
             "ihao.org", 
             "iicns.com", 
+            "ikstar.com", 
             "ikwb.com", 
             "illusionfactory.com", 
             "ilove80.be", 
@@ -4309,6 +4314,7 @@ var rules = [
             "twaitter.com", 
             "twapperkeeper.com", 
             "twaud.io", 
+            "twavi.com", 
             "twbbs.net.tw", 
             "twbbs.org", 
             "twbbs.tw", 
@@ -4769,6 +4775,7 @@ var rules = [
             "wujie.net", 
             "wujieliulan.com", 
             "wukangrui.net", 
+            "wwe.com", 
             "wwitv.com", 
             "www1.biz", 
             "wwwhost.biz", 
