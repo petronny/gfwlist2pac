@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Thu, 10 Aug 2017 01:07:41 -0400
+ * GFWList Last-Modified: Sun, 13 Aug 2017 00:10:01 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3488,6 +3488,7 @@ var rules = [
             "qtrac.eu", 
             "qtweeter.com", 
             "quannengshen.org", 
+            "quantumbooter.net", 
             "questvisual.com", 
             "quitccp.net", 
             "quitccp.org", 
