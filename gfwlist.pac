@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Sun, 13 Aug 2017 00:10:01 -0400
+ * GFWList Last-Modified: Tue, 15 Aug 2017 03:17:03 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1652,6 +1652,7 @@ var rules = [
             "getmdl.io", 
             "getsmartlinks.com", 
             "getsocialscope.com", 
+            "getsync.com", 
             "gettrials.com", 
             "gettyimages.com", 
             "getuploader.com", 
@@ -2579,9 +2580,11 @@ var rules = [
             "kusocity.com", 
             "kwcg.ca", 
             "kwongwah.com.my", 
+            "kxsw.life", 
             "kyofun.com", 
             "kyohk.net", 
             "kyoyue.com", 
+            "kyzyhello.com", 
             "kzeng.info", 
             "la-forum.org", 
             "labiennale.org", 
@@ -3346,7 +3349,16 @@ var rules = [
             "pinimg.com", 
             "pinkrod.com", 
             "pinoy-n.com", 
+            "pinterest.at", 
+            "pinterest.co.kr", 
+            "pinterest.co.uk", 
             "pinterest.com", 
+            "pinterest.de", 
+            "pinterest.dk", 
+            "pinterest.fr", 
+            "pinterest.jp", 
+            "pinterest.nl", 
+            "pinterest.se", 
             "piposay.com", 
             "piraattilahti.org", 
             "piring.com", 
@@ -3526,6 +3538,7 @@ var rules = [
             "rapidvpn.com", 
             "raremovie.cc", 
             "raremovie.net", 
+            "raw.githubusercontent.com", 
             "razyboard.com", 
             "rcinet.ca", 
             "rd.com", 
@@ -3558,6 +3571,7 @@ var rules = [
             "renminbao.com", 
             "renyurenquan.org", 
             "rerouted.org", 
+            "resilio.com", 
             "retweeteffect.com", 
             "retweetist.com", 
             "retweetrank.com", 
@@ -4624,7 +4638,6 @@ var rules = [
             "vs.com", 
             "vtunnel.com", 
             "vuku.cc", 
-            "w.org", 
             "w3.org", 
             "waffle1999.com", 
             "wahas.com", 
