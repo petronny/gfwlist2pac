@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Tue, 15 Aug 2017 03:17:03 -0400
+ * GFWList Last-Modified: Sat, 19 Aug 2017 02:24:24 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3853,6 +3853,7 @@ var rules = [
             "sokamonline.com", 
             "sokmil.com", 
             "solidaritetibet.org", 
+            "solidfiles.com", 
             "somee.com", 
             "songjianjun.com", 
             "sonicbbs.cc", 
@@ -3964,6 +3965,7 @@ var rules = [
             "sunta.com.tw", 
             "sunvpn.net", 
             "suoluo.org", 
+            "superokayama.com", 
             "superpages.com", 
             "supervpn.net", 
             "suppig.net", 
@@ -4924,6 +4926,7 @@ var rules = [
             "yingsuoss.com", 
             "yinlei.org", 
             "yipub.com", 
+            "yizhihongxing.com", 
             "yobt.com", 
             "yogichen.org", 
             "yong.hu", 
