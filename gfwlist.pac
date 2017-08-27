@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Sat, 19 Aug 2017 02:24:24 -0400
+ * GFWList Last-Modified: Sun, 27 Aug 2017 01:35:30 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -366,6 +366,7 @@ var rules = [
             "aomiwang.com", 
             "ap.org", 
             "apetube.com", 
+            "api.ai", 
             "apiary.io", 
             "apigee.com", 
             "apk-dl.com", 
@@ -1355,6 +1356,7 @@ var rules = [
             "falunart.org", 
             "falunasia.info", 
             "falunau.org", 
+            "falunaz.net", 
             "falundafa-dc.org", 
             "falundafa-florida.org", 
             "falundafa-nc.org", 
@@ -1380,6 +1382,7 @@ var rules = [
             "fangmincn.org", 
             "fangong.org", 
             "fangongheike.com", 
+            "fanhaodang.com", 
             "fanqiang.tk", 
             "fanqianghou.com", 
             "fanqiangyakexi.net", 
@@ -3175,6 +3178,7 @@ var rules = [
             "ocry.com", 
             "october-review.org", 
             "oculus.com", 
+            "oculuscdn.com", 
             "offbeatchina.com", 
             "officeoftibet.com", 
             "ofile.org", 
@@ -4723,6 +4727,7 @@ var rules = [
             "wha.la", 
             "whatblocked.com", 
             "whatbrowser.org", 
+            "whatsapp.net", 
             "wheatseeds.org", 
             "wheelockslatin.com", 
             "whereiswerner.com", 
@@ -4871,6 +4876,7 @@ var rules = [
             "xpud.org", 
             "xrentdvd.com", 
             "xskywalker.com", 
+            "xskywalker.net", 
             "xtube.com", 
             "xuchao.net", 
             "xuchao.org", 
