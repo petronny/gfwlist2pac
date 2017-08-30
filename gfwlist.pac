@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Mon, 28 Aug 2017 08:20:33 -0400
+ * GFWList Last-Modified: Wed, 30 Aug 2017 09:03:46 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -548,6 +548,7 @@ var rules = [
             "bl-doujinsouko.com", 
             "blacklogic.com", 
             "blackvpn.com", 
+            "blewpass.com", 
             "blingblingsquad.net", 
             "blinkx.com", 
             "blinw.com", 
@@ -615,6 +616,7 @@ var rules = [
             "brazzers.com", 
             "break.com", 
             "breakgfw.com", 
+            "breaking911.com", 
             "breakingtweets.com", 
             "breakwall.net", 
             "briefdream.com", 
@@ -939,6 +941,7 @@ var rules = [
             "cpj.org", 
             "cq99.us", 
             "crackle.com", 
+            "crazys.cc", 
             "crchina.org", 
             "crd-net.org", 
             "creaders.net", 
@@ -951,6 +954,7 @@ var rules = [
             "csdparty.com", 
             "csuchen.de", 
             "csw.org.uk", 
+            "ct.org.tw", 
             "ctao.org", 
             "ctfriend.net", 
             "cthlo.github.io", 
@@ -1188,6 +1192,8 @@ var rules = [
             "dyndns.org", 
             "dyndns.pro", 
             "dynssl.com", 
+            "dynu.com", 
+            "dynu.net", 
             "dzze.com", 
             "e-classical.com.tw", 
             "e-gold.com", 
@@ -1505,6 +1511,7 @@ var rules = [
             "freechal.com", 
             "freechina.net", 
             "freeddns.com", 
+            "freeddns.org", 
             "freedomchina.info", 
             "freedomcollection.org", 
             "freedomhouse.org", 
@@ -2460,6 +2467,7 @@ var rules = [
             "jiehua.cz", 
             "jiepang.com", 
             "jieshibaobao.com", 
+            "jigglegifs.com", 
             "jigong1024.com", 
             "jigsy.com", 
             "jims.net", 
@@ -2886,6 +2894,7 @@ var rules = [
             "mog.com", 
             "molihua.org", 
             "mondex.org", 
+            "money-link.com.tw", 
             "moneyhome.biz", 
             "monitorchina.org", 
             "monitorware.com", 
@@ -3026,6 +3035,7 @@ var rules = [
             "ned.org", 
             "nekoslovakia.net", 
             "neo-miracle.com", 
+            "nepusoku.com", 
             "netbig.com", 
             "netbirds.com", 
             "netcolony.com", 
@@ -3662,6 +3672,7 @@ var rules = [
             "savetibet.nl", 
             "savetibet.org", 
             "savetibet.ru", 
+            "savetibetstore.org", 
             "savevid.com", 
             "say2.info", 
             "sbme.me", 
@@ -4742,6 +4753,7 @@ var rules = [
             "wikia.com", 
             "wikileaks-forum.com", 
             "wikileaks.ch", 
+            "wikileaks.com", 
             "wikileaks.de", 
             "wikileaks.eu", 
             "wikileaks.lu", 
