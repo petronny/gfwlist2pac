@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Wed, 30 Aug 2017 09:03:46 -0400
+ * GFWList Last-Modified: Thu, 31 Aug 2017 23:15:11 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -298,6 +298,7 @@ var rules = [
             "allfinegirls.com", 
             "allgirlmassage.com", 
             "allgirlsallowed.org", 
+            "allgravure.com", 
             "alliance.org.hk", 
             "allinfa.com", 
             "alljackpotscasino.com", 
@@ -1974,6 +1975,7 @@ var rules = [
             "goproxing.net", 
             "gospelherald.com", 
             "got-game.org", 
+            "gotdns.ch", 
             "gotgeeks.com", 
             "gotrusted.com", 
             "gotw.ca", 
@@ -2350,6 +2352,7 @@ var rules = [
             "inoreader.com", 
             "inote.tw", 
             "insecam.org", 
+            "insidevoa.com", 
             "instagram.com", 
             "instanthq.com", 
             "institut-tibetain.org", 
@@ -3782,6 +3785,7 @@ var rules = [
             "sijihuisuo.club", 
             "sijihuisuo.com", 
             "silkbook.com", 
+            "simbolostwitter.com", 
             "simplecd.org", 
             "simpleproductivityblog.com", 
             "sina.com", 
@@ -3980,6 +3984,7 @@ var rules = [
             "sunta.com.tw", 
             "sunvpn.net", 
             "suoluo.org", 
+            "superfreevpn.com", 
             "superokayama.com", 
             "superpages.com", 
             "supervpn.net", 
