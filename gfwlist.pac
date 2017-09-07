@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Sat, 02 Sep 2017 04:12:46 -0400
+ * GFWList Last-Modified: Thu, 07 Sep 2017 01:03:31 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2292,6 +2292,7 @@ var rules = [
             "iconpaper.org", 
             "icu-project.org", 
             "idaiwan.com", 
+            "iddddg.com", 
             "idemocracy.asia", 
             "identi.ca", 
             "idiomconnection.com", 
@@ -3671,6 +3672,7 @@ var rules = [
             "s1heng.com", 
             "s1s1s1.com", 
             "s3-ap-northeast-1.amazonaws.com", 
+            "s3.amazonaws.com", 
             "s4miniarchive.com", 
             "s8forum.com", 
             "saboom.com", 
@@ -3731,6 +3733,7 @@ var rules = [
             "sendsmtp.com", 
             "sendspace.com", 
             "seraph.me", 
+            "servehttp.com", 
             "serveuser.com", 
             "serveusers.com", 
             "sesawe.net", 
@@ -3845,6 +3848,7 @@ var rules = [
             "skynet.be", 
             "skype.com", 
             "skyvegas.com", 
+            "skyxvpn.com", 
             "slacker.com", 
             "slandr.net", 
             "slaytizle.com", 
@@ -4490,6 +4494,7 @@ var rules = [
             "uchicago.edu", 
             "uderzo.it", 
             "udn.com", 
+            "udn.com.tw", 
             "udnbkk.com", 
             "uforadio.com.tw", 
             "ufreevpn.com", 
