@@ -1,7 +1,7 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Thu, 07 Sep 2017 01:03:31 -0400
- * GFWList From: local[gfwlist.txt]
+ * GFWList Last-Modified: Sat, 09 Sep 2017 03:01:52 -0400
+ * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1683,6 +1683,7 @@ var rules = [
             "ghost.org", 
             "ghostpath.com", 
             "ghut.org", 
+            "giantessnight.com", 
             "gifree.com", 
             "giga-web.jp", 
             "gigacircle.com", 
