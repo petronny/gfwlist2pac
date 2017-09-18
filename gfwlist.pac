@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Tue, 12 Sep 2017 23:22:43 -0400
+ * GFWList Last-Modified: Mon, 18 Sep 2017 03:23:01 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -245,6 +245,7 @@ var rules = [
             "afantibbs.com", 
             "agnesb.fr", 
             "agoogleaday.com", 
+            "agro.hk", 
             "ai-kan.net", 
             "ai-wen.net", 
             "aiph.net", 
@@ -527,6 +528,7 @@ var rules = [
             "bitcointalk.org", 
             "bitshare.com", 
             "bitsnoop.com", 
+            "bitvise.com", 
             "bizhat.com", 
             "bjnewlife.org", 
             "bjs.org", 
@@ -3384,6 +3386,7 @@ var rules = [
             "piraattilahti.org", 
             "piring.com", 
             "pixelqi.com", 
+            "pixiv.net", 
             "pixnet.in", 
             "pixnet.net", 
             "pk.com", 
