@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Mon, 18 Sep 2017 03:23:01 -0400
+ * GFWList Last-Modified: Thu, 21 Sep 2017 07:51:19 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -36,6 +36,12 @@ var rules = [
             "iner.gov.tw", 
             "jd.com", 
             "jike.com", 
+            "khm.googleapis.com", 
+            "khm0.googleapis.com", 
+            "khm1.googleapis.com", 
+            "khm2.googleapis.com", 
+            "khm3.googleapis.com", 
+            "khmdb.googleapis.com", 
             "klsio.gov.tw", 
             "kmseh.gov.tw", 
             "locql.com", 
@@ -287,6 +293,7 @@ var rules = [
             "allinfa.com", 
             "alljackpotscasino.com", 
             "allmovie.com", 
+            "allowed.org", 
             "almostmy.com", 
             "alphaporno.com", 
             "alternate-tools.com", 
@@ -1676,7 +1683,6 @@ var rules = [
             "giganews.com", 
             "gigporno.ru", 
             "girlbanker.com", 
-            "git-scm.com", 
             "git.io", 
             "gitbooks.io", 
             "github.com", 
@@ -2567,6 +2573,7 @@ var rules = [
             "kinghost.com", 
             "kingstone.com.tw", 
             "kink.com", 
+            "kinmen.org.tw", 
             "kir.jp", 
             "kissbbao.cn", 
             "kiwi.kz", 
@@ -3156,6 +3163,7 @@ var rules = [
             "ntrfun.com", 
             "ntsna.gov.tw", 
             "ntu.edu.tw", 
+            "nu.nl", 
             "nubiles.net", 
             "nudezz.com", 
             "nuexpo.com", 
@@ -3410,6 +3418,7 @@ var rules = [
             "pokerstrategy.com", 
             "politicalchina.org", 
             "politicalconsultation.org", 
+            "poloniex.com", 
             "polymer-project.org", 
             "polymerhk.com", 
             "popo.tw", 
@@ -3926,6 +3935,7 @@ var rules = [
             "spike.com", 
             "spotflux.com", 
             "spotify.com", 
+            "spreadshirt.es", 
             "spring4u.info", 
             "springboardplatform.com", 
             "sprite.org", 
@@ -4676,6 +4686,7 @@ var rules = [
             "vporn.com", 
             "vpser.net", 
             "vraiesagesse.net", 
+            "vrmtr.com", 
             "vs.com", 
             "vtunnel.com", 
             "vuku.cc", 
@@ -4908,6 +4919,7 @@ var rules = [
             "xml-training-guide.com", 
             "xmovies.com", 
             "xn--4gq171p.com", 
+            "xn--czq75pvv1aj5c.org", 
             "xn--i2ru8q2qg.com", 
             "xn--ngstr-lra8j.com", 
             "xnxx.com", 
