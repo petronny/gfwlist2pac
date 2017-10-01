@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Sat, 23 Sep 2017 23:42:29 -0400
+ * GFWList Last-Modified: Sat, 30 Sep 2017 22:18:59 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -292,6 +292,7 @@ var rules = [
             "alljackpotscasino.com", 
             "allmovie.com", 
             "allowed.org", 
+            "almasdarnews.com", 
             "almostmy.com", 
             "alphaporno.com", 
             "alternate-tools.com", 
@@ -650,6 +651,7 @@ var rules = [
             "bvpn.com", 
             "bwsj.hk", 
             "bx.tl", 
+            "bynet.co.il", 
             "c-est-simple.com", 
             "c-spanvideo.org", 
             "c100tibet.org", 
@@ -2571,6 +2573,7 @@ var rules = [
             "khatrimaza.org", 
             "khmusic.com.tw", 
             "kichiku-doujinko.com", 
+            "kik.com", 
             "killwall.com", 
             "kimy.com.tw", 
             "kindleren.com", 
@@ -2670,6 +2673,7 @@ var rules = [
             "libertytimes.com.tw", 
             "libraryinformationtechnology.com", 
             "lidecheng.com", 
+            "lifemiles.com", 
             "lighten.org.tw", 
             "like.com", 
             "limiao.net", 
@@ -4134,6 +4138,7 @@ var rules = [
             "teeniefuck.net", 
             "teensinasia.com", 
             "telecomspace.com", 
+            "telegram.dog", 
             "telegram.org", 
             "telegramdownload.com", 
             "telegraph.co.uk", 
@@ -4802,6 +4807,7 @@ var rules = [
             "wheretowatch.com", 
             "whippedass.com", 
             "whodns.xyz", 
+            "whoer.net", 
             "whotalking.com", 
             "whylover.com", 
             "whyx.org", 
