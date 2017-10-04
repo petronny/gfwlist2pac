@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Sat, 30 Sep 2017 22:18:59 -0400
+ * GFWList Last-Modified: Wed, 04 Oct 2017 01:04:35 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -936,7 +936,7 @@ var rules = [
             "cos-moe.com", 
             "cosplayjav.pl", 
             "cotweet.com", 
-            "couchdbwiki.com", 
+            "coursehero.com", 
             "cpj.org", 
             "cq99.us", 
             "crackle.com", 
@@ -1292,6 +1292,7 @@ var rules = [
             "eporner.com", 
             "equinenow.com", 
             "erabaru.net", 
+            "eracom.com.tw", 
             "eraysoft.com.tr", 
             "erepublik.com", 
             "erights.net", 
@@ -3759,6 +3760,7 @@ var rules = [
             "sesawe.org", 
             "sethwklein.net", 
             "setn.com", 
+            "settv.com.tw", 
             "setty.com.tw", 
             "sevenload.com", 
             "sex-11.com", 
@@ -4059,6 +4061,7 @@ var rules = [
             "szbbs.net", 
             "szetowah.org.hk", 
             "t.co", 
+            "t.me", 
             "t35.com", 
             "t66y.com", 
             "taa-usa.org", 
@@ -4315,6 +4318,7 @@ var rules = [
             "tonyyan.net", 
             "toodoc.com", 
             "toonel.net", 
+            "top.tv", 
             "top81.ws", 
             "topnews.in", 
             "topshareware.com", 
@@ -4894,6 +4898,7 @@ var rules = [
             "wujie.net", 
             "wujieliulan.com", 
             "wukangrui.net", 
+            "wuw.red", 
             "wwe.com", 
             "wwitv.com", 
             "www1.biz", 
