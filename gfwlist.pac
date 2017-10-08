@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Wed, 04 Oct 2017 01:04:35 -0400
+ * GFWList Last-Modified: Sun, 08 Oct 2017 08:12:40 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3121,6 +3121,7 @@ var rules = [
             "nhi.gov.tw", 
             "nhk-ondemand.jp", 
             "nic.google", 
+            "nic.gov", 
             "nicovideo.jp", 
             "nighost.org", 
             "nightlife141.com", 
@@ -5097,7 +5098,6 @@ var rules = [
             "zillionk.com", 
             "zim.vn", 
             "zinio.com", 
-            "ziplib.com", 
             "ziporn.com", 
             "zkaip.com", 
             "zkiz.com", 
