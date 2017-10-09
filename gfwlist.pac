@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Sun, 08 Oct 2017 08:12:40 -0400
+ * GFWList Last-Modified: Sun, 08 Oct 2017 23:22:32 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -924,6 +924,7 @@ var rules = [
             "compileheart.com", 
             "compress.to", 
             "compython.net", 
+            "conoha.jp", 
             "contactmagazine.net", 
             "convio.net", 
             "coobay.com", 
@@ -2379,6 +2380,7 @@ var rules = [
             "iownyour.biz", 
             "iownyour.org", 
             "ipalter.com", 
+            "ipfire.org", 
             "iphone4hongkong.com", 
             "iphonehacks.com", 
             "iphonetaiwan.org", 
@@ -2548,6 +2550,7 @@ var rules = [
             "kankan.today", 
             "kannewyork.com", 
             "kanshifang.com", 
+            "kantie.org", 
             "kanzhongguo.com", 
             "kanzhongguo.eu", 
             "kaotic.com", 
@@ -3547,6 +3550,7 @@ var rules = [
             "qgirl.com.tw", 
             "qhigh.com", 
             "qi-gong.me", 
+            "qiandao.today", 
             "qidian.ca", 
             "qienkuen.org", 
             "qiwen.lu", 
@@ -4136,6 +4140,7 @@ var rules = [
             "tcnynj.org", 
             "tcsofbc.org", 
             "tcsovi.org", 
+            "tdesktop.com", 
             "teachparentstech.org", 
             "teamamericany.com", 
             "teck.in", 
@@ -4143,6 +4148,7 @@ var rules = [
             "teensinasia.com", 
             "telecomspace.com", 
             "telegram.dog", 
+            "telegram.me", 
             "telegram.org", 
             "telegramdownload.com", 
             "telegraph.co.uk", 
