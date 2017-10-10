@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Sun, 08 Oct 2017 23:22:32 -0400
+ * GFWList Last-Modified: Tue, 10 Oct 2017 10:02:09 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2984,6 +2984,7 @@ var rules = [
             "my03.com", 
             "my903.com", 
             "myactimes.com", 
+            "myanniu.com", 
             "myaudiocast.com", 
             "myav.com.tw", 
             "mybbs.us", 
