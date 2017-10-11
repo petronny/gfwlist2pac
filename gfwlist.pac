@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Tue, 10 Oct 2017 10:02:09 -0400
+ * GFWList Last-Modified: Wed, 11 Oct 2017 10:45:07 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -74,6 +74,7 @@ var rules = [
             "sina.cn", 
             "sina.com.cn", 
             "siraya-nsa.gov.tw", 
+            "sl-reverse.com", 
             "so.com", 
             "sogou.com", 
             "soso.com", 
@@ -502,6 +503,7 @@ var rules = [
             "bestforchina.org", 
             "bestgore.com", 
             "bestvpn.com", 
+            "bestvpnanalysis.com", 
             "bestvpnserver.com", 
             "bestvpnservice.com", 
             "bestvpnusa.com", 
@@ -589,6 +591,7 @@ var rules = [
             "book.com.tw", 
             "bookepub.com", 
             "books.com.tw", 
+            "boomssr.com", 
             "bot.nu", 
             "botanwang.com", 
             "bowenpress.com", 
@@ -837,7 +840,6 @@ var rules = [
             "christusrex.org", 
             "chrlawyers.hk", 
             "chrome.com", 
-            "chromeadblock.com", 
             "chromecast.com", 
             "chromeexperiments.com", 
             "chromercise.com", 
@@ -2025,6 +2027,7 @@ var rules = [
             "guancha.org", 
             "guardster.com", 
             "guishan.org", 
+            "gumroad.com", 
             "gun-world.net", 
             "gunsamerica.com", 
             "gunsandammo.com", 
@@ -3205,7 +3208,7 @@ var rules = [
             "nvtongzhisheng.org", 
             "nwtca.org", 
             "nyaa.eu", 
-            "nyaa.se", 
+            "nyaa.si", 
             "nydus.ca", 
             "nylon-angel.com", 
             "nylonstockingsonline.com", 
@@ -4115,7 +4118,6 @@ var rules = [
             "tapanwap.com", 
             "tapatalk.com", 
             "taragana.com", 
-            "target.com", 
             "tascn.com.au", 
             "taup.net", 
             "taup.org.tw", 
@@ -4153,6 +4155,7 @@ var rules = [
             "telegram.org", 
             "telegramdownload.com", 
             "telegraph.co.uk", 
+            "tellme.pw", 
             "tenacy.com", 
             "tensorflow.org", 
             "tenzinpalmo.com", 
@@ -4705,6 +4708,7 @@ var rules = [
             "vpnintouch.net", 
             "vpnjack.com", 
             "vpnmaster.com", 
+            "vpnmentor.com", 
             "vpnpick.com", 
             "vpnpop.com", 
             "vpnpronet.com", 
@@ -4838,9 +4842,7 @@ var rules = [
             "wikinews.org", 
             "wikipedia.org", 
             "wikisource.org", 
-            "wikivoyage.org", 
             "wikiwiki.jp", 
-            "wiktionary.org", 
             "wildammo.com", 
             "williamhill.com", 
             "willw.net", 
