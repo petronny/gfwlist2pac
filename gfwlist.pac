@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Wed, 11 Oct 2017 10:45:07 -0400
+ * GFWList Last-Modified: Thu, 12 Oct 2017 08:15:23 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -34,6 +34,7 @@ var rules = [
             "hchcc.gov.tw", 
             "hsinchu-cc.gov.tw", 
             "iner.gov.tw", 
+            "ip.cn", 
             "jd.com", 
             "jike.com", 
             "khm.googleapis.com", 
@@ -531,6 +532,7 @@ var rules = [
             "billypan.com", 
             "billywr.com", 
             "bing.com", 
+            "binux.me", 
             "bipic.net", 
             "bit.do", 
             "bit.ly", 
@@ -1482,6 +1484,7 @@ var rules = [
             "flipkart.com", 
             "flitto.com", 
             "flnet.org", 
+            "flurry.com", 
             "fmnnow.com", 
             "fochk.org", 
             "focustaiwan.tw", 
@@ -2494,6 +2497,7 @@ var rules = [
             "jigong1024.com", 
             "jigsy.com", 
             "jihadology.net", 
+            "jiji.com", 
             "jims.net", 
             "jinbushe.org", 
             "jingpin.org", 
@@ -2702,6 +2706,7 @@ var rules = [
             "list-manage.com", 
             "listentoyoutube.com", 
             "listorious.com", 
+            "lithium.com", 
             "liudejun.com", 
             "liuhanyu.com", 
             "liujianshu.com", 
@@ -2927,6 +2932,7 @@ var rules = [
             "mog.com", 
             "mol.gov.tw", 
             "molihua.org", 
+            "monar.ch", 
             "mondex.org", 
             "money-link.com.tw", 
             "moneyhome.biz", 
@@ -3795,6 +3801,7 @@ var rules = [
             "shadowsocks-r.com", 
             "shadowsocks.asia", 
             "shadowsocks.com", 
+            "shadowsocks.com.hk", 
             "shadowsocks.org", 
             "shafaqna.com", 
             "shambalapost.com", 
@@ -3889,6 +3896,7 @@ var rules = [
             "slime.com.tw", 
             "slinkset.com", 
             "slutload.com", 
+            "slutmoonbeam.com", 
             "slyip.com", 
             "slyip.net", 
             "sm-miracle.com", 
@@ -4456,6 +4464,7 @@ var rules = [
             "tweettunnel.com", 
             "tweetwally.com", 
             "tweetymail.com", 
+            "tweez.net", 
             "twelve.today", 
             "twerkingbutt.com", 
             "twftp.org", 
@@ -4827,6 +4836,7 @@ var rules = [
             "whotalking.com", 
             "whylover.com", 
             "whyx.org", 
+            "widevine.com", 
             "wikaba.com", 
             "wikia.com", 
             "wikileaks-forum.com", 
