@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Thu, 12 Oct 2017 08:15:23 -0400
+ * GFWList Last-Modified: Thu, 12 Oct 2017 20:30:29 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -955,6 +955,7 @@ var rules = [
             "crocotube.com", 
             "crossfire.co.kr", 
             "crossthewall.net", 
+            "crrev.com", 
             "csdparty.com", 
             "csuchen.de", 
             "csw.org.uk", 
