@@ -1,6 +1,6 @@
 /**
  * genpac 1.4.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: Thu, 12 Oct 2017 20:30:29 -0400
+ * GFWList Last-Modified: Sat, 14 Oct 2017 10:10:46 -0400
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2687,6 +2687,7 @@ var rules = [
             "lidecheng.com", 
             "lifemiles.com", 
             "lighten.org.tw", 
+            "lightnovel.cn", 
             "like.com", 
             "limiao.net", 
             "line-apps.com", 
@@ -3082,6 +3083,7 @@ var rules = [
             "nekoslovakia.net", 
             "neo-miracle.com", 
             "nepusoku.com", 
+            "net-fits.pro", 
             "netbig.com", 
             "netbirds.com", 
             "netcolony.com", 
