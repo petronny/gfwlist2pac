@@ -1,6 +1,6 @@
 /**
  * genpac 2.0b2 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-10-16 16:52:33
+ * GFWList Last-Modified: 2017-10-17 18:45:25
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -696,6 +696,7 @@ var rules = [
             "cari.com.my", 
             "caribbeancom.com", 
             "carmotorshow.com", 
+            "carryzhou.com", 
             "cartoonmovement.com", 
             "casadeltibetbcn.org", 
             "casatibet.org.mx", 
@@ -2086,6 +2087,7 @@ var rules = [
             "hautelookcdn.com", 
             "have8.com", 
             "hclips.com", 
+            "hdlt.me", 
             "hdtvb.net", 
             "hdzog.com", 
             "heartyit.com", 
@@ -2120,6 +2122,7 @@ var rules = [
             "hidden-advent.org", 
             "hide.me", 
             "hidecloud.com", 
+            "hidein.net", 
             "hideipvpn.com", 
             "hideman.net", 
             "hideme.nl", 
@@ -2777,6 +2780,7 @@ var rules = [
             "lvhai.org", 
             "lvv2.com", 
             "lyfhk.net", 
+            "lzmtnews.org", 
             "m-sport.co.uk", 
             "m-team.cc", 
             "m.me", 
@@ -2798,6 +2802,7 @@ var rules = [
             "makemymood.com", 
             "makkahnewspaper.com", 
             "malaysiakini.com", 
+            "mamingzhe.com", 
             "mangafox.com", 
             "mangafox.me", 
             "maniash.com", 
@@ -3184,6 +3189,7 @@ var rules = [
             "npa.gov.tw", 
             "npnt.me", 
             "nps.gov", 
+            "nradio.me", 
             "nrk.no", 
             "ns01.biz", 
             "ns01.info", 
@@ -4485,6 +4491,7 @@ var rules = [
             "twelve.today", 
             "twerkingbutt.com", 
             "twftp.org", 
+            "twgreatdaily.com", 
             "twibase.com", 
             "twibble.de", 
             "twibbon.com", 
@@ -4624,6 +4631,7 @@ var rules = [
             "usfk.mil", 
             "usma.edu", 
             "usmc.mil", 
+            "usocctn.com", 
             "uspto.gov", 
             "ustream.tv", 
             "usunitednews.com", 
