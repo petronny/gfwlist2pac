@@ -1,6 +1,6 @@
 /**
  * genpac 2.0b2 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-10-17 18:45:25
+ * GFWList Last-Modified: 2017-10-18 21:00:38
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1232,6 +1232,7 @@ var rules = [
             "ebookbrowse.com", 
             "ebookee.com", 
             "ecfa.org.tw", 
+            "echainhost.com", 
             "echofon.com", 
             "ecimg.tw", 
             "ecministry.net", 
@@ -2038,6 +2039,7 @@ var rules = [
             "guaguass.com", 
             "guaguass.org", 
             "guancha.org", 
+            "guangming.com.my", 
             "guardster.com", 
             "guishan.org", 
             "gumroad.com", 
@@ -3122,6 +3124,7 @@ var rules = [
             "newsancai.com", 
             "newschinacomment.org", 
             "newscn.org", 
+            "newsdetox.ca", 
             "newsdh.com", 
             "newspeak.cc", 
             "newstamago.com", 
@@ -3457,6 +3460,7 @@ var rules = [
             "placemix.com", 
             "playboy.com", 
             "playboyplus.com", 
+            "player.fm", 
             "playno1.com", 
             "playpcesor.com", 
             "plays.com.tw", 
@@ -3600,6 +3604,7 @@ var rules = [
             "questvisual.com", 
             "quitccp.net", 
             "quitccp.org", 
+            "quora.com", 
             "quran.com", 
             "quranexplorer.com", 
             "qusi8.net", 
