@@ -1,6 +1,6 @@
 /**
  * genpac 2.0b2 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-10-18 21:00:38
+ * GFWList Last-Modified: 2017-10-19 12:12:52
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2936,6 +2936,7 @@ var rules = [
             "mlcool.com", 
             "mmaaxx.com", 
             "mmmca.com", 
+            "mnewstv.com", 
             "mobatek.net", 
             "mobile01.com", 
             "mobileways.de", 
@@ -3885,6 +3886,7 @@ var rules = [
             "singpao.com.hk", 
             "singtao.ca", 
             "singtao.com", 
+            "singtaousa.com", 
             "sino-monthly.com", 
             "sinoants.com", 
             "sinocast.com", 
@@ -5055,6 +5057,7 @@ var rules = [
             "yesasia.com", 
             "yesasia.com.hk", 
             "yespornplease.com", 
+            "yeyeclub.com", 
             "ygto.com", 
             "yhcw.net", 
             "yibada.com", 
