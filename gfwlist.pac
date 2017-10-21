@@ -1,6 +1,6 @@
 /**
  * genpac 2.0b2 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-10-19 12:12:52
+ * GFWList Last-Modified: 2017-10-21 21:42:39
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3371,6 +3371,7 @@ var rules = [
             "pao-pao.net", 
             "paper.li", 
             "paperb.us", 
+            "paradisehill.cc", 
             "paradisepoker.com", 
             "parkansky.com", 
             "partycasino.com", 
