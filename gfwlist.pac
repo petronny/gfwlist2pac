@@ -1,6 +1,6 @@
 /**
  * genpac 2.0b2 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-10-21 21:42:39
+ * GFWList Last-Modified: 2017-10-23 12:46:08
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -218,6 +218,7 @@ var rules = [
             "abc.com", 
             "abc.xyz", 
             "abchinese.com", 
+            "abclite.net", 
             "ablwang.com", 
             "aboluowang.com", 
             "aboutgfw.com", 
@@ -348,6 +349,7 @@ var rules = [
             "antichristendom.com", 
             "antiwave.net", 
             "anws.gov.tw", 
+            "anyporn.com", 
             "anysex.com", 
             "aobo.com.au", 
             "aofriend.com", 
@@ -1152,6 +1154,7 @@ var rules = [
             "dpp.org.tw", 
             "dpr.info", 
             "dragonsprings.org", 
+            "dreamamateurs.com", 
             "drepung.org", 
             "drgan.net", 
             "drmingxia.org", 
@@ -1491,6 +1494,7 @@ var rules = [
             "flipkart.com", 
             "flitto.com", 
             "flnet.org", 
+            "flog.tw", 
             "flurry.com", 
             "fmnnow.com", 
             "fochk.org", 
@@ -5077,6 +5081,7 @@ var rules = [
             "youdontcare.com", 
             "youjizz.com", 
             "youmaker.com", 
+            "youngpornvideos.com", 
             "youngspiration.hk", 
             "youpai.org", 
             "youporn.com", 
