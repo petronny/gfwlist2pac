@@ -1,6 +1,6 @@
 /**
  * genpac 2.0b2 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-10-23 12:46:08
+ * GFWList Last-Modified: 2017-10-25 22:28:09
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -5075,6 +5075,7 @@ var rules = [
             "yipub.com", 
             "yizhihongxing.com", 
             "yobt.com", 
+            "yobt.tv", 
             "yogichen.org", 
             "yong.hu", 
             "yorkbbs.ca", 
