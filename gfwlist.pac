@@ -1,6 +1,6 @@
 /**
  * genpac 2.0b2 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-10-25 22:28:09
+ * GFWList Last-Modified: 2017-10-26 16:19:51
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -367,6 +367,7 @@ var rules = [
             "apigee.com", 
             "apk-dl.com", 
             "apkdler.com", 
+            "apkmirror.com", 
             "apkmonk.com", 
             "apkplz.com", 
             "apkpure.com", 
@@ -3858,6 +3859,7 @@ var rules = [
             "shicheng.org", 
             "shinychan.com", 
             "shipcamouflage.com", 
+            "shireyishunjian.com", 
             "shitaotv.org", 
             "shixiao.org", 
             "shizhao.org", 
@@ -3914,6 +3916,7 @@ var rules = [
             "sketchappsources.com", 
             "skimtube.com", 
             "skybet.com", 
+            "skyking.com.tw", 
             "skykiwi.com", 
             "skynet.be", 
             "skype.com", 
@@ -4001,6 +4004,7 @@ var rules = [
             "spankwire.com", 
             "spb.com", 
             "speakerdeck.com", 
+            "speedify.com", 
             "spem.at", 
             "spencertipping.com", 
             "spicevpn.com", 
@@ -4254,6 +4258,7 @@ var rules = [
             "tianlawoffice.com", 
             "tianti.io", 
             "tiantibooks.org", 
+            "tianyantong.org.cn", 
             "tianzhu.org", 
             "tibet-envoy.eu", 
             "tibet-foundation.org", 
