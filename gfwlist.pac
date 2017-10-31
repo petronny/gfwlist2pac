@@ -1,6 +1,6 @@
 /**
  * genpac 2.0b2 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-10-28 22:11:16
+ * GFWList Last-Modified: 2017-10-31 18:13:41
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3105,6 +3105,7 @@ var rules = [
             "nekoslovakia.net", 
             "neo-miracle.com", 
             "nepusoku.com", 
+            "nesnode.com", 
             "net-fits.pro", 
             "netbig.com", 
             "netbirds.com", 
@@ -3741,6 +3742,7 @@ var rules = [
             "s1heng.com", 
             "s1s1s1.com", 
             "s3-ap-northeast-1.amazonaws.com", 
+            "s3-ap-southeast-2.amazonaws.com", 
             "s3.amazonaws.com", 
             "s4miniarchive.com", 
             "s8forum.com", 
@@ -5175,6 +5177,7 @@ var rules = [
             "zonaeuropa.com", 
             "zonghexinwen.com", 
             "zonghexinwen.net", 
+            "zoogvpn.com", 
             "zootool.com", 
             "zoozle.net", 
             "zozotown.com", 
