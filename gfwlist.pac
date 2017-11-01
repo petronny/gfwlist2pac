@@ -1,6 +1,6 @@
 /**
  * genpac 2.0b2 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-10-31 18:13:41
+ * GFWList Last-Modified: 2017-11-01 10:25:44
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -499,6 +499,7 @@ var rules = [
             "behindkink.com", 
             "beijing1989.com", 
             "beijingspring.com", 
+            "beijingzx.org", 
             "belamionline.com", 
             "bell.wiki", 
             "bemywife.cc", 
@@ -1648,6 +1649,7 @@ var rules = [
             "gartlive.com", 
             "gate-project.com", 
             "gather.com", 
+            "gatherproxy.com", 
             "gati.org.tw", 
             "gaybubble.com", 
             "gaycn.net", 
@@ -1911,6 +1913,7 @@ var rules = [
             "google.iq", 
             "google.is", 
             "google.it", 
+            "google.it.ao", 
             "google.je", 
             "google.jo", 
             "google.kg", 
@@ -2073,6 +2076,7 @@ var rules = [
             "hacg.club", 
             "hacg.in", 
             "hacg.li", 
+            "hacg.me", 
             "hacg.red", 
             "hacken.cc", 
             "hacker.org", 
@@ -2260,6 +2264,7 @@ var rules = [
             "huanghuagang.org", 
             "huangyiyu.com", 
             "huaren.us", 
+            "huashangnews.com", 
             "huasing.org", 
             "huaxia-news.com", 
             "huaxiabao.org", 
@@ -2745,6 +2750,7 @@ var rules = [
             "liwangyang.com", 
             "lizhizhuangbi.com", 
             "lkcn.net", 
+            "llss.me", 
             "load.to", 
             "lobsangwangyal.com", 
             "localdomain.ws", 
@@ -5037,6 +5043,7 @@ var rules = [
             "xxlmovies.com", 
             "xxuz.com", 
             "xxx.com", 
+            "xxx.xxx", 
             "xxxfuckmom.com", 
             "xxxx.com.au", 
             "xxxy.biz", 
