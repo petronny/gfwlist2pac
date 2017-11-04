@@ -1,6 +1,6 @@
 /**
  * genpac 2.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-11-01 10:25:44
+ * GFWList Last-Modified: 2017-11-04 09:12:24
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -539,6 +539,7 @@ var rules = [
             "billywr.com", 
             "bing.com", 
             "binux.me", 
+            "binwang.me", 
             "bipic.net", 
             "bit.do", 
             "bit.ly", 
@@ -2692,6 +2693,7 @@ var rules = [
             "lemonde.fr", 
             "lenwhite.com", 
             "lerosua.org", 
+            "lers.google", 
             "lesoir.be", 
             "lester850.info", 
             "letou.com", 
@@ -2810,6 +2812,7 @@ var rules = [
             "maiio.net", 
             "mail-archive.com", 
             "mail.ru", 
+            "mailchimp.com", 
             "maildns.xyz", 
             "maiplus.com", 
             "maizhong.org", 
@@ -3740,6 +3743,7 @@ var rules = [
             "ruanyifeng.com", 
             "rukor.org", 
             "rushbee.com", 
+            "ruten.com.tw", 
             "rutube.ru", 
             "ruyiseek.com", 
             "rxhj.net", 
@@ -4403,6 +4407,7 @@ var rules = [
             "torrentz.eu", 
             "torvpn.com", 
             "totalvpn.com", 
+            "toutiaoabc.com", 
             "towngain.com", 
             "toypark.in", 
             "toythieves.com", 
