@@ -1,6 +1,6 @@
 /**
  * genpac 2.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-11-04 09:12:24
+ * GFWList Last-Modified: 2017-11-05 16:47:54
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -166,6 +166,7 @@ var rules = [
             "3tui.net", 
             "466453.com", 
             "4bluestones.biz", 
+            "4chan.com", 
             "4dq.com", 
             "4everproxy.com", 
             "4irc.com", 
@@ -1007,6 +1008,7 @@ var rules = [
             "dadi360.com", 
             "dafagood.com", 
             "dafahao.com", 
+            "dafoh.org", 
             "dagelijksestandaard.nl", 
             "daidostup.ru", 
             "dailidaili.com", 
@@ -3174,6 +3176,7 @@ var rules = [
             "nicovideo.jp", 
             "nighost.org", 
             "nightlife141.com", 
+            "nikkei.com", 
             "ninecommentaries.com", 
             "ning.com", 
             "ninjacloak.com", 
@@ -4034,6 +4037,7 @@ var rules = [
             "squirly.info", 
             "srocket.us", 
             "ss-link.com", 
+            "ssglobal.co", 
             "ssglobal.me", 
             "ssh91.com", 
             "ssl443.org", 
