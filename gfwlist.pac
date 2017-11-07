@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-11-05 16:47:54
+ * GFWList Last-Modified: 2017-11-07 21:45:09
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -737,6 +737,7 @@ var rules = [
             "cdef.org", 
             "cdig.info", 
             "cdjp.org", 
+            "cdn-apple.com", 
             "cdnews.com.tw", 
             "cdninstagram.com", 
             "cdp1989.org", 
@@ -1778,6 +1779,7 @@ var rules = [
             "google.ac", 
             "google.ad", 
             "google.ae", 
+            "google.af", 
             "google.al", 
             "google.am", 
             "google.as", 
@@ -2867,6 +2869,7 @@ var rules = [
             "meetav.com", 
             "meetup.com", 
             "mefeedia.com", 
+            "meforum.org", 
             "mefound.com", 
             "mega.nz", 
             "megaproxy.com", 
@@ -4743,6 +4746,7 @@ var rules = [
             "vjmedia.com.hk", 
             "vllcs.org", 
             "vmixcore.com", 
+            "vnet.link", 
             "voa.mobi", 
             "voacantonese.com", 
             "voachinese.com", 
