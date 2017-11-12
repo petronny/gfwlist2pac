@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-11-08 11:52:03
+ * GFWList Last-Modified: 2017-11-12 08:36:11
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1483,6 +1483,7 @@ var rules = [
             "fingerdaily.com", 
             "finler.net", 
             "firearmsworld.net", 
+            "firebaseio.com", 
             "fireofliberty.org", 
             "firetweet.io", 
             "firstfivefollowers.com", 
@@ -1657,6 +1658,7 @@ var rules = [
             "gati.org.tw", 
             "gaybubble.com", 
             "gaycn.net", 
+            "gayhub.com", 
             "gaymap.cc", 
             "gaytube.com", 
             "gaywatch.com", 
@@ -3724,7 +3726,7 @@ var rules = [
             "rmjdw.com", 
             "rmjdw132.info", 
             "roadshow.hk", 
-            "robtex.com", 
+            "roboforex.com", 
             "robustnessiskey.com", 
             "roc-taiwan.org", 
             "rocket-inc.net", 
@@ -4055,6 +4057,7 @@ var rules = [
             "starfishfx.com", 
             "starp2p.com", 
             "startpage.com", 
+            "startuplivingchina.com", 
             "stat.gov.tw", 
             "state.gov", 
             "static-economist.com", 
@@ -4813,6 +4816,7 @@ var rules = [
             "waikeung.org", 
             "wailaike.net", 
             "waiwaier.com", 
+            "wallmama.com", 
             "wallornot.org", 
             "wallpapercasa.com", 
             "wallproxy.com", 
@@ -5030,6 +5034,7 @@ var rules = [
             "xizang-zhiye.org", 
             "xjp.cc", 
             "xjtravelguide.com", 
+            "xkiwi.tk", 
             "xlfmtalk.com", 
             "xlfmwz.info", 
             "xml-training-guide.com", 
