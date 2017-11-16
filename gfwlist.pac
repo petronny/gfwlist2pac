@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-11-15 16:21:13
+ * GFWList Last-Modified: 2017-11-16 11:19:11
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -87,6 +87,7 @@ var rules = [
             "tphcc.gov.tw", 
             "trimt-nsa.gov.tw", 
             "uluai.com.cn", 
+            "update.googleapis.com", 
             "vghks.gov.tw", 
             "vghtc.gov.tw", 
             "vghtpe.gov.tw", 
