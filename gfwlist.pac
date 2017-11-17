@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-11-16 11:19:11
+ * GFWList Last-Modified: 2017-11-17 09:03:34
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2411,8 +2411,6 @@ var rules = [
             "instagram.com", 
             "instanthq.com", 
             "institut-tibetain.org", 
-            "interfaceaddiction.com", 
-            "internationalrivers.org", 
             "internet.org", 
             "internetdefenseleague.org", 
             "internetfreedom.org", 
@@ -2438,7 +2436,6 @@ var rules = [
             "ipvanish.com", 
             "iredmail.org", 
             "irib.ir", 
-            "ironicsoftware.com", 
             "ironpython.net", 
             "ironsocket.com", 
             "is-a-hunter.com", 
@@ -2551,7 +2548,6 @@ var rules = [
             "jmscult.com", 
             "joachims.org", 
             "jobso.tv", 
-            "joeedelman.com", 
             "journalchretien.net", 
             "journalofdemocracy.org", 
             "joymiihub.com", 
@@ -2604,7 +2600,6 @@ var rules = [
             "kawaiikawaii.jp", 
             "kba-tx.org", 
             "kcoolonline.com", 
-            "kcsoftwares.com", 
             "kebrum.com", 
             "kechara.com", 
             "keepandshare.com", 
@@ -2768,18 +2763,15 @@ var rules = [
             "lobsangwangyal.com", 
             "localdomain.ws", 
             "localpresshk.com", 
-            "lockdown.com", 
             "lockestek.com", 
             "logbot.net", 
             "logiqx.com", 
             "logmein.com", 
-            "logmike.com", 
             "londonchinese.ca", 
             "longhair.hk", 
             "longmusic.com", 
             "longtermly.net", 
             "longtoes.com", 
-            "lookingglasstheatre.org", 
             "lookpic.com", 
             "looktoronto.com", 
             "lotsawahouse.org", 
@@ -3083,6 +3075,7 @@ var rules = [
             "mysecondarydns.com", 
             "mysinablog.com", 
             "myspace.com", 
+            "myspacecdn.com", 
             "mytalkbox.com", 
             "mytizi.com", 
             "mywww.biz", 
@@ -4143,6 +4136,7 @@ var rules = [
             "syx86.com", 
             "szbbs.net", 
             "szetowah.org.hk", 
+            "t-g.com", 
             "t.co", 
             "t.me", 
             "t35.com", 
@@ -4741,6 +4735,7 @@ var rules = [
             "vimeo.com", 
             "vimperator.org", 
             "vincnd.com", 
+            "vine.co", 
             "vinniev.com", 
             "vip-enterprise.com", 
             "virginia.edu", 
