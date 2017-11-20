@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-11-18 14:04:40
+ * GFWList Last-Modified: 2017-11-20 12:05:26
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1624,6 +1624,7 @@ var rules = [
             "fuyindiantai.org", 
             "fuyu.org.tw", 
             "fw.cm", 
+            "fxcm-chinese.com", 
             "fxnetworks.com", 
             "fzh999.com", 
             "fzh999.net", 
@@ -1728,6 +1729,7 @@ var rules = [
             "globalvpn.net", 
             "glock.com", 
             "gloryhole.com", 
+            "glorystar.me", 
             "gluckman.com", 
             "glype.com", 
             "gmail.com", 
@@ -4095,6 +4097,7 @@ var rules = [
             "sugobbs.com", 
             "sugumiru18.com", 
             "suissl.com", 
+            "sulian.me", 
             "summify.com", 
             "sumrando.com", 
             "sun1911.com", 
@@ -4115,6 +4118,7 @@ var rules = [
             "suroot.com", 
             "surrenderat20.net", 
             "suyangg.com", 
+            "svsfx.com", 
             "swagbucks.com", 
             "swift-tools.net", 
             "swissvpn.net", 
@@ -5034,6 +5038,7 @@ var rules = [
             "xkiwi.tk", 
             "xlfmtalk.com", 
             "xlfmwz.info", 
+            "xm.com", 
             "xml-training-guide.com", 
             "xmovies.com", 
             "xn--4gq171p.com", 
