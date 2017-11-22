@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-11-21 08:12:20
+ * GFWList Last-Modified: 2017-11-22 08:19:32
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2625,6 +2625,7 @@ var rules = [
             "kiwi.kz", 
             "kk-whys.co.jp", 
             "kkbox.com", 
+            "kknews.cc", 
             "klip.me", 
             "kmuh.org.tw", 
             "knowledgerush.com", 
@@ -2681,6 +2682,7 @@ var rules = [
             "law.com", 
             "le-vpn.com", 
             "leafyvpn.net", 
+            "lecloud.net", 
             "leeao.com.cn", 
             "lefora.com", 
             "left21.hk", 
@@ -3666,6 +3668,7 @@ var rules = [
             "rcinet.ca", 
             "rd.com", 
             "rdio.com", 
+            "read01.com", 
             "read100.com", 
             "readingtimes.com.tw", 
             "readmoo.com", 
