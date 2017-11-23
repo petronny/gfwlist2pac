@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-11-22 08:19:32
+ * GFWList Last-Modified: 2017-11-23 09:21:26
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -20,6 +20,7 @@ var rules = [
             "chinaso.com", 
             "chinaz.com", 
             "chukuang.gov.tw", 
+            "clientservices.googleapis.com", 
             "cycab.gov.tw", 
             "dbnsa.gov.tw", 
             "df.gov.tw", 
@@ -85,6 +86,7 @@ var rules = [
             "taitung-house.gov.tw", 
             "taoyuan.gov.tw", 
             "tphcc.gov.tw", 
+            "translate.googleapis.com", 
             "trimt-nsa.gov.tw", 
             "uluai.com.cn", 
             "update.googleapis.com", 
@@ -969,6 +971,7 @@ var rules = [
             "crossthewall.net", 
             "crossvpn.net", 
             "crrev.com", 
+            "crucial.com", 
             "csdparty.com", 
             "csuchen.de", 
             "csw.org.uk", 
@@ -1607,6 +1610,7 @@ var rules = [
             "fucd.com", 
             "fuckcnnic.net", 
             "fuckgfw.org", 
+            "fuckgfw233.org", 
             "fullerconsideration.com", 
             "fulue.com", 
             "funf.tw", 
