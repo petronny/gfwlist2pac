@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-11-23 09:21:26
+ * GFWList Last-Modified: 2017-11-26 08:47:45
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -260,6 +260,7 @@ var rules = [
             "ai-kan.net", 
             "ai-wen.net", 
             "aiph.net", 
+            "airasia.com", 
             "airconsole.com", 
             "aircrack-ng.org", 
             "airvpn.org", 
@@ -326,6 +327,7 @@ var rules = [
             "amnyemachen.org", 
             "amoiist.com", 
             "ampproject.org", 
+            "amtb-taipei.org", 
             "anchorfree.com", 
             "ancsconf.org", 
             "andfaraway.net", 
@@ -878,6 +880,7 @@ var rules = [
             "citizensradio.org", 
             "city365.ca", 
             "city9x.com", 
+            "citypopulation.de", 
             "citytalk.tw", 
             "civicparty.hk", 
             "civildisobediencemovement.org", 
@@ -1137,6 +1140,7 @@ var rules = [
             "dnset.com", 
             "dnsrd.com", 
             "dnssec.net", 
+            "dnvod.tv", 
             "doctorvoice.org", 
             "dogfartnetwork.com", 
             "dojin.com", 
@@ -1482,7 +1486,6 @@ var rules = [
             "financetwitter.com", 
             "finchvpn.com", 
             "findmespot.com", 
-            "findmima.com", 
             "findyoutube.com", 
             "fingerdaily.com", 
             "finler.net", 
@@ -2300,6 +2303,7 @@ var rules = [
             "hutianyi.net", 
             "hutong9.net", 
             "huyandex.com", 
+            "hwadzan.tw", 
             "hwayue.org.tw", 
             "hwinfo.com", 
             "hxwk.org", 
@@ -3668,6 +3672,7 @@ var rules = [
             "raw.githubusercontent.com", 
             "rawgit.com", 
             "rawgithub.com", 
+            "raxcdn.com", 
             "razyboard.com", 
             "rcinet.ca", 
             "rd.com", 
@@ -5181,6 +5186,7 @@ var rules = [
             "zhanbin.net", 
             "zhangboli.net", 
             "zhangtianliang.com", 
+            "zhanlve.org", 
             "zhenghui.org", 
             "zhengwunet.org", 
             "zhenlibu.info", 
