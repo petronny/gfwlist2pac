@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-11-26 08:47:45
+ * GFWList Last-Modified: 2017-11-29 08:51:23
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2011,7 +2011,6 @@ var rules = [
             "googlescholar.com", 
             "googlesile.com", 
             "googlesource.com", 
-            "googlesyndication.com", 
             "googleusercontent.com", 
             "googlevideo.com", 
             "googleweblight.com", 
@@ -3683,6 +3682,7 @@ var rules = [
             "readmoo.com", 
             "readydown.com", 
             "realcourage.org", 
+            "realitykings.com", 
             "realraptalk.com", 
             "realsexpass.com", 
             "rebatesrule.net", 
@@ -5160,6 +5160,7 @@ var rules = [
             "yuanzhengtang.org", 
             "yulghun.com", 
             "yunchao.net", 
+            "yuntipub.com", 
             "yuvutu.com", 
             "yvesgeleyn.com", 
             "ywpw.com", 
