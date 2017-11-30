@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-11-29 08:51:23
+ * GFWList Last-Modified: 2017-11-30 10:21:14
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2275,6 +2275,7 @@ var rules = [
             "huanghuagang.org", 
             "huangyiyu.com", 
             "huaren.us", 
+            "huaren4us.com", 
             "huashangnews.com", 
             "huasing.org", 
             "huaxia-news.com", 
@@ -2550,6 +2551,7 @@ var rules = [
             "jmscult.com", 
             "joachims.org", 
             "jobso.tv", 
+            "joinbbs.net", 
             "journalchretien.net", 
             "journalofdemocracy.org", 
             "joymiihub.com", 
@@ -3418,6 +3420,7 @@ var rules = [
             "pcdvd.com.tw", 
             "pchome.com.tw", 
             "pcij.org", 
+            "pcloud.com", 
             "pcstore.com.tw", 
             "pct.org.tw", 
             "pdetails.com", 
