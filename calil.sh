@@ -9,9 +9,10 @@ do
 	(cd $i;git pull origin master)
 done
 
-virtualenv2 env
+rm -rf env
+virtualenv env
 source env/bin/activate
-(cd genpac;python2 setup.py install)
+(cd genpac;python setup.py install)
 
 env/bin/genpac --proxy="SOCKS5 127.0.0.1:1080" --gfwlist-proxy="SOCKS5 127.0.0.1:1080" -o gfwlist.pac --gfwlist-local=gfwlist/gfwlist.txt
 sed '3d' -i gfwlist.pac
