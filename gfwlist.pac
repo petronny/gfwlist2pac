@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-11-30 10:21:14
+ * GFWList Last-Modified: 2017-12-04 10:03:14
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -848,6 +848,7 @@ var rules = [
             "chinesen.de",
             "chinesepen.org",
             "chinesetalks.net",
+            "chineseupress.com",
             "chingcheong.com",
             "chinman.net",
             "chithu.org",
@@ -1283,6 +1284,7 @@ var rules = [
             "emanna.com",
             "embr.in",
             "emilylau.org.hk",
+            "emory.edu",
             "empfil.com",
             "emule-ed2k.com",
             "emulefans.com",
@@ -2135,6 +2137,7 @@ var rules = [
             "heroku.com",
             "heungkongdiscuss.com",
             "hexieshe.com",
+            "hexieshe.xyz",
             "hexxeh.net",
             "heywire.com",
             "heyzo.com",
@@ -2267,7 +2270,6 @@ var rules = [
             "htkou.net",
             "htl.li",
             "html5rocks.com",
-            "htmldog.com",
             "https443.net",
             "https443.org",
             "hua-yue.net",
@@ -2829,6 +2831,7 @@ var rules = [
             "makkahnewspaper.com",
             "malaysiakini.com",
             "mamingzhe.com",
+            "manchukuo.net",
             "mangafox.com",
             "mangafox.me",
             "maniash.com",
@@ -3695,6 +3698,7 @@ var rules = [
             "recoveryversion.com.tw",
             "recoveryversion.org",
             "red-lang.org",
+            "redballoonsolidarity.org",
             "redchinacn.net",
             "redchinacn.org",
             "redhotlabs.com",
@@ -4660,6 +4664,7 @@ var rules = [
             "unknownspace.org",
             "unodedos.com",
             "unpo.org",
+            "unseen.is",
             "untraceable.us",
             "uocn.org",
             "updatestar.com",
@@ -5004,6 +5009,7 @@ var rules = [
             "wujieliulan.com",
             "wukangrui.net",
             "wuw.red",
+            "wuyanblog.com",
             "wwe.com",
             "wwitv.com",
             "www1.biz",
