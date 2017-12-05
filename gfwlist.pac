@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-12-04 10:03:14
+ * GFWList Last-Modified: 2017-12-05 07:53:36
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -194,6 +194,7 @@ var rules = [
             "66.ca",
             "666kb.com",
             "6park.com",
+            "6parker.com",
             "7capture.com",
             "7cow.com",
             "8-d.com",
@@ -5018,6 +5019,7 @@ var rules = [
             "x-art.com",
             "x-berry.com",
             "x-wall.org",
+            "x.company",
             "x1949x.com",
             "x24hr.com",
             "x365x.com",
