@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-12-05 07:53:36
+ * GFWList Last-Modified: 2017-12-13 08:46:46
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4949,6 +4949,7 @@ var rules = [
             "willw.net",
             "windowsphoneme.com",
             "windscribe.com",
+            "windy.com",
             "wingamestore.com",
             "wingy.site",
             "winning11.com",
@@ -4960,6 +4961,7 @@ var rules = [
             "wisevid.com",
             "wistia.com",
             "withgoogle.com",
+            "withyoutube.com",
             "witnessleeteaching.com",
             "witopia.net",
             "wizcrafts.net",
