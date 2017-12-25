@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-12-22 19:14:13
+ * GFWList Last-Modified: 2017-12-25 17:42:19
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -71,6 +71,7 @@ var rules = [
             "penghu-nsa.gov.tw",
             "post.gov.tw",
             "qq.com",
+            "safebrowsing.googleapis.com",
             "simplecd.me",
             "sina.cn",
             "sina.com.cn",
