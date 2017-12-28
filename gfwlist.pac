@@ -1,7 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
  * GFWList Last-Modified: 2017-12-25 17:42:19
- * GFWList From: local[/home/petron/git/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
