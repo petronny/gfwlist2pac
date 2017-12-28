@@ -19,7 +19,7 @@ env/bin/genpac \
 	--gfwlist-url - \
 	--gfwlist-local gfwlist/gfwlist.txt \
 	-o gfwlist.pac
-sed '3d' -i gfwlist.pac
+sed -e '5d' -e '3d' -i gfwlist.pac
 deactivate
 
 git add .
