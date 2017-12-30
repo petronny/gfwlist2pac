@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-12-25 17:42:19
+ * GFWList Last-Modified: 2017-12-30 14:17:43
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1552,6 +1552,7 @@ var rules = [
             "freebrowser.org",
             "freechal.com",
             "freechina.net",
+            "freechinaforum.org",
             "freeddns.com",
             "freeddns.org",
             "freedomchina.info",
@@ -2068,6 +2069,7 @@ var rules = [
             "gun-world.net",
             "gunsamerica.com",
             "gunsandammo.com",
+            "guo.media",
             "guruonline.hk",
             "gutteruncensored.com",
             "gvlib.com",
@@ -3661,6 +3663,7 @@ var rules = [
             "raidcall.com.tw",
             "raidtalk.com.tw",
             "rainbowplan.org",
+            "raindrop.io",
             "raizoji.or.jp",
             "ramcity.com.au",
             "rangwang.biz",
@@ -4017,6 +4020,7 @@ var rules = [
             "sorazone.net",
             "sorting-algorithms.com",
             "sos.org",
+            "sosreader.com",
             "sostibet.org",
             "sou-tong.org",
             "soubory.com",
