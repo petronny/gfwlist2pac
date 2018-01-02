@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2017-12-30 14:17:43
+ * GFWList Last-Modified: 2018-01-02 08:36:53
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1552,6 +1552,7 @@ var rules = [
             "freebrowser.org",
             "freechal.com",
             "freechina.net",
+            "freechina.news",
             "freechinaforum.org",
             "freeddns.com",
             "freeddns.org",
@@ -3610,6 +3611,7 @@ var rules = [
             "purevpn.com",
             "purplelotus.org",
             "pursuestar.com",
+            "pushchinawall.com",
             "pussyspace.com",
             "putihome.org",
             "putlocker.com",
@@ -4095,7 +4097,7 @@ var rules = [
             "stickeraction.com",
             "stileproject.com",
             "sto.cc",
-            "stoneip.info",
+            "stoporganharvesting.org",
             "stoptibetcrisis.net",
             "storagenewsletter.com",
             "stories.google",
@@ -4144,7 +4146,6 @@ var rules = [
             "suyangg.com",
             "svsfx.com",
             "swagbucks.com",
-            "swift-tools.net",
             "swissvpn.net",
             "switch1.jp",
             "switchvpn.net",
@@ -4434,7 +4435,6 @@ var rules = [
             "torcn.com",
             "torguard.net",
             "torproject.org",
-            "torrentcrazy.com",
             "torrentprivacy.com",
             "torrentproject.se",
             "torrenty.org",
@@ -4621,7 +4621,6 @@ var rules = [
             "txxx.com",
             "tycool.com",
             "typepad.com",
-            "tzangms.com",
             "u9un.com",
             "ub0.cc",
             "ubddns.org",
