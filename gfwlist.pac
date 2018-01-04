@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-01-02 08:36:53
+ * GFWList Last-Modified: 2018-01-04 09:09:59
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -106,6 +106,7 @@ var rules = [
             "030buy.com",
             "0rz.tw",
             "1-apple.com.tw",
+            "10.tt",
             "1000giri.net",
             "100ke.org",
             "10conditionsoflove.com",
@@ -5214,6 +5215,7 @@ var rules = [
             "zhongguorenquan.org",
             "zhongguotese.net",
             "zhongmeng.org",
+            "zhoushuguang.com",
             "zhreader.com",
             "zhuangbi.me",
             "zhuanxing.cn",
