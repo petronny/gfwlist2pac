@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-01-04 09:09:59
+ * GFWList Last-Modified: 2018-01-11 08:14:20
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -234,6 +234,7 @@ var rules = [
             "acevpn.com",
             "acg18.me",
             "acgkj.com",
+            "acmedia365.com",
             "acmetoy.com",
             "acnw.com.au",
             "actfortibet.org",
@@ -432,6 +433,7 @@ var rules = [
             "authorizeddns.org",
             "authorizeddns.us",
             "autodraw.com",
+            "av.movie",
             "avaaz.org",
             "avbody.tv",
             "avcity.tv",
@@ -1154,6 +1156,7 @@ var rules = [
             "domain.club.tw",
             "domains.google",
             "domaintoday.com.au",
+            "donga.com",
             "dongtaiwang.com",
             "dongtaiwang.net",
             "dongyangjing.com",
@@ -3468,6 +3471,8 @@ var rules = [
             "photodharma.net",
             "photofocus.com",
             "phuquocservices.com",
+            "picacomic.com",
+            "picacomiccn.com",
             "picasaweb.com",
             "picidae.net",
             "picturedip.com",
@@ -5241,7 +5246,7 @@ var rules = [
             "zoozle.net",
             "zozotown.com",
             "zpn.im",
-            "zshare.net",
+            "zspeeder.me",
             "zsrhao.com",
             "zuo.la",
             "zuobiao.me",
