@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-01-11 08:14:20
+ * GFWList Last-Modified: 2018-01-14 09:49:00
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -2964,6 +2964,7 @@ var rules = [
             "mit.edu",
             "mitao.com.tw",
             "mitbbs.com",
+            "mitbbsau.com",
             "mixero.com",
             "mixpod.com",
             "mixx.com",
@@ -2971,6 +2972,7 @@ var rules = [
             "mjib.gov.tw",
             "mk5000.com",
             "mlcool.com",
+            "mm-cg.com",
             "mmaaxx.com",
             "mmmca.com",
             "mnewstv.com",
@@ -3753,7 +3755,6 @@ var rules = [
             "roadshow.hk",
             "roboforex.com",
             "robustnessiskey.com",
-            "roc-taiwan.org",
             "rocket-inc.net",
             "rocketbbs.com",
             "rocksdb.org",
@@ -4188,7 +4189,6 @@ var rules = [
             "taiwancon.com",
             "taiwandaily.net",
             "taiwandc.org",
-            "taiwanembassy.org",
             "taiwanjobs.gov.tw",
             "taiwanjustice.com",
             "taiwankiss.com",
@@ -4197,7 +4197,6 @@ var rules = [
             "taiwanncf.org.tw",
             "taiwannews.com.tw",
             "taiwanonline.cc",
-            "taiwantoday.tw",
             "taiwantp.net",
             "taiwantt.org.tw",
             "taiwanus.net",
