@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-01-14 09:49:00
+ * GFWList Last-Modified: 2018-01-21 09:23:59
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -116,6 +116,7 @@ var rules = [
             "12vpn.com",
             "12vpn.net",
             "141hongkong.com",
+            "141jj.com",
             "141tube.com",
             "1688.com.au",
             "173ng.com",
@@ -1160,6 +1161,7 @@ var rules = [
             "dongtaiwang.com",
             "dongtaiwang.net",
             "dongyangjing.com",
+            "donmai.us",
             "dontfilter.us",
             "dontmovetochina.com",
             "dorjeshugden.com",
@@ -3091,6 +3093,7 @@ var rules = [
             "mypop3.org",
             "mypopescu.com",
             "myradio.hk",
+            "myreadingmanga.info",
             "mysecondarydns.com",
             "mysinablog.com",
             "myspace.com",
@@ -3749,6 +3752,7 @@ var rules = [
             "rileyguide.com",
             "riseup.net",
             "ritouki.jp",
+            "ritter.vg",
             "rlwlw.com",
             "rmjdw.com",
             "rmjdw132.info",
@@ -4092,6 +4096,7 @@ var rules = [
             "statueofdemocracy.org",
             "stc.com.sa",
             "steamcommunity.com",
+            "steampowered.com",
             "steel-storm.com",
             "steganos.com",
             "steganos.net",
