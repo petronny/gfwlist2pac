@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-01-21 09:23:59
+ * GFWList Last-Modified: 2018-02-11 11:23:06
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -4494,6 +4494,7 @@ var rules = [
             "tubeislam.com",
             "tubestack.com",
             "tubewolf.com",
+            "tuibeitu.net",
             "tuidang.net",
             "tuidang.org",
             "tuidang.se",
@@ -5236,6 +5237,7 @@ var rules = [
             "zim.vn",
             "zinio.com",
             "ziporn.com",
+            "zippyshare.com",
             "zkaip.com",
             "zkiz.com",
             "zmw.cn",
