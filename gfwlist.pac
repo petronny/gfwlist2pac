@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-02-11 11:23:06
+ * GFWList Last-Modified: 2018-02-17 16:34:12
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -434,6 +434,7 @@ var rules = [
             "authorizeddns.org",
             "authorizeddns.us",
             "autodraw.com",
+            "av.com",
             "av.movie",
             "avaaz.org",
             "avbody.tv",
@@ -3908,6 +3909,7 @@ var rules = [
             "sherabgyaltsen.com",
             "shiatv.net",
             "shicheng.org",
+            "shiksha.com",
             "shinychan.com",
             "shipcamouflage.com",
             "shireyishunjian.com",
@@ -4970,7 +4972,6 @@ var rules = [
             "winwhispers.info",
             "wiredbytes.com",
             "wiredpen.com",
-            "wireshark.org",
             "wisdompubs.org",
             "wisevid.com",
             "wistia.com",
