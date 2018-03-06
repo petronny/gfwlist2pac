@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-02-17 16:34:12
+ * GFWList Last-Modified: 2018-03-06 20:28:57
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -399,7 +399,6 @@ var rules = [
             "arethusa.su",
             "arlingtoncemetery.mil",
             "army.mil",
-            "arstechnica.com",
             "art4tibet1998.org",
             "artofpeacefoundation.org",
             "artsy.net",
@@ -721,6 +720,7 @@ var rules = [
             "casinobellini.com",
             "casinoking.com",
             "casinoriva.com",
+            "castbox.fm",
             "catch22.net",
             "catfightpayperview.xxx",
             "catholic.org.hk",
@@ -3336,6 +3336,7 @@ var rules = [
             "onion.city",
             "onlinecha.com",
             "onlineyoutube.com",
+            "onlytweets.com",
             "onmoon.com",
             "onmoon.net",
             "onmypc.biz",
@@ -3638,6 +3639,7 @@ var rules = [
             "qhigh.com",
             "qi-gong.me",
             "qiandao.today",
+            "qiangyou.org",
             "qidian.ca",
             "qienkuen.org",
             "qiwen.lu",
@@ -3888,6 +3890,7 @@ var rules = [
             "shadowsocks.com",
             "shadowsocks.com.hk",
             "shadowsocks.org",
+            "shadowsocks9.com",
             "shafaqna.com",
             "shambalapost.com",
             "shambhalasun.com",
@@ -4260,6 +4263,7 @@ var rules = [
             "telegram.org",
             "telegramdownload.com",
             "telegraph.co.uk",
+            "telesco.pe",
             "tellme.pw",
             "tenacy.com",
             "tensorflow.org",
