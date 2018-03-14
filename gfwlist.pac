@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-03-06 20:28:57
+ * GFWList Last-Modified: 2018-03-14 21:13:20
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -739,6 +739,7 @@ var rules = [
             "cclife.org",
             "cclifefl.org",
             "ccthere.com",
+            "cctmweb.net",
             "cctongbao.com",
             "ccue.ca",
             "ccue.com",
@@ -5098,6 +5099,7 @@ var rules = [
             "xtube.com",
             "xuchao.net",
             "xuchao.org",
+            "xuehua.us",
             "xuite.net",
             "xuzhiyong.net",
             "xvideo.cc",
