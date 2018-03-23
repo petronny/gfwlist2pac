@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-03-14 21:13:20
+ * GFWList Last-Modified: 2018-03-23 21:21:29
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -556,6 +556,7 @@ var rules = [
             "bit.do",
             "bit.ly",
             "bitcointalk.org",
+            "bitmex.com",
             "bitshare.com",
             "bitsnoop.com",
             "bitvise.com",
@@ -1094,6 +1095,7 @@ var rules = [
             "delcamp.net",
             "delicious.com",
             "democrats.org",
+            "depositphotos.com",
             "derekhsu.homeip.net",
             "desc.se",
             "design.google",
@@ -1745,6 +1747,7 @@ var rules = [
             "globalmuseumoncommunism.org",
             "globalrescue.net",
             "globaltm.org",
+            "globalvoices.org",
             "globalvoicesonline.org",
             "globalvpn.net",
             "glock.com",
@@ -2510,6 +2513,7 @@ var rules = [
             "jandyx.com",
             "janwongphoto.com",
             "japan-whores.com",
+            "jav.com",
             "jav101.com",
             "jav2be.com",
             "jav68.tv",
@@ -4300,6 +4304,7 @@ var rules = [
             "thetibetconnection.org",
             "thetibetmuseum.org",
             "thetibetpost.com",
+            "thetinhat.com",
             "thetrotskymovie.com",
             "thevivekspot.com",
             "thewgo.org",
@@ -4975,6 +4980,7 @@ var rules = [
             "wingy.site",
             "winning11.com",
             "winwhispers.info",
+            "wire.com",
             "wiredbytes.com",
             "wiredpen.com",
             "wisdompubs.org",
@@ -5223,6 +5229,7 @@ var rules = [
             "zhangtianliang.com",
             "zhanlve.org",
             "zhenghui.org",
+            "zhengjian.org",
             "zhengwunet.org",
             "zhenlibu.info",
             "zhenlibu1984.com",
