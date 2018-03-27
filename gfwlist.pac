@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-03-23 21:21:29
+ * GFWList Last-Modified: 2018-03-27 22:59:00
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -955,6 +955,7 @@ var rules = [
             "compress.to",
             "compython.net",
             "conoha.jp",
+            "constitutionalism.solutions",
             "contactmagazine.net",
             "convio.net",
             "coobay.com",
@@ -1433,6 +1434,7 @@ var rules = [
             "fan-qiang.com",
             "fangbinxing.com",
             "fangeming.com",
+            "fangeqiang.com",
             "fanglizhi.info",
             "fangmincn.org",
             "fangong.org",
@@ -2311,6 +2313,9 @@ var rules = [
             "humanrightsbriefing.org",
             "hung-ya.com",
             "hungerstrikeforaids.org",
+            "huobi.com",
+            "huobi.pro",
+            "huobipro.com",
             "huping.net",
             "hurgokbayrak.com",
             "hurriyet.com.tr",
@@ -5264,6 +5269,7 @@ var rules = [
             "zoogvpn.com",
             "zootool.com",
             "zoozle.net",
+            "zorrovpn.com",
             "zozotown.com",
             "zpn.im",
             "zspeeder.me",
