@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-05-12 14:11:52
+ * GFWList Last-Modified: 2018-05-22 11:28:38
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1060,6 +1060,7 @@ var rules = [
             "dafagood.com",
             "dafahao.com",
             "dafoh.org",
+            "daftporn.com",
             "dagelijksestandaard.nl",
             "daidostup.ru",
             "dailidaili.com",
@@ -2112,6 +2113,7 @@ var rules = [
             "greenreadings.com",
             "greenvpn.net",
             "greenvpn.org",
+            "grotty-monday.com",
             "gs-discuss.com",
             "gstatic.com",
             "gtricks.com",
@@ -2177,6 +2179,7 @@ var rules = [
             "hdtvb.net",
             "hdzog.com",
             "heartyit.com",
+            "heavy-r.com",
             "hec.su",
             "hecaitou.net",
             "hechaji.com",
@@ -2196,6 +2199,7 @@ var rules = [
             "hentaitube.tv",
             "hentaivideoworld.com",
             "heqinglian.net",
+            "here.com",
             "heroku.com",
             "heungkongdiscuss.com",
             "hexieshe.com",
@@ -3053,6 +3057,7 @@ var rules = [
             "mofaxiehui.com",
             "mofos.com",
             "mog.com",
+            "mohu.ml",
             "mol.gov.tw",
             "molihua.org",
             "monar.ch",
@@ -3906,6 +3911,7 @@ var rules = [
             "search.com",
             "search.xxx",
             "searchtruth.com",
+            "seatguru.com",
             "secretchina.com",
             "secretgarden.no",
             "secretsline.biz",
@@ -3971,6 +3977,7 @@ var rules = [
             "shattered.io",
             "sheikyermami.com",
             "shellfire.de",
+            "shemalez.com",
             "shenshou.org",
             "shenyun.com",
             "shenyunperformingarts.org",
@@ -4353,6 +4360,7 @@ var rules = [
             "thedw.us",
             "thefacebook.com",
             "thefrontier.hk",
+            "thegay.com",
             "thegioitinhoc.vn",
             "thegly.com",
             "thehots.info",
@@ -4483,6 +4491,7 @@ var rules = [
             "time.com",
             "timsah.com",
             "tiney.com",
+            "tineye.com",
             "tintuc101.com",
             "tiny.cc",
             "tinychat.com",
@@ -4572,6 +4581,7 @@ var rules = [
             "tubecup.com",
             "tubegals.com",
             "tubeislam.com",
+            "tubepornclassic.com",
             "tubestack.com",
             "tubewolf.com",
             "tuibeitu.net",
@@ -4863,6 +4873,7 @@ var rules = [
             "vivatube.com",
             "vivthomas.com",
             "vizvaz.com",
+            "vjav.com",
             "vjmedia.com.hk",
             "vllcs.org",
             "vmixcore.com",
@@ -5238,6 +5249,7 @@ var rules = [
             "yobt.com",
             "yobt.tv",
             "yogichen.org",
+            "yolasite.com",
             "yong.hu",
             "yorkbbs.ca",
             "youdontcare.com",
