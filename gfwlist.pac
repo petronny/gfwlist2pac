@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-05-22 11:28:38
+ * GFWList Last-Modified: 2018-05-26 13:32:46
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1731,6 +1731,7 @@ var rules = [
             "gaycn.net",
             "gayhub.com",
             "gaymap.cc",
+            "gaymenring.com",
             "gaytube.com",
             "gaywatch.com",
             "gazotube.com",
@@ -2157,6 +2158,7 @@ var rules = [
             "hacken.cc",
             "hacker.org",
             "hackthatphone.net",
+            "hahaxixi.github.io",
             "hahlo.com",
             "hakkatv.org.tw",
             "handcraftedsoftware.org",
@@ -2318,6 +2320,7 @@ var rules = [
             "hotvpn.com",
             "hougaige.com",
             "howtoforge.com",
+            "hoxx.com",
             "hpa.gov.tw",
             "hqcdp.org",
             "hqjapanesesex.com",
@@ -3054,6 +3057,7 @@ var rules = [
             "moeaic.gov.tw",
             "moeerolibrary.com",
             "moegirl.org",
+            "mofa.gov.tw",
             "mofaxiehui.com",
             "mofos.com",
             "mog.com",
@@ -3349,6 +3353,7 @@ var rules = [
             "nvtongzhisheng.org",
             "nwtca.org",
             "nyaa.eu",
+            "nyaa.si",
             "nydus.ca",
             "nylon-angel.com",
             "nylonstockingsonline.com",
@@ -4938,6 +4943,7 @@ var rules = [
             "vs.com",
             "vtunnel.com",
             "vuku.cc",
+            "vzw.com",
             "w3.org",
             "w3schools.com",
             "waffle1999.com",
