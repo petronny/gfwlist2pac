@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-05-30 09:19:23
+ * GFWList Last-Modified: 2018-06-01 09:32:13
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1741,6 +1741,7 @@ var rules = [
             "gazotube.com",
             "gcc.org.hk",
             "gclooney.com",
+            "gcmasia.com",
             "gcpnews.com",
             "gcr.io",
             "gdbt.net",
@@ -2685,6 +2686,7 @@ var rules = [
             "karmapa-teachings.org",
             "karmapa.org",
             "kawaiikawaii.jp",
+            "kawase.com",
             "kba-tx.org",
             "kcoolonline.com",
             "kebrum.com",
@@ -4336,6 +4338,7 @@ var rules = [
             "tcsofbc.org",
             "tcsovi.org",
             "tdesktop.com",
+            "tdm.com.mo",
             "teachparentstech.org",
             "teamamericany.com",
             "techviz.net",
