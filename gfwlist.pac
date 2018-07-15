@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-07-14 19:57:00
+ * GFWList Last-Modified: 2018-07-15 12:46:39
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -116,6 +116,7 @@ var rules = [
             "12bet.com",
             "12vpn.com",
             "12vpn.net",
+            "138.com",
             "141hongkong.com",
             "141jj.com",
             "141tube.com",
@@ -1069,6 +1070,7 @@ var rules = [
             "dabr.mobi",
             "dadazim.com",
             "dadi360.com",
+            "dafabet.com",
             "dafagood.com",
             "dafahao.com",
             "dafoh.org",
@@ -3465,6 +3467,7 @@ var rules = [
             "openwrt.org.cn",
             "opera-mini.net",
             "opera.com",
+            "opus-gaming.com",
             "orchidbbs.com",
             "organcare.org.tw",
             "organharvestinvestigation.net",
@@ -3632,6 +3635,7 @@ var rules = [
             "po2b.com",
             "pobieramy.top",
             "podictionary.com",
+            "pokerstars.com",
             "pokerstars.net",
             "pokerstrategy.com",
             "politicalchina.org",
