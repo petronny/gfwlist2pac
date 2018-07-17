@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-07-15 12:46:39
+ * GFWList Last-Modified: 2018-07-17 10:05:59
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -278,6 +278,7 @@ var rules = [
             "akamai.net",
             "akamaihd.net",
             "akamaistream.net",
+            "akamaized.net",
             "akiba-online.com",
             "akiba-web.com",
             "akow.org",
@@ -3107,6 +3108,7 @@ var rules = [
             "monster.com",
             "moodyz.com",
             "moonbbs.com",
+            "moonbingo.com",
             "mooo.com",
             "morbell.com",
             "morningsun.org",
@@ -4110,6 +4112,7 @@ var rules = [
             "sm-miracle.com",
             "smartdnsproxy.com",
             "smarthide.com",
+            "smartmailcloud.com",
             "smchbooks.com",
             "smh.com.au",
             "smhric.org",
@@ -5329,6 +5332,7 @@ var rules = [
             "youtubeeducation.com",
             "youtubegaming.com",
             "youversion.com",
+            "youwin.com",
             "youxu.info",
             "yt.be",
             "ytht.net",
