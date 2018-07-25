@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-07-17 10:05:59
+ * GFWList Last-Modified: 2018-07-25 13:25:57
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -318,6 +318,7 @@ var rules = [
             "alwaysdata.net",
             "alwaysvpn.com",
             "am730.com.hk",
+            "amazon.co.jp",
             "amazon.com",
             "ameblo.jp",
             "american.edu",
@@ -3630,6 +3631,7 @@ var rules = [
             "plixi.com",
             "plm.org.hk",
             "plunder.com",
+            "plurk.com",
             "plus28.com",
             "plusbb.com",
             "pmatehunter.com",
@@ -3642,6 +3644,7 @@ var rules = [
             "pokerstrategy.com",
             "politicalchina.org",
             "politicalconsultation.org",
+            "politiscales.net",
             "poloniex.com",
             "polymer-project.org",
             "polymerhk.com",
@@ -4002,6 +4005,7 @@ var rules = [
             "shadowsky.xyz",
             "shadowsocks-r.com",
             "shadowsocks.asia",
+            "shadowsocks.be",
             "shadowsocks.com",
             "shadowsocks.com.hk",
             "shadowsocks.org",
