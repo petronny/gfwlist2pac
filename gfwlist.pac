@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-07-25 13:25:57
+ * GFWList Last-Modified: 2018-07-26 08:55:10
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -504,6 +504,7 @@ var rules = [
             "bbc.in",
             "bbcchinese.com",
             "bbchat.tv",
+            "bbci.co.uk",
             "bbg.gov",
             "bbkz.com",
             "bbnradio.org",
