@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-07-26 08:55:10
+ * GFWList Last-Modified: 2018-08-03 22:32:11
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -487,6 +487,7 @@ var rules = [
             "bangbrosnetwork.com",
             "bangchen.net",
             "bangyoulater.com",
+            "bankmobilevibe.com",
             "bannedbook.org",
             "bannednews.org",
             "banorte.com",
@@ -943,12 +944,14 @@ var rules = [
             "cleansite.info",
             "cleansite.us",
             "clearharmony.net",
+            "clearsurance.com",
             "clearwisdom.net",
             "clementine-player.org",
             "clinica-tibet.ru",
             "clipfish.de",
             "cloakpoint.com",
             "club1069.com",
+            "cmcn.org",
             "cmi.org.tw",
             "cmoinc.org",
             "cms.gov",
