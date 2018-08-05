@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-08-03 22:32:11
+ * GFWList Last-Modified: 2018-08-05 08:15:32
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -3100,6 +3100,7 @@ var rules = [
             "mofaxiehui.com",
             "mofos.com",
             "mog.com",
+            "mohu.club",
             "mohu.ml",
             "mol.gov.tw",
             "molihua.org",
