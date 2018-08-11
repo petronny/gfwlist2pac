@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-08-05 08:15:32
+ * GFWList Last-Modified: 2018-08-11 22:57:19
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -983,7 +983,6 @@ var rules = [
             "coin2co.in",
             "coinegg.com",
             "coinex.com",
-            "coinexchange.io",
             "coingi.com",
             "coinrail.co.kr",
             "cointobe.com",
@@ -1275,6 +1274,7 @@ var rules = [
             "dupola.com",
             "dupola.net",
             "dushi.ca",
+            "dvdpac.com",
             "dvorak.org",
             "dw-world.com",
             "dw-world.de",
@@ -3333,6 +3333,7 @@ var rules = [
             "nobelprize.org",
             "nobodycanstop.us",
             "nodesnoop.com",
+            "nofile.io",
             "nokogiri.org",
             "nokola.com",
             "noodlevpn.com",
@@ -3842,6 +3843,10 @@ var rules = [
             "redballoonsolidarity.org",
             "redchinacn.net",
             "redchinacn.org",
+            "redd.it",
+            "reddit.com",
+            "redditmedia.com",
+            "redditstatic.com",
             "redhotlabs.com",
             "redtube.com",
             "referer.us",
@@ -4212,6 +4217,7 @@ var rules = [
             "ssh91.com",
             "ssl443.org",
             "sspro.ml",
+            "ssrshare.com",
             "sss.camp",
             "sstmlt.moe",
             "sstmlt.net",
@@ -4390,6 +4396,7 @@ var rules = [
             "teck.in",
             "teco-hk.org",
             "teco-mo.org",
+            "teddysun.com",
             "teeniefuck.net",
             "teensinasia.com",
             "telecomspace.com",
