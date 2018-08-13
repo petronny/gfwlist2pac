@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-08-11 22:57:19
+ * GFWList Last-Modified: 2018-08-13 08:45:03
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -890,6 +890,7 @@ var rules = [
             "chinesedemocracy.com",
             "chinesegay.org",
             "chinesen.de",
+            "chinesenews.net.au",
             "chinesepen.org",
             "chinesetalks.net",
             "chineseupress.com",
@@ -1053,6 +1054,7 @@ var rules = [
             "cumlouder.com",
             "curvefish.com",
             "cusu.hk",
+            "cutscenes.net",
             "cw.com.tw",
             "cwb.gov.tw",
             "cyberctm.com",
@@ -3708,6 +3710,7 @@ var rules = [
             "privatevpn.com",
             "procopytips.com",
             "prosiben.de",
+            "protonvpn.com",
             "provideocoalition.com",
             "provpnaccounts.com",
             "proxfree.com",
@@ -3898,6 +3901,7 @@ var rules = [
             "roodo.com",
             "rosechina.net",
             "rotten.com",
+            "rsdlmonitor.com",
             "rsf-chinese.org",
             "rsf.org",
             "rsgamen.org",
@@ -4728,6 +4732,7 @@ var rules = [
             "twibble.de",
             "twibbon.com",
             "twibs.com",
+            "twicountry.org",
             "twicsy.com",
             "twiends.com",
             "twifan.com",
@@ -4852,6 +4857,7 @@ var rules = [
             "uptodown.com",
             "upwill.org",
             "ur7s.com",
+            "uraban.me",
             "urbansurvival.com",
             "urchin.com",
             "url.com.tw",
@@ -4931,6 +4937,7 @@ var rules = [
             "vinniev.com",
             "vip-enterprise.com",
             "virginia.edu",
+            "virtualrealporn.com",
             "visibletweets.com",
             "visiontimes.com",
             "vital247.org",
@@ -5002,6 +5009,7 @@ var rules = [
             "vpser.net",
             "vraiesagesse.net",
             "vrmtr.com",
+            "vrsmash.com",
             "vs.com",
             "vtunnel.com",
             "vuku.cc",
@@ -5217,6 +5225,7 @@ var rules = [
             "xfinity.com",
             "xgmyd.com",
             "xhamster.com",
+            "xianba.net",
             "xianchawang.net",
             "xianjian.tw",
             "xianqiao.net",
@@ -5250,6 +5259,7 @@ var rules = [
             "xn--czq75pvv1aj5c.org",
             "xn--i2ru8q2qg.com",
             "xn--ngstr-lra8j.com",
+            "xn--oiq.cc",
             "xnxx.com",
             "xpdo.net",
             "xpud.org",
@@ -5368,6 +5378,7 @@ var rules = [
             "zacebook.com",
             "zalmos.com",
             "zannel.com",
+            "zaobao.com",
             "zaobao.com.sg",
             "zaozon.com",
             "zapto.org",
