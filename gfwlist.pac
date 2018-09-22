@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-08-13 08:45:03
+ * GFWList Last-Modified: 2018-09-22 22:24:13
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -2608,6 +2608,7 @@ var rules = [
             "jandyx.com",
             "janwongphoto.com",
             "japan-whores.com",
+            "japantimes.co.jp",
             "jav.com",
             "jav101.com",
             "jav2be.com",
@@ -4755,6 +4756,7 @@ var rules = [
             "twit2d.com",
             "twitbrowser.net",
             "twitcause.com",
+            "twitch.tv",
             "twitgether.com",
             "twitgoo.com",
             "twitiq.com",
