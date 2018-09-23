@@ -1,6 +1,6 @@
 /**
  * genpac 2.0.1 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-09-22 22:24:13
+ * GFWList Last-Modified: 2018-09-23 05:21:47
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -223,6 +223,7 @@ var rules = [
             "a5.com.ru",
             "aamacau.com",
             "abc.com",
+            "abc.net.au",
             "abc.xyz",
             "abchinese.com",
             "abclite.net",
@@ -1528,8 +1529,10 @@ var rules = [
             "faydao.com",
             "fb.com",
             "fb.me",
+            "fbaddins.com",
             "fbcdn.net",
             "fbsbx.com",
+            "fbworkmail.com",
             "fc2.com",
             "fc2blog.net",
             "fc2china.com",
@@ -3977,6 +3980,7 @@ var rules = [
             "secretgarden.no",
             "secretsline.biz",
             "securetunnel.com",
+            "securityinabox.org",
             "securitykiss.com",
             "seed4.me",
             "seehua.com",
@@ -4290,6 +4294,7 @@ var rules = [
             "sunta.com.tw",
             "sunvpn.net",
             "suoluo.org",
+            "supchina.com",
             "superfreevpn.com",
             "superokayama.com",
             "superpages.com",
