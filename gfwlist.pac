@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-09-23 05:21:47
+ * GFWList Last-Modified: 2018-11-11 23:06:43
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1593,6 +1593,7 @@ var rules = [
             "foolsmountain.com",
             "fooooo.com",
             "footwiball.com",
+            "foreignpolicy.com",
             "forum4hk.com",
             "forums-free.com",
             "fotile.me",
@@ -4126,6 +4127,7 @@ var rules = [
             "sobees.com",
             "soc.mil",
             "socialwhale.com",
+            "socks-proxy.net",
             "sockscap64.com",
             "sockslist.net",
             "socrec.org",
