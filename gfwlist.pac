@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-11-11 23:06:43
+ * GFWList Last-Modified: 2018-11-12 11:20:25
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -2824,6 +2824,7 @@ var rules = [
             "lhakar.org",
             "lhasocialwork.org",
             "liangyou.net",
+            "liangzhichuanmei.com",
             "lianyue.net",
             "liaowangxizang.net",
             "liberal.org.hk",
@@ -3614,6 +3615,7 @@ var rules = [
             "pixnet.in",
             "pixnet.net",
             "pk.com",
+            "pki.goog",
             "placemix.com",
             "playboy.com",
             "playboyplus.com",
@@ -5150,6 +5152,7 @@ var rules = [
             "wordpress.com",
             "workatruna.com",
             "workerdemo.org.hk",
+            "workerempowerment.org",
             "workersthebig.net",
             "worldcat.org",
             "worldjournal.com",
