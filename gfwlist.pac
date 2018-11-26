@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-11-14 00:43:40
+ * GFWList Last-Modified: 2018-11-26 22:59:47
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -5061,6 +5061,7 @@ var rules = [
             "wearehairy.com",
             "wearn.com",
             "weather.com.hk",
+            "web.dev",
             "web2project.net",
             "webbang.net",
             "webevader.org",
