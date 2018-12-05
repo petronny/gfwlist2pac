@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-11-26 22:59:47
+ * GFWList Last-Modified: 2018-12-06 01:58:27
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1015,6 +1015,7 @@ var rules = [
             "crackle.com",
             "crazys.cc",
             "crazyshit.com",
+            "crbug.com",
             "crchina.org",
             "crd-net.org",
             "creaders.net",
@@ -1774,6 +1775,7 @@ var rules = [
             "gerefoundation.org",
             "get.app",
             "get.how",
+            "get.page",
             "getastrill.com",
             "getchu.com",
             "getcloak.com",
@@ -2106,6 +2108,7 @@ var rules = [
             "googlezip.net",
             "gopetition.com",
             "goproxing.net",
+            "goregrish.com",
             "gospelherald.com",
             "got-game.org",
             "gotdns.ch",
@@ -2520,6 +2523,7 @@ var rules = [
             "internetdefenseleague.org",
             "internetfreedom.org",
             "internetpopculture.com",
+            "inthenameofconfuciusmovie.com",
             "inxian.com",
             "iownyour.biz",
             "iownyour.org",
@@ -3118,6 +3122,7 @@ var rules = [
             "moroneta.com",
             "mos.ru",
             "motherless.com",
+            "motiyun.com",
             "motor4ik.ru",
             "mousebreaker.com",
             "movements.org",
@@ -3916,6 +3921,7 @@ var rules = [
             "rtycminnesota.org",
             "ruanyifeng.com",
             "rukor.org",
+            "runbtx.com",
             "rushbee.com",
             "ruten.com.tw",
             "rutube.ru",
@@ -4203,6 +4209,7 @@ var rules = [
             "speedify.com",
             "spem.at",
             "spencertipping.com",
+            "spendee.com",
             "spicevpn.com",
             "spideroak.com",
             "spike.com",
@@ -4221,6 +4228,7 @@ var rules = [
             "ssglobal.me",
             "ssh91.com",
             "ssl443.org",
+            "sspanel.net",
             "sspro.ml",
             "ssr.tools",
             "ssrshare.com",
@@ -5456,6 +5464,7 @@ var rules = [
             "zyns.com",
             "zyzc9.com",
             "zzcartoon.com",
+            "zzcloud.me",
             "zzux.com"
         ]
     ]
