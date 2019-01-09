@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2018-12-06 02:00:59
+ * GFWList Last-Modified: 2019-01-09 22:51:38
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -332,7 +332,9 @@ var rules = [
             "androidify.com",
             "androidplus.co",
             "andygod.com",
+            "angela-merkel.de",
             "angelfire.com",
+            "angola.org",
             "angularjs.org",
             "animecrazy.net",
             "animeshippuuden.com",
@@ -399,6 +401,7 @@ var rules = [
             "arlingtoncemetery.mil",
             "army.mil",
             "art4tibet1998.org",
+            "arte.tv",
             "artofpeacefoundation.org",
             "artsy.net",
             "asacp.org",
@@ -1219,6 +1222,7 @@ var rules = [
             "dotsub.com",
             "dotvpn.com",
             "doub.io",
+            "doubmirror.cf",
             "dougscripts.com",
             "douhokanko.net",
             "doujincafe.com",
@@ -3475,6 +3479,7 @@ var rules = [
             "openid.net",
             "openleaks.org",
             "openvpn.net",
+            "openvpn.org",
             "openwebster.com",
             "openwrt.org.cn",
             "opera-mini.net",
@@ -4161,6 +4166,7 @@ var rules = [
             "softether.co.jp",
             "softether.org",
             "softlayer.net",
+            "softsmirror.cf",
             "softwarebychuck.com",
             "sogclub.com",
             "sogoo.org",
