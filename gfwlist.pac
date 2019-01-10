@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-01-09 22:51:38
+ * GFWList Last-Modified: 2019-01-10 21:33:11
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -943,6 +943,7 @@ var rules = [
             "cloakpoint.com",
             "cloudfront.net",
             "club1069.com",
+            "clyp.it",
             "cmcn.org",
             "cmi.org.tw",
             "cmoinc.org",
@@ -1421,6 +1422,7 @@ var rules = [
             "eucasino.com",
             "eulam.com",
             "eurekavpt.com",
+            "euronews.com",
             "europa.eu",
             "evschool.net",
             "exblog.co.jp",
@@ -2892,6 +2894,7 @@ var rules = [
             "llss.me",
             "load.to",
             "lobsangwangyal.com",
+            "localbitcoins.com",
             "localdomain.ws",
             "localpresshk.com",
             "lockestek.com",
@@ -2984,6 +2987,7 @@ var rules = [
             "matome-plus.com",
             "matome-plus.net",
             "matsushimakaede.com",
+            "matters.news",
             "mattwilcox.net",
             "maturejp.com",
             "maxing.jp",
@@ -3858,6 +3862,7 @@ var rules = [
             "redchinacn.org",
             "redd.it",
             "reddit.com",
+            "redditlist.com",
             "redditmedia.com",
             "redditstatic.com",
             "redhotlabs.com",
@@ -5034,6 +5039,7 @@ var rules = [
             "vs.com",
             "vtunnel.com",
             "vuku.cc",
+            "vultryhw.com",
             "vzw.com",
             "w3.org",
             "w3schools.com",
