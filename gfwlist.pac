@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-01-10 21:33:11
+ * GFWList Last-Modified: 2019-01-11 21:54:26
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1343,6 +1343,7 @@ var rules = [
             "eksisozluk.com",
             "electionsmeter.com",
             "elgoog.im",
+            "ellawine.org",
             "elpais.com",
             "eltondisney.com",
             "emaga.com",
@@ -4326,6 +4327,7 @@ var rules = [
             "suyangg.com",
             "svsfx.com",
             "swagbucks.com",
+            "swissinfo.ch",
             "swissvpn.net",
             "switch1.jp",
             "switchvpn.net",
@@ -4926,6 +4928,7 @@ var rules = [
             "vanilla-jp.com",
             "vanpeople.com",
             "vansky.com",
+            "vaticannews.va",
             "vatn.org",
             "vcf-online.org",
             "vcfbuilder.org",
