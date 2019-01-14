@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-01-11 21:54:26
+ * GFWList Last-Modified: 2019-01-14 20:18:38
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -473,6 +473,7 @@ var rules = [
             "baixing.me",
             "bakgeekhome.tk",
             "banana-vpn.com",
+            "band.us",
             "bandwagonhost.com",
             "bangbrosnetwork.com",
             "bangchen.net",
@@ -1077,6 +1078,7 @@ var rules = [
             "daidostup.ru",
             "dailidaili.com",
             "dailymotion.com",
+            "dailyview.tw",
             "daiphapinfo.net",
             "dajiyuan.com",
             "dajiyuan.de",
@@ -2551,6 +2553,7 @@ var rules = [
             "iptv.com.tw",
             "iptvbin.com",
             "ipvanish.com",
+            "iqiyi.com",
             "iredmail.org",
             "irib.ir",
             "ironpython.net",
@@ -4120,6 +4123,7 @@ var rules = [
             "sitebro.tw",
             "sitekreator.com",
             "sitemaps.org",
+            "six-degrees.io",
             "sixth.biz",
             "sjrt.org",
             "sjum.cn",
@@ -4464,6 +4468,7 @@ var rules = [
             "theinitium.com",
             "thenewslens.com",
             "thepiratebay.org",
+            "theporndude.com",
             "theportalwiki.com",
             "thereallove.kr",
             "therock.net.nz",
@@ -5365,6 +5370,7 @@ var rules = [
             "yomiuri.co.jp",
             "yong.hu",
             "yorkbbs.ca",
+            "you-get.org",
             "youdontcare.com",
             "youjizz.com",
             "youmaker.com",
