@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-01-14 20:18:38
+ * GFWList Last-Modified: 2019-01-15 21:08:16
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -243,6 +243,7 @@ var rules = [
             "advertfan.com",
             "ae.org",
             "aenhancers.com",
+            "aex.com",
             "af.mil",
             "afantibbs.com",
             "agnesb.fr",
@@ -573,6 +574,7 @@ var rules = [
             "bitcointalk.org",
             "bitcoinworld.com",
             "bitfinex.com",
+            "bithumb.com",
             "bitinka.com.ar",
             "bitmex.com",
             "bitshare.com",
@@ -673,6 +675,7 @@ var rules = [
             "bt95.com",
             "btaia.com",
             "btbtav.com",
+            "btc98.com",
             "btcbank.bank",
             "btctrade.im",
             "btdigg.org",
@@ -969,6 +972,7 @@ var rules = [
             "cnyes.com",
             "co.tv",
             "coat.co.jp",
+            "cobinhood.com",
             "cochina.co",
             "cochina.org",
             "code1984.com",
@@ -976,10 +980,12 @@ var rules = [
             "codeshare.io",
             "codeskulptor.org",
             "coin2co.in",
+            "coinbene.com",
             "coinegg.com",
             "coinex.com",
             "coingi.com",
             "coinrail.co.kr",
+            "cointiger.com",
             "cointobe.com",
             "coinut.com",
             "collateralmurder.com",
@@ -2211,6 +2217,7 @@ var rules = [
             "hautelook.com",
             "hautelookcdn.com",
             "have8.com",
+            "hbg.com",
             "hbo.com",
             "hclips.com",
             "hdlt.me",
@@ -3023,6 +3030,7 @@ var rules = [
             "memorybbs.com",
             "memri.org",
             "memrijttm.org",
+            "mercatox.com",
             "mercyprophet.org",
             "meridian-trust.org",
             "meripet.biz",
