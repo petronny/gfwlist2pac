@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-01-15 21:08:16
+ * GFWList Last-Modified: 2019-01-16 12:38:53
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -213,6 +213,7 @@ var rules = [
             "abc.xyz",
             "abchinese.com",
             "abclite.net",
+            "abebooks.com",
             "ablwang.com",
             "aboluowang.com",
             "aboutgfw.com",
@@ -406,7 +407,6 @@ var rules = [
             "artofpeacefoundation.org",
             "artsy.net",
             "asacp.org",
-            "asahichinese.com",
             "asdfg.jp",
             "asg.to",
             "asia-gaming.com",
@@ -622,6 +622,7 @@ var rules = [
             "blueangellive.com",
             "bmfinn.com",
             "bnews.co",
+            "bnn.co",
             "bnrmetal.com",
             "boardreader.com",
             "bod.asia",
@@ -701,6 +702,7 @@ var rules = [
             "buzzhand.net",
             "buzzorange.com",
             "bvpn.com",
+            "bwgyhw.com",
             "bwh1.net",
             "bwsj.hk",
             "bx.in.th",
@@ -771,6 +773,7 @@ var rules = [
             "cclife.org",
             "cclifefl.org",
             "ccthere.com",
+            "ccthere.net",
             "cctmweb.net",
             "cctongbao.com",
             "ccue.ca",
@@ -1231,6 +1234,7 @@ var rules = [
             "dotsub.com",
             "dotvpn.com",
             "doub.io",
+            "doubibackup.com",
             "doubmirror.cf",
             "dougscripts.com",
             "douhokanko.net",
@@ -2667,6 +2671,7 @@ var rules = [
             "jinhai.de",
             "jinpianwang.com",
             "jinroukong.com",
+            "jintian.net",
             "jinx.com",
             "jiruan.net",
             "jitouch.com",
@@ -3972,6 +3977,7 @@ var rules = [
             "sambhota.org",
             "sandscotaicentral.com",
             "sanmin.com.tw",
+            "sans.edu",
             "sapikachu.net",
             "saveliuxiaobo.com",
             "savemedia.com",
@@ -4391,6 +4397,7 @@ var rules = [
             "taiwanyes.com",
             "talk853.com",
             "talkboxapp.com",
+            "talkcc.com",
             "talkonly.net",
             "tamiaode.tk",
             "tampabay.com",
@@ -4598,6 +4605,7 @@ var rules = [
             "timdir.com",
             "time.com",
             "timsah.com",
+            "tinc-vpn.org",
             "tiney.com",
             "tineye.com",
             "tintuc101.com",
@@ -4919,6 +4927,7 @@ var rules = [
             "usus.cc",
             "utopianpal.com",
             "uu-gg.com",
+            "uukanshu.com",
             "uvwxyz.xyz",
             "uwants.com",
             "uwants.net",
