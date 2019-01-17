@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-01-16 12:38:53
+ * GFWList Last-Modified: 2019-01-17 22:02:48
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -333,6 +333,7 @@ var rules = [
             "android.com",
             "androidify.com",
             "androidplus.co",
+            "androidtv.com",
             "andygod.com",
             "angela-merkel.de",
             "angelfire.com",
