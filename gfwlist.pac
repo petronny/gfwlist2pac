@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-01-17 22:02:48
+ * GFWList Last-Modified: 2019-01-18 15:50:17
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1303,6 +1303,7 @@ var rules = [
             "dynssl.com",
             "dynu.com",
             "dynu.net",
+            "dysfz.cc",
             "dzze.com",
             "e-classical.com.tw",
             "e-gold.com",
@@ -2274,6 +2275,7 @@ var rules = [
             "higfw.com",
             "highpeakspureearth.com",
             "highrockmedia.com",
+            "hightail.com",
             "hihiforum.com",
             "hihistory.net",
             "hiitch.com",
@@ -3046,6 +3048,7 @@ var rules = [
             "mesotw.com",
             "messenger.com",
             "metacafe.com",
+            "metart.com",
             "metarthunter.com",
             "meteorshowersonline.com",
             "metro.taipei",
