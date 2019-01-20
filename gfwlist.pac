@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-01-19 19:06:43
+ * GFWList Last-Modified: 2019-01-20 20:03:15
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -156,6 +156,7 @@ var rules = [
             "3proxy.ru",
             "3ren.ca",
             "3tui.net",
+            "43110.cf",
             "466453.com",
             "4bluestones.biz",
             "4chan.com",
@@ -3051,6 +3052,7 @@ var rules = [
             "memrijttm.org",
             "mercatox.com",
             "mercyprophet.org",
+            "mergersandinquisitions.org",
             "meridian-trust.org",
             "meripet.biz",
             "meripet.com",
@@ -3081,6 +3083,7 @@ var rules = [
             "mihr.com",
             "mihua.org",
             "mikesoltys.com",
+            "mikocon.com",
             "milph.net",
             "milsurps.com",
             "mimiai.net",
@@ -3143,6 +3146,7 @@ var rules = [
             "mog.com",
             "mohu.club",
             "mohu.ml",
+            "mojim.com",
             "mol.gov.tw",
             "molihua.org",
             "monar.ch",
@@ -4518,6 +4522,7 @@ var rules = [
             "thevivekspot.com",
             "thewgo.org",
             "theync.com",
+            "thinkgeek.com",
             "thinkingtaiwan.com",
             "thinkwithgoogle.com",
             "thisav.com",
