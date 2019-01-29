@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-01-20 20:03:15
+ * GFWList Last-Modified: 2019-01-29 21:22:38
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -3028,6 +3028,7 @@ var rules = [
             "mcfog.com",
             "mcreasite.com",
             "md-t.org",
+            "me.me",
             "meansys.com",
             "media.org.hk",
             "mediachinese.com",
