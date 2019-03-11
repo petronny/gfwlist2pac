@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-01-29 21:22:38
+ * GFWList Last-Modified: 2019-03-04 11:23:00
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -4307,6 +4307,7 @@ var rules = [
             "steamcommunity.com",
             "steampowered.com",
             "steel-storm.com",
+            "steemit.com",
             "steganos.com",
             "steganos.net",
             "stepchina.com",
