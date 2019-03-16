@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-03-04 11:23:00
+ * GFWList Last-Modified: 2019-03-16 05:05:00
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -218,6 +218,7 @@ var rules = [
             "abebooks.com",
             "ablwang.com",
             "aboluowang.com",
+            "about.google",
             "aboutgfw.com",
             "abs.edu",
             "accim.org",
@@ -350,6 +351,7 @@ var rules = [
             "anonymise.us",
             "anonymitynetwork.com",
             "anonymizer.com",
+            "anonymouse.org",
             "anpopo.com",
             "answering-islam.org",
             "antd.org",
@@ -1803,6 +1805,7 @@ var rules = [
             "geocities.jp",
             "gerefoundation.org",
             "get.app",
+            "get.dev",
             "get.how",
             "get.page",
             "getastrill.com",
@@ -2017,6 +2020,7 @@ var rules = [
             "google.cv",
             "google.cz",
             "google.de",
+            "google.dev",
             "google.dj",
             "google.dk",
             "google.dm",
@@ -2778,6 +2782,7 @@ var rules = [
             "kink.com",
             "kinmen.org.tw",
             "kinmen.travel",
+            "kinokuniya.com",
             "kir.jp",
             "kissbbao.cn",
             "kiwi.kz",
@@ -3754,6 +3759,7 @@ var rules = [
             "prestige-av.com",
             "pride.google",
             "printfriendly.com",
+            "prism-break.org",
             "prisoneralert.com",
             "pritunl.com",
             "privacybox.de",
@@ -4487,6 +4493,7 @@ var rules = [
             "tenzinpalmo.com",
             "tew.org",
             "textnow.me",
+            "tfhub.dev",
             "thaicn.com",
             "thb.gov.tw",
             "theatrum-belli.com",
