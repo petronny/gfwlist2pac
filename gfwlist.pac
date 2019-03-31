@@ -1793,6 +1793,7 @@ var rules = [
             "gcmasia.com",
             "gcpnews.com",
             "gcr.io",
+            "gcu.edu.cn",
             "gdbt.net",
             "gdzf.org",
             "geek-art.net",
