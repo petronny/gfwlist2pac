@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-03-16 05:05:00
+ * GFWList Last-Modified: 2019-04-03 03:01:44
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -410,6 +410,7 @@ var rules = [
             "art4tibet1998.org",
             "arte.tv",
             "artofpeacefoundation.org",
+            "artstation.com",
             "artsy.net",
             "asacp.org",
             "asdfg.jp",
@@ -492,6 +493,7 @@ var rules = [
             "baramangaonline.com",
             "barenakedislam.com",
             "barnabu.co.uk",
+            "barton.de",
             "bartvpn.com",
             "bash-hackers.org",
             "bastillepost.com",
@@ -1726,6 +1728,7 @@ var rules = [
             "fuckcnnic.net",
             "fuckgfw.org",
             "fuckgfw233.org",
+            "fulione.com",
             "fullerconsideration.com",
             "fulue.com",
             "funf.tw",
@@ -4220,6 +4223,7 @@ var rules = [
             "softether-download.com",
             "softether.co.jp",
             "softether.org",
+            "softfamous.com",
             "softlayer.net",
             "softsmirror.cf",
             "softwarebychuck.com",
@@ -5257,6 +5261,7 @@ var rules = [
             "workerdemo.org.hk",
             "workerempowerment.org",
             "workersthebig.net",
+            "workflow.is",
             "worldcat.org",
             "worldjournal.com",
             "worldvpn.net",
