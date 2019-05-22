@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-04-29 10:36:52
+ * GFWList Last-Modified: 2019-05-23 00:27:18
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -208,6 +208,7 @@ var rules = [
             "99cn.info",
             "9bis.com",
             "9bis.net",
+            "9gag.com",
             "a-normal-day.com",
             "aamacau.com",
             "abc.com",
@@ -314,6 +315,7 @@ var rules = [
             "amazon.com",
             "amazonaws.com",
             "ameblo.jp",
+            "america.gov",
             "american.edu",
             "americangreencard.com",
             "americanunfinished.com",
@@ -872,6 +874,7 @@ var rules = [
             "chinalawtranslate.com",
             "chinamule.com",
             "chinamz.org",
+            "chinanewscenter.com",
             "chinapost.com.tw",
             "chinapress.com.my",
             "chinarightsia.org",
@@ -2711,6 +2714,7 @@ var rules = [
             "jp.net",
             "jpopforum.net",
             "jqueryui.com",
+            "jshell.net",
             "jtvnw.net",
             "jubushoushen.com",
             "juhuaren.com",
@@ -2887,6 +2891,7 @@ var rules = [
             "lidecheng.com",
             "lifemiles.com",
             "lighten.org.tw",
+            "lighti.me",
             "lightnovel.cn",
             "lihkg.com",
             "like.com",
@@ -3670,6 +3675,7 @@ var rules = [
             "pinkrod.com",
             "pinoy-n.com",
             "pinterest.at",
+            "pinterest.ca",
             "pinterest.co.kr",
             "pinterest.co.uk",
             "pinterest.com",
@@ -3700,6 +3706,7 @@ var rules = [
             "plm.org.hk",
             "plunder.com",
             "plurk.com",
+            "plus.codes",
             "plus28.com",
             "plusbb.com",
             "pmatehunter.com",
@@ -3747,6 +3754,7 @@ var rules = [
             "post852.com",
             "postadult.com",
             "postimg.org",
+            "potato.im",
             "potvpn.com",
             "power.com",
             "powerapple.com",
@@ -4724,7 +4732,6 @@ var rules = [
             "tsquare.tv",
             "tsu.org.tw",
             "tsunagarumon.com",
-            "tt-rss.org",
             "tt1069.com",
             "tttan.com",
             "ttv.com.tw",
