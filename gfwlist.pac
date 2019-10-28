@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-10-27 22:50:42
+ * GFWList Last-Modified: 2019-10-28 11:52:22
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1533,6 +1533,7 @@ var rules = [
             "fangongheike.com",
             "fanhaodang.com",
             "fanqiang.tk",
+            "fanqiangdang.com",
             "fanqianghou.com",
             "fanqiangyakexi.net",
             "fanqiangzhe.com",
