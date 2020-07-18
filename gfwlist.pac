@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2019-11-05 00:21:47
+ * GFWList Last-Modified: 2020-07-18 06:16:42
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -366,6 +366,7 @@ var rules = [
             "anws.gov.tw",
             "anyporn.com",
             "anysex.com",
+            "ao3.org",
             "aobo.com.au",
             "aofriend.com",
             "aofriend.com.au",
@@ -403,6 +404,8 @@ var rules = [
             "archive.li",
             "archive.org",
             "archive.today",
+            "archiveofourown.com",
+            "archiveofourown.org",
             "archives.gov",
             "archives.gov.tw",
             "arctosia.com",
@@ -733,6 +736,7 @@ var rules = [
             "cactusvpn.com",
             "cafepress.com",
             "cahr.org.tw",
+            "caijinglengyan.com",
             "calameo.com",
             "calebelston.com",
             "calgarychinese.ca",
@@ -1197,6 +1201,8 @@ var rules = [
             "directcreative.com",
             "discoins.com",
             "disconnect.me",
+            "discord.com",
+            "discord.gg",
             "discordapp.com",
             "discordapp.net",
             "discuss.com.hk",
@@ -1773,6 +1779,7 @@ var rules = [
             "gabocorp.com",
             "gaeproxy.com",
             "gaforum.org",
+            "gagaoolala.com",
             "galaxymacau.com",
             "galenwu.com",
             "galstars.net",
@@ -2444,6 +2451,7 @@ var rules = [
             "hugoroy.eu",
             "huhaitai.com",
             "huhamhire.com",
+            "huhangfei.com",
             "huiyi.in",
             "hulkshare.com",
             "hulu.com",
@@ -3399,6 +3407,7 @@ var rules = [
             "ninjaproxy.ninja",
             "nintendium.com",
             "ninth.biz",
+            "nitter.net",
             "niu.moe",
             "niusnews.com",
             "njactb.org",
@@ -3616,6 +3625,7 @@ var rules = [
             "paradisehill.cc",
             "paradisepoker.com",
             "parkansky.com",
+            "parsevideo.com",
             "partycasino.com",
             "partypoker.com",
             "passion.com",
@@ -3882,6 +3892,7 @@ var rules = [
             "ra.gg",
             "radicalparty.org",
             "radiko.jp",
+            "radio.garden",
             "radioaustralia.net.au",
             "radiohilight.net",
             "radiotime.com",
@@ -4151,6 +4162,7 @@ var rules = [
             "shodanhq.com",
             "shooshtime.com",
             "shop2000.com.tw",
+            "shopee.tw",
             "shopping.com",
             "showhaotu.com",
             "showtime.jp",
