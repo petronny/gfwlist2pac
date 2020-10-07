@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-09-23 21:57:31
+ * GFWList Last-Modified: 2020-10-07 23:56:33
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1897,6 +1897,7 @@ var rules = [
             "gmll.org",
             "gmodules.com",
             "gnci.org.hk",
+            "gnews.org",
             "go-pki.com",
             "go141.com",
             "goagent.biz",
@@ -3131,6 +3132,7 @@ var rules = [
             "mimivip.com",
             "mimivv.com",
             "mindrolling.org",
+            "mingdemedia.org",
             "minghui-a.org",
             "minghui-b.org",
             "minghui-school.org",
@@ -3973,6 +3975,7 @@ var rules = [
             "renyurenquan.org",
             "rerouted.org",
             "resilio.com",
+            "resistchina.org",
             "retweeteffect.com",
             "retweetist.com",
             "retweetrank.com",
