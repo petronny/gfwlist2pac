@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-10-08 22:37:39
+ * GFWList Last-Modified: 2020-10-21 00:11:38
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -2211,6 +2211,7 @@ var rules = [
             "gstatic.com",
             "gtricks.com",
             "gts-vpn.com",
+            "gtv.org",
             "gu-chu-sum.org",
             "guaguass.com",
             "guaguass.org",
