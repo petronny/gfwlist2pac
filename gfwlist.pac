@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2020-11-13 22:48:07
+ * GFWList Last-Modified: 2020-11-19 08:49:59
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -385,7 +385,7 @@ var rules = [
             "apiary.io",
             "apigee.com",
             "apk-dl.com",
-            "apkdler.com",
+            "apkcombo.com",
             "apkmirror.com",
             "apkmonk.com",
             "apkplz.com",
