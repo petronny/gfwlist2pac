@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-04-21 09:32:35
+ * GFWList Last-Modified: 2021-04-23 08:59:42
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -443,6 +443,7 @@ var rules = [
             "asg.to",
             "asia-gaming.com",
             "asiaharvest.org",
+            "asianage.com",
             "asianews.it",
             "asianfreeforum.com",
             "asiansexdiary.com",
@@ -862,6 +863,7 @@ var rules = [
             "certificate-transparency.org",
             "cfhks.org.hk",
             "cfos.de",
+            "cfr.org",
             "cftfc.com",
             "cgdepot.org",
             "cgst.edu",
@@ -1923,6 +1925,7 @@ var rules = [
             "getiton.com",
             "getjetso.com",
             "getlantern.org",
+            "getmalus.com",
             "getmdl.io",
             "getoutline.org",
             "getsocialscope.com",
@@ -3758,6 +3761,7 @@ var rules = [
             "overdaily.org",
             "overplay.net",
             "ovi.com",
+            "ovpn.com",
             "ow.ly",
             "owind.com",
             "owl.li",
@@ -3903,6 +3907,7 @@ var rules = [
             "playno1.com",
             "playpcesor.com",
             "plays.com.tw",
+            "plexvpn.pro",
             "plixi.com",
             "plm.org.hk",
             "plunder.com",
@@ -4609,6 +4614,7 @@ var rules = [
             "summify.com",
             "sumrando.com",
             "sun1911.com",
+            "sundayguardianlive.com",
             "sunmedia.ca",
             "sunporno.com",
             "sunskyforum.com",
@@ -5682,6 +5688,7 @@ var rules = [
             "yam.com",
             "yam.org.tw",
             "yande.re",
+            "yandex.com",
             "yanghengjun.com",
             "yangjianli.com",
             "yasni.co.uk",
