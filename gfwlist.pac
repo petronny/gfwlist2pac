@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-05-16 23:18:44
+ * GFWList Last-Modified: 2021-05-26 00:04:13
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -3219,6 +3219,7 @@ var rules = [
             "meforum.org",
             "mefound.com",
             "mega.co.nz",
+            "mega.io",
             "mega.nz",
             "megaproxy.com",
             "megarotic.com",
