@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-05-30 22:14:33
+ * GFWList Last-Modified: 2021-06-17 21:41:04
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -3547,6 +3547,7 @@ var rules = [
             "newyorktimes.com",
             "nexon.com",
             "next11.co.jp",
+            "nextdigital.com.hk",
             "nextmag.com.tw",
             "nextmedia.com",
             "nexton-net.jp",
@@ -4974,7 +4975,9 @@ var rules = [
             "tora.to",
             "torcn.com",
             "torguard.net",
+            "torlock.com",
             "torproject.org",
+            "torrentkitty.tv",
             "torrentprivacy.com",
             "torrentproject.se",
             "torrenty.org",
