@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-07-02 21:04:38
+ * GFWList Last-Modified: 2021-07-06 21:48:56
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -970,6 +970,7 @@ var rules = [
             "chrlawyers.hk",
             "chrome.com",
             "chromecast.com",
+            "chromeenterprise.google",
             "chromeexperiments.com",
             "chromercise.com",
             "chromestatus.com",
@@ -1900,6 +1901,7 @@ var rules = [
             "gazotube.com",
             "gcc.org.hk",
             "gclooney.com",
+            "gclubs.com",
             "gcmasia.com",
             "gcpnews.com",
             "gcr.io",
@@ -4125,6 +4127,7 @@ var rules = [
             "raremovie.cc",
             "raremovie.net",
             "rateyourmusic.com",
+            "rationalwiki.org",
             "rawgit.com",
             "rawgithub.com",
             "raxcdn.com",
@@ -4170,6 +4173,7 @@ var rules = [
             "renminbao.com",
             "renyurenquan.org",
             "rerouted.org",
+            "research.google",
             "resilio.com",
             "resistchina.org",
             "retweeteffect.com",
@@ -5053,6 +5057,7 @@ var rules = [
             "tuvpn.com",
             "tuzaijidi.com",
             "tv.com",
+            "tv.google",
             "tvants.com",
             "tvb.com",
             "tvboxnow.com",
@@ -5212,6 +5217,7 @@ var rules = [
             "unodedos.com",
             "unpo.org",
             "unseen.is",
+            "unstable.icu",
             "untraceable.us",
             "uocn.org",
             "updatestar.com",
