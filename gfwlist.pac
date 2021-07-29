@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-07-15 23:16:42
+ * GFWList Last-Modified: 2021-07-22 23:36:44
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -618,6 +618,7 @@ var rules = [
             "bit.do",
             "bit.ly",
             "bitbay.net",
+            "bitchute.com",
             "bitcointalk.org",
             "bitcoinworld.com",
             "bitfinex.com",
@@ -4998,6 +4999,7 @@ var rules = [
             "tpi.org.tw",
             "tracfone.com",
             "traffichaus.com",
+            "translate.google",
             "transparency.org",
             "treemall.com.tw",
             "trendsmap.com",
