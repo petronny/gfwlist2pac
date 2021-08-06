@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-07-22 23:36:44
+ * GFWList Last-Modified: 2021-08-05 06:38:02
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -205,6 +205,7 @@ var rules = [
             "888.com",
             "888poker.com",
             "89-64.org",
+            "8964museum.com",
             "8news.com.tw",
             "8z1.net",
             "9001700.com",
@@ -217,6 +218,7 @@ var rules = [
             "99cn.info",
             "9bis.com",
             "9bis.net",
+            "9cache.com",
             "9gag.com",
             "9news.com.au",
             "a-normal-day.com",
@@ -1661,6 +1663,7 @@ var rules = [
             "fdc64.org",
             "fdc89.jp",
             "feedburner.com",
+            "feeder.co",
             "feedly.com",
             "feedx.net",
             "feelssh.com",
@@ -1668,6 +1671,7 @@ var rules = [
             "feifeiss.com",
             "feitian-california.org",
             "feitianacademy.org",
+            "feixiaohao.com",
             "feministteacher.com",
             "fengzhenghu.com",
             "fengzhenghu.net",
@@ -3566,6 +3570,7 @@ var rules = [
             "ng.mil",
             "nga.mil",
             "ngensis.com",
+            "ngodupdongchung.com",
             "nhentai.net",
             "nhi.gov.tw",
             "nhk-ondemand.jp",
@@ -3691,6 +3696,7 @@ var rules = [
             "october-review.org",
             "oculus.com",
             "oculuscdn.com",
+            "odysee.com",
             "oex.com",
             "offbeatchina.com",
             "officeoftibet.com",
@@ -5511,6 +5517,7 @@ var rules = [
             "whereiswerner.com",
             "wheretowatch.com",
             "whippedass.com",
+            "whispersystems.org",
             "whodns.xyz",
             "whoer.net",
             "whotalking.com",
