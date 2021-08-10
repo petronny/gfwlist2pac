@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-08-05 06:38:02
+ * GFWList Last-Modified: 2021-08-10 00:58:08
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -4060,6 +4060,7 @@ var rules = [
             "putty.org",
             "puuko.com",
             "pwned.com",
+            "pximg.net",
             "python.com",
             "python.com.tw",
             "pythonhackers.com",
@@ -4259,6 +4260,7 @@ var rules = [
             "sacom.hk",
             "sadistic-v.com",
             "sadpanda.us",
+            "safechat.com",
             "safervpn.com",
             "safety.google",
             "saintyculture.com",
@@ -4949,6 +4951,7 @@ var rules = [
             "tiny.cc",
             "tinychat.com",
             "tinypaste.com",
+            "tipas.net",
             "tipo.gov.tw",
             "tistory.com",
             "tkcs-collins.com",
@@ -5624,6 +5627,7 @@ var rules = [
             "x-art.com",
             "x-berry.com",
             "x-wall.org",
+            "x.co",
             "x.company",
             "x1949x.com",
             "x24hr.com",
