@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-08-10 00:58:08
+ * GFWList Last-Modified: 2021-08-12 01:07:10
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -3544,6 +3544,7 @@ var rules = [
             "newsdetox.ca",
             "newsdh.com",
             "newsmagazine.asia",
+            "newsmax.com",
             "newspeak.cc",
             "newstamago.com",
             "newstapa.org",
