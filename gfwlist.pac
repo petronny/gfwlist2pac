@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-08-27 23:33:15
+ * GFWList Last-Modified: 2021-09-07 22:20:05
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -453,6 +453,7 @@ var rules = [
             "asiansexdiary.com",
             "asianspiss.com",
             "asianwomensfilm.de",
+            "asiaone.com",
             "asiatgp.com",
             "asiatoday.us",
             "askstudent.com",
@@ -2408,6 +2409,7 @@ var rules = [
             "hexieshe.com",
             "hexieshe.xyz",
             "hexxeh.net",
+            "heyuedi.com",
             "heywire.com",
             "heyzo.com",
             "hgseav.com",
@@ -4788,6 +4790,7 @@ var rules = [
             "tenacy.com",
             "tensorflow.org",
             "tenzinpalmo.com",
+            "terabox.com",
             "tew.org",
             "textnow.me",
             "tfhub.dev",
