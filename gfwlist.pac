@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-09-07 22:20:05
+ * GFWList Last-Modified: 2021-09-20 05:45:53
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -4365,6 +4365,7 @@ var rules = [
             "shadowsocks.org",
             "shadowsocks9.com",
             "shafaqna.com",
+            "shahit.biz",
             "shambalapost.com",
             "shambhalasun.com",
             "shangfang.org",
@@ -5013,6 +5014,7 @@ var rules = [
             "tpi.org.tw",
             "tracfone.com",
             "traffichaus.com",
+            "translate.goog",
             "translate.google",
             "transparency.org",
             "treemall.com.tw",
