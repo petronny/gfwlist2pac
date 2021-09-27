@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-09-20 05:45:53
+ * GFWList Last-Modified: 2021-09-27 20:26:24
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -3452,6 +3452,7 @@ var rules = [
             "mynumber.org",
             "myparagliding.com",
             "mypicture.info",
+            "mypikpak.com",
             "mypop3.net",
             "mypop3.org",
             "mypopescu.com",
