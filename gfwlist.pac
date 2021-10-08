@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-09-27 20:26:24
+ * GFWList Last-Modified: 2021-10-09 01:38:06
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1060,6 +1060,7 @@ var rules = [
             "coinegg.com",
             "coinex.com",
             "coingi.com",
+            "coinmarketcap.com",
             "coinrail.co.kr",
             "cointiger.com",
             "cointobe.com",
@@ -1832,6 +1833,7 @@ var rules = [
             "fscked.org",
             "fsurf.com",
             "ftchinese.com",
+            "ftp.com",
             "ftp1.biz",
             "ftpserver.biz",
             "ftv.com.tw",
@@ -5014,7 +5016,7 @@ var rules = [
             "tparents.org",
             "tpi.org.tw",
             "tracfone.com",
-            "traffichaus.com",
+            "tradingview.com",
             "translate.goog",
             "translate.google",
             "transparency.org",
