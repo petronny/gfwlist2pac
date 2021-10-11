@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-10-09 01:38:06
+ * GFWList Last-Modified: 2021-10-12 01:05:03
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -2525,6 +2525,7 @@ var rules = [
             "hopto.org",
             "hornygamer.com",
             "hornytrip.com",
+            "horrorporn.com",
             "hotair.com",
             "hotav.tv",
             "hotels.cn",
