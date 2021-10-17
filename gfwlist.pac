@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-10-12 01:05:03
+ * GFWList Last-Modified: 2021-10-15 20:50:40
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -136,6 +136,7 @@ var rules = [
             "2000fun.com",
             "2008xianzhang.info",
             "2017.hk",
+            "2021hkcharter.com",
             "2047.name",
             "21andy.com",
             "21join.com",
@@ -646,6 +647,7 @@ var rules = [
             "blinw.com",
             "blip.tv",
             "blockcn.com",
+            "blockedbyhk.com",
             "blockless.com",
             "blog.de",
             "blog.google",
@@ -686,6 +688,7 @@ var rules = [
             "bongacams.com",
             "boobstagram.com",
             "book.com.tw",
+            "bookdepository.com",
             "bookepub.com",
             "books.com.tw",
             "booktopia.com.au",
@@ -2032,6 +2035,7 @@ var rules = [
             "goo.ne.jp",
             "gooday.xyz",
             "gooddns.info",
+            "goodhope.school",
             "goodreaders.com",
             "goodreads.com",
             "goodtv.com.tw",
