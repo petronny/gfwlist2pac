@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-10-15 20:50:40
+ * GFWList Last-Modified: 2021-10-18 22:14:25
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -768,6 +768,7 @@ var rules = [
             "bwsj.hk",
             "bx.in.th",
             "bx.tl",
+            "bybit.com",
             "bynet.co.il",
             "bypasscensorship.org",
             "c-est-simple.com",
@@ -1062,6 +1063,7 @@ var rules = [
             "coinbene.com",
             "coinegg.com",
             "coinex.com",
+            "coingecko.com",
             "coingi.com",
             "coinmarketcap.com",
             "coinrail.co.kr",
@@ -1836,11 +1838,11 @@ var rules = [
             "fscked.org",
             "fsurf.com",
             "ftchinese.com",
-            "ftp.com",
             "ftp1.biz",
             "ftpserver.biz",
             "ftv.com.tw",
             "ftvnews.com.tw",
+            "ftx.com",
             "fucd.com",
             "fuckcnnic.net",
             "fuckgfw.org",
@@ -5070,6 +5072,7 @@ var rules = [
             "tumview.com",
             "tunein.com",
             "tunnelbear.com",
+            "tunnelblick.net",
             "tunnelr.com",
             "tunsafe.com",
             "turansam.org",
@@ -5440,6 +5443,7 @@ var rules = [
             "waigaobu.com",
             "waikeung.org",
             "wailaike.net",
+            "wainao.me",
             "waiwaier.com",
             "wallmama.com",
             "wallornot.org",
@@ -5732,6 +5736,7 @@ var rules = [
             "xyy69.com",
             "xyy69.info",
             "y2mate.com",
+            "yadi.sk",
             "yahoo.co.jp",
             "yahoo.com",
             "yahoo.com.hk",
