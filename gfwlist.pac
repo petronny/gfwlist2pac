@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-10-18 22:14:25
+ * GFWList Last-Modified: 2021-10-25 08:03:30
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1973,6 +1973,7 @@ var rules = [
             "girlbanker.com",
             "git.io",
             "gitbooks.io",
+            "githack.com",
             "github.blog",
             "github.com",
             "github.io",
@@ -3624,6 +3625,7 @@ var rules = [
             "nordstromimage.com",
             "nordstromrack.com",
             "nordvpn.com",
+            "notepad-plus-plus.org",
             "nottinghampost.com",
             "novelasia.com",
             "now.com",
