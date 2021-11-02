@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-10-25 08:03:30
+ * GFWList Last-Modified: 2021-11-02 00:10:37
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -3700,6 +3700,7 @@ var rules = [
             "nytstyle.com",
             "nzchinese.com",
             "nzchinese.net.nz",
+            "oanda.com",
             "oauth.net",
             "observechina.net",
             "obutu.com",
@@ -4835,6 +4836,7 @@ var rules = [
             "thehousenews.com",
             "thehun.net",
             "theinitium.com",
+            "themoviedb.org",
             "thenewslens.com",
             "thepiratebay.org",
             "theporndude.com",
@@ -4850,6 +4852,7 @@ var rules = [
             "thetibetpost.com",
             "thetinhat.com",
             "thetrotskymovie.com",
+            "thetvdb.com",
             "thevivekspot.com",
             "thewgo.org",
             "theync.com",
@@ -5834,6 +5837,7 @@ var rules = [
             "yyii.org",
             "yyjlymb.xyz",
             "yzzk.com",
+            "z-lib.org",
             "zacebook.com",
             "zalmos.com",
             "zannel.com",
