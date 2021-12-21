@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-12-17 22:11:48
+ * GFWList Last-Modified: 2021-12-21 02:03:28
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -4264,6 +4264,7 @@ var rules = [
             "rule34.xxx",
             "runbtx.com",
             "rushbee.com",
+            "rusvpn.com",
             "ruten.com.tw",
             "rutube.ru",
             "ruyiseek.com",
