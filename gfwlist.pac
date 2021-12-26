@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2021-12-21 02:03:28
+ * GFWList Last-Modified: 2021-12-27 00:08:25
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -673,6 +673,7 @@ var rules = [
             "bloomberg.de",
             "bloombergview.com",
             "bloomfortune.com",
+            "blubrry.com",
             "blueangellive.com",
             "bmfinn.com",
             "bnews.co",
@@ -4058,6 +4059,7 @@ var rules = [
             "pt.im",
             "pts.org.tw",
             "ptt.cc",
+            "pttgame.com",
             "pttvan.org",
             "pubu.com.tw",
             "puffinbrowser.com",
@@ -4911,7 +4913,9 @@ var rules = [
             "tibetancommunity.org",
             "tibetancommunityuk.net",
             "tibetanculture.org",
+            "tibetanentrepreneurs.org",
             "tibetanfeministcollective.org",
+            "tibetanhealth.org",
             "tibetanjournal.com",
             "tibetanlanguage.org",
             "tibetanliberation.org",
@@ -5043,6 +5047,7 @@ var rules = [
             "trickip.net",
             "trickip.org",
             "trimondi.de",
+            "tronscan.org",
             "trouw.nl",
             "trt.net.tr",
             "trtc.com.tw",
