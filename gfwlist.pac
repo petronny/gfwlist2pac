@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-01-22 05:44:46
+ * GFWList Last-Modified: 2022-01-28 22:16:48
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -3379,6 +3379,7 @@ var rules = [
             "monlamit.org",
             "monster.com",
             "moodyz.com",
+            "moon.fm",
             "moonbbs.com",
             "moonbingo.com",
             "moptt.tw",
@@ -3971,6 +3972,7 @@ var rules = [
             "po2b.com",
             "pobieramy.top",
             "podbean.com",
+            "podcast.co",
             "podictionary.com",
             "pokerstars.com",
             "pokerstars.net",
