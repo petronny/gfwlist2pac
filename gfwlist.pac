@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-01-28 22:16:48
+ * GFWList Last-Modified: 2022-01-29 10:25:08
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -1204,12 +1204,11 @@ var rules = [
             "dalianmeng.org",
             "daliulian.org",
             "danke4china.net",
-            "danwei.org",
             "daolan.net",
-            "daozhongxing.org",
             "darktech.org",
             "darktoy.net",
             "darpa.mil",
+            "darrenliuwei.com",
             "dastrassi.org",
             "data-vocabulary.org",
             "data.gov.tw",
@@ -4559,6 +4558,7 @@ var rules = [
             "sonidodelaesperanza.org",
             "sopcast.com",
             "sopcast.org",
+            "sophos.com",
             "sorazone.net",
             "sorting-algorithms.com",
             "sos.org",
