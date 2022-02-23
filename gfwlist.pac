@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * GFWList Last-Modified: 2022-02-13 23:17:05
+ * GFWList Last-Modified: 2022-02-24 02:03:12
  */
 
 var proxy = 'SOCKS5 127.0.0.1:1080';
@@ -5071,6 +5071,7 @@ var rules = [
             "truebuddha-md.org",
             "trulyergonomic.com",
             "truthontour.org",
+            "truthsocial.com",
             "truveo.com",
             "tryheart.jp",
             "tsctv.net",
