@@ -1,8 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
-    [
             "aftygh.gov.tw",
-            "aide.gov.tw",
             "aliyun.com",
             "arte.gov.tw",
             "baidu.com",
