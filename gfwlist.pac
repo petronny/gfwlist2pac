@@ -1,6 +1,13 @@
-/**
- * genpac 2.1.0 https://github.com/JinnLynn/genpac
+var proxy = 'SOCKS5 127.0.0.1:1080';
+var rules = [
+    [
+        [],
+        []
+    ],
+    [
+        [
             "aftygh.gov.tw",
+            "aide.gov.tw",
             "aliyun.com",
             "arte.gov.tw",
             "baidu.com",
@@ -3727,6 +3734,7 @@
             "okayfreedom.com",
             "okex.com",
             "okk.tw",
+            "okx.com",
             "olabloga.pl",
             "old-cat.net",
             "olevod.com",
