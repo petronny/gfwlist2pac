@@ -1,6 +1,0 @@
-[submodule "gfwlist"]
-	path = gfwlist
-	url = https://github.com/gfwlist/gfwlist
-[submodule "genpac"]
-	path = genpac
-	url = https://github.com/JinnLynn/genpac
