@@ -61,7 +61,7 @@ jobs:
           sed '1,7d' -i gfwlist.pac
 
           git add gfwlist.pac
-          git commit -m "[$(LANG=C date)] auto update"
+          git commit -m "[$(LANG=C date)] auto update" || exit
 
           [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit
 
