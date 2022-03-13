@@ -719,6 +719,7 @@ var rules = [
             "breakwall.net",
             "briefdream.com",
             "briian.com",
+            "brill.com",
             "brizzly.com",
             "brkmd.com",
             "broadbook.com",
