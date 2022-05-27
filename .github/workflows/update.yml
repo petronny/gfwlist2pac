@@ -32,14 +32,14 @@ jobs:
           pacman -Syu --noconfirm
           pacman -S --needed --noconfirm git python-setuptools pacman-contrib openssh
 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           repository: JinnLynn/genpac
           path: genpac
 
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           repository: gfwlist/gfwlist
           path: gfwlist
@@ -54,6 +54,8 @@ jobs:
           set -x
 
           cp ssh_config /root/.ssh/config
+          pwd
+          ls -al
           git config user.name ${{ secrets.GIT_COMMIT_NAME }}
           git config user.email ${{ secrets.GIT_COMMIT_EMAIL }}
 
