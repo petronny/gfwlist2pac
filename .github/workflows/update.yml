@@ -8,29 +8,15 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-    container:
-      image: archlinux
 
     steps:
       - name: Save ssh key
         run: |
-          echo "${{ secrets.SSH_KEY }}" | install -Dm400 /dev/stdin /root/.ssh/github
-
-      - name: Get time
-        id: time
-        run: echo "::set-output name=time::$(date +%F-%T)"
-
-      - name: Set up cache
-        uses: actions/cache@master
-        with:
-          path: /var/cache/pacman/pkg
-          key: pacman-cache-x86_64-${{ steps.time.outputs.time }}
-          restore-keys: pacman-cache-x86_64-
+          echo "${{ secrets.SSH_KEY }}" | install -Dm400 /dev/stdin ~/.ssh/github
 
       - name: Install packages
         run: |
-          pacman -Syu --noconfirm
-          pacman -S --needed --noconfirm git python-setuptools pacman-contrib openssh
+          sudo apt-get install openssh-client python3-setuptools
 
       - uses: actions/checkout@v3
 
@@ -47,15 +33,13 @@ jobs:
       - run: |
           cd genpac
           sed 's/from collections import Callable/from collections.abc import Callable/g' -i $(grep 'from collections import Callable' . -rIl)
-          python setup.py install
+          sudo python3 setup.py install
 
       - name: Update
         run: |
           set -x
 
-          cp ssh_config /root/.ssh/config
-          pwd
-          ls -al
+          cp ssh_config ~/.ssh/config
           git config user.name ${{ secrets.GIT_COMMIT_NAME }}
           git config user.email ${{ secrets.GIT_COMMIT_EMAIL }}
 
