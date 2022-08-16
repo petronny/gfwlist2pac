@@ -3880,6 +3880,7 @@ var rules = [
             "pastebin.com",
             "pastie.org",
             "pathtosharepoint.com",
+            "patreon.com",
             "paxful.com",
             "pbs.org",
             "pbwiki.com",
