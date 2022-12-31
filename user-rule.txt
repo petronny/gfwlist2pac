@@ -1,0 +1,14 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+
+ascii2d.net
+sourceforge.net
+files.pythonhosted.org
+repo.anaconda.com
+gitlab.com
+
+! 不稳定
+github.com
+
+@@store.steampowered.com
+@@.live.com
