@@ -1,8 +1,18 @@
 var proxy = 'SOCKS5 127.0.0.1:1080';
 var rules = [
     [
-        [],
-        []
+        [
+            "live.com",
+            "steampowered.com"
+        ],
+        [
+            "anaconda.com",
+            "ascii2d.net",
+            "github.com",
+            "gitlab.com",
+            "pythonhosted.org",
+            "sourceforge.net"
+        ]
     ],
     [
         [
