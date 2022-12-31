@@ -49,4 +49,4 @@ jobs:
 
           [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
 
-          git push origin master
+          git push origin patch
