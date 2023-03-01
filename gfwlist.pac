@@ -262,6 +262,7 @@ var rules = [
             "advertfan.com",
             "advertisercommunity.com",
             "ae.org",
+            "aei.org",
             "aenhancers.com",
             "aex.com",
             "af.mil",
