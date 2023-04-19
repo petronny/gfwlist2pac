@@ -28,7 +28,7 @@ jobs:
           repository: gfwlist/gfwlist
           path: gfwlist
 
-      - uses: petronny/git-config-user@master
+      - uses: xoyojo/git-config-user@master
         with:
           path: .
 
