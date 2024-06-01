@@ -4179,6 +4179,7 @@ var rules = [
             "pythonic.life",
             "pytorch.org",
             "qanote.com",
+            "qbittorrent.org",
             "qgirl.com.tw",
             "qhigh.com",
             "qi-gong.me",
