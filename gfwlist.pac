@@ -90,6 +90,8 @@ var rules = [
             "zhongsou.com"
         ],
         [
+            "www.google.com",
+            "chat.openai.com",
             "suno.com",
             "www.notion.so",
             "spacedesk.net",
