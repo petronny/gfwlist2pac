@@ -90,6 +90,8 @@ var rules = [
             "zhongsou.com"
         ],
         [
+"google.com",
+"console.cloud.google.com",
             "000webhost.com",
             "030buy.com",
             "0rz.tw",
