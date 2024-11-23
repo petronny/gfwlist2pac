@@ -90,6 +90,7 @@ var rules = [
             "zhongsou.com"
         ],
         [
+"file.notion.so",
 "x.ai",
 "gemini.google.com",
 "mark-up.notion.site",
