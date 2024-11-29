@@ -90,8 +90,11 @@ var rules = [
             "zhongsou.com"
         ],
         [
-"oceanprotocol.com",
+"ww25.portal.duangcloud.xyz",
 "file.notion.so",
+"notion.so",
+"oceanprotocol.com",
+"nodes.oceanprotocol.com",
 "x.ai",
 "gemini.google.com",
 "mark-up.notion.site",
