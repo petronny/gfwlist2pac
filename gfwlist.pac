@@ -90,6 +90,7 @@ var rules = [
             "zhongsou.com"
         ],
         [
+"copilot.microsoft.com",
 "ww25.portal.duangcloud.xyz",
 "file.notion.so",
 "notion.so",
