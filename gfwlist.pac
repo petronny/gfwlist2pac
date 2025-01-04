@@ -1073,6 +1073,7 @@ var rules = [
             "cn6.eu",
             "cna.com.tw",
             "cnabc.com",
+            "cnbeta.com.tw",
             "cnd.org",
             "cnet.com",
             "cnex.org.cn",
