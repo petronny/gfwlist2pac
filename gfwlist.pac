@@ -90,6 +90,8 @@ var rules = [
             "zhongsou.com"
         ],
         [
+"www.iyf.tv",
+"iyf.tv",
 "copilot.microsoft.com",
 "ww25.portal.duangcloud.xyz",
 "file.notion.so",
