@@ -90,6 +90,8 @@ var rules = [
             "zhongsou.com"
         ],
         [
+"console.mistral.ai",
+"grok.com",
 "www.iyf.tv",
 "iyf.tv",
 "copilot.microsoft.com",
