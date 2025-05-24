@@ -4538,6 +4538,7 @@ var rules = [
             "redchinacn.org",
             "redd.it",
             "reddit.com",
+            "reddithelp.com",
             "redditlist.com",
             "redditmedia.com",
             "redditspace.com",
