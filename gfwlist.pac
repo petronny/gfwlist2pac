@@ -2091,6 +2091,7 @@ var rules = [
             "geekheart.info",
             "gekikame.com",
             "gelbooru.com",
+            "gemini.google",
             "generated.photos",
             "genius.com",
             "geocities.co.jp",
