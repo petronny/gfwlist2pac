@@ -223,6 +223,7 @@ var rules = [
             "8z1.net",
             "9001700.com",
             "908taiwan.org",
+            "91dasai.com",
             "91porn.com",
             "91porny.com",
             "91vps.club",
