@@ -3680,6 +3680,7 @@ var rules = [
             "onmypc.org",
             "onthehunt.com",
             "ontrac.com",
+            "oojj.de",
             "open.com.hk",
             "openai.com",
             "opendemocracy.net",
