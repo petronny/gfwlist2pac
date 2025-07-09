@@ -1405,6 +1405,7 @@ var rules = [
             "e-info.org.tw",
             "e-zone.com.hk",
             "e123.hk",
+            "e621.net",
             "earlytibet.com",
             "earthcam.com",
             "earthvpn.com",
