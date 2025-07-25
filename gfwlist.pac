@@ -5656,6 +5656,7 @@ var rules = [
             "yandex.net",
             "yandex.ru",
             "yanghengjun.com",
+            "yangzhi.org",
             "yasni.co.uk",
             "yasukuni.or.jp",
             "yayabay.com",
