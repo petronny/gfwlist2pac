@@ -3082,6 +3082,7 @@ var rules = [
             "lsxszzg.com",
             "ltn.com.tw",
             "luckydesigner.space",
+            "ludepress.com",
             "luke54.com",
             "luke54.org",
             "lupm.org",
