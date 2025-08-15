@@ -4618,6 +4618,7 @@ var rules = [
             "surrenderat20.net",
             "svsfx.com",
             "swagbucks.com",
+            "swapspace.co",
             "swissinfo.ch",
             "swissvpn.net",
             "switch1.jp",
