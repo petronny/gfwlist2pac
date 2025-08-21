@@ -2734,6 +2734,7 @@ var rules = [
             "itemdb.com",
             "itemfix.com",
             "ithome.com.tw",
+            "itiger.com",
             "itsaol.com",
             "itshidden.com",
             "itsky.it",
