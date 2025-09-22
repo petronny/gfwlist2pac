@@ -5158,7 +5158,6 @@ var rules = [
             "ucam.org",
             "ucanews.com",
             "uchicago.edu",
-            "uderzo.it",
             "udn.com",
             "udn.com.tw",
             "udnbkk.com",
