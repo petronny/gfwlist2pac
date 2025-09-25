@@ -5518,6 +5518,7 @@ var rules = [
             "wikimapia.org",
             "wikimedia.org",
             "wikinews.org",
+            "wikipedia.com",
             "wikipedia.org",
             "wikiquote.org",
             "wikisource.org",
