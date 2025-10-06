@@ -5311,6 +5311,7 @@ var rules = [
             "vilanet.me",
             "vilavpn.com",
             "vimeo.com",
+            "vimeocdn.com",
             "vimperator.org",
             "vincnd.com",
             "vine.co",
