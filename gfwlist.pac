@@ -1712,6 +1712,7 @@ var rules = [
             "flecheinthepeche.fr",
             "fleshbot.com",
             "fleursdeslettres.com",
+            "flexclip.com",
             "flexpool.io",
             "flgjustice.org",
             "flickr.com",
