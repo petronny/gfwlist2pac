@@ -815,6 +815,7 @@ var rules = [
             "dalianmeng.org",
             "daliulian.org",
             "danke4china.net",
+            "dappcdn.com",
             "darmau.co",
             "darpa.mil",
             "darrenliuwei.com",
