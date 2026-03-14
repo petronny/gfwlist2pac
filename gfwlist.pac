@@ -3916,6 +3916,7 @@ var rules = [
             "xcafe.in",
             "xcancel.com",
             "xcity.jp",
+            "xdaforums.com",
             "xerotica.com",
             "xfinity.com",
             "xfxssr.me",
