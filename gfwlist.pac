@@ -3948,6 +3948,7 @@ var rules = [
             "xn--9pr62r24a.com",
             "xn--czq75pvv1aj5c.org",
             "xn--i2ru8q2qg.com",
+            "xn--kcrv3utim32hx9f6qe.com",
             "xn--ngstr-lra8j.com",
             "xn--noss43i.com",
             "xn--oiq.cc",
