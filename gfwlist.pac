@@ -297,6 +297,7 @@ var rules = [
             "avg.com",
             "avgle.com",
             "avidemux.org",
+            "avistaz.to",
             "avmo.pw",
             "avmoo.pw",
             "avoision.com",
