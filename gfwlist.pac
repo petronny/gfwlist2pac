@@ -3276,6 +3276,7 @@ var rules = [
             "tbssqh.org",
             "tdesktop.com",
             "teachparentstech.org",
+            "techbang.com",
             "technews.tw",
             "techviz.net",
             "teck.in",
