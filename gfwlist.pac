@@ -2365,6 +2365,7 @@ var rules = [
             "motherless.com",
             "movements.org",
             "moviefap.com",
+            "mozilla.ai",
             "mozilla.org",
             "moztw.org",
             "mpettis.com",
