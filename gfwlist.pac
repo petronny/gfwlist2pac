@@ -931,6 +931,7 @@ var rules = [
             "dougscripts.com",
             "doujincafe.com",
             "dowjones.com",
+            "dowjones.io",
             "dpool.top",
             "dpp.org.tw",
             "dpr.info",
