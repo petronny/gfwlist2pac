@@ -3102,6 +3102,7 @@ var rules = [
             "sinoca.com",
             "sinocast.com",
             "sinoinsider.com",
+            "sinyalee.com",
             "sipml5.org",
             "sis001.com",
             "site.new",
