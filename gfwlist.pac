@@ -1068,6 +1068,7 @@ var rules = [
             "expekt.com",
             "exploader.net",
             "expofutures.com",
+            "expressnews.com",
             "expressvpn.com",
             "exrates.me",
             "extmatrix.com",
