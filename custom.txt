@@ -1,9 +1,11 @@
+! proxy: SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;
+!
+! ^^^ PAC returns the string above when a rule matches. Replace it with your
+!     own, for example:  PROXY 127.0.0.1:8080; DIRECT;
+!     (only this one "! proxy:" line is read; a command line --proxy overrides it)
+!
 ! ---------------------------------------------------------------------------
 ! gfwlist2pac custom rules  (this file is watched by the CI workflow)
-!
-! Proxy string that PAC returns when a rule matches. Edit this line to
-! replicate this setup with your own proxy:
-!   proxy: SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;
 !
 ! Rule syntax (gfwlist / AutoProxy):
 !   ||example.com      use proxy for example.com and all its subdomains

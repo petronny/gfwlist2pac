@@ -73,17 +73,21 @@ def load_user_rules(paths):
     """读取自定义规则，返回 (规则行, 文件里声明的代理串)。
 
     代理串写在规则文件的 `! proxy: ...` 里，方便别人只改一个文件就能复刻；
-    同一条指令出现多次时以第一次为准，命令行 ``--proxy`` 优先级更高。
+    同一条指令出现多次时以第一次为准（并给出告警），命令行 ``--proxy`` 优先级更高。
     """
     lines = []
-    proxy = ''
+    found = []
     for p in paths:
         for line in Path(p).read_text(encoding='utf-8').splitlines():
             matched = PROXY_DIRECTIVE.match(line)
-            if matched and not proxy:
-                proxy = matched.group('proxy').strip()
+            if matched:
+                found.append((str(p), matched.group('proxy').strip()))
             lines.append(line)
-    return lines, proxy
+
+    if len({value for _, value in found}) > 1:
+        print('warning: 发现多处 "! proxy:" 配置，使用 {} 里的：{}'.format(*found[0]),
+              file=sys.stderr)
+    return lines, (found[0][1] if found else '')
 
 
 def _genpac_version():
