@@ -1,8 +1,16 @@
 name: Auto update
 
 on:
+  # 固定时间点，UTC 04:00 起每 6 小时一次（04 / 10 / 16 / 22 UTC）。
+  # custom.txt 推送触发的额外运行不会改变这些时间点。
   schedule:
-    - cron: '37 */6 * * *'
+    - cron: '0 4,10,16,22 * * *'
+  # 改完自定义规则立刻重建，不必等下一个整点
+  push:
+    branches:
+      - master
+    paths:
+      - custom.txt
   workflow_dispatch:
 
 # 防止定时任务和手动任务并发执行
@@ -12,9 +20,6 @@ concurrency:
 
 permissions:
   contents: write
-
-env:
-  PAC_PROXY: "SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;"
 
 jobs:
   update:
@@ -48,10 +53,10 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p build
+          # 代理串写在 custom.txt 的 "! proxy: ..." 里，克隆仓库后只改这一个文件即可
           python -m tools.build_pac \
             --gfwlist gfwlist/gfwlist.txt \
-            --user-rule-from custom-proxy.txt \
-            --proxy "$PAC_PROXY" \
+            --user-rule-from custom.txt \
             --output build/gfwlist.pac \
             --baseline-out build/genpac-baseline.pac \
             --sample-urls-out build/parity-urls.txt \

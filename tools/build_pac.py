@@ -10,8 +10,7 @@
 
     python -m tools.build_pac \
         --gfwlist gfwlist/gfwlist.txt \
-        --user-rule-from custom-proxy.txt \
-        --proxy "SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;" \
+        --user-rule-from custom.txt \
         -o gfwlist.pac
 """
 
@@ -28,6 +27,10 @@ from . import genpac_compat, pacgen
 
 ROOT = Path(__file__).resolve().parent.parent
 RUNTIME_JS = ROOT / 'pac' / 'runtime.js'
+
+# 自定义规则文件里声明 PAC 代理串：`! proxy: SOCKS5 ...; DIRECT;`
+# 以 `!` 开头，同时是 gfwlist 的注释语法，直接喂给 genpac 也不会出错。
+PROXY_DIRECTIVE = re.compile(r'^\s*!\s*proxy\s*:\s*(?P<proxy>.+?)\s*$', re.IGNORECASE)
 
 
 def load_gfwlist(path=None, url=None):
@@ -67,10 +70,20 @@ def load_gfwlist(path=None, url=None):
 
 
 def load_user_rules(paths):
+    """读取自定义规则，返回 (规则行, 文件里声明的代理串)。
+
+    代理串写在规则文件的 `! proxy: ...` 里，方便别人只改一个文件就能复刻；
+    同一条指令出现多次时以第一次为准，命令行 ``--proxy`` 优先级更高。
+    """
     lines = []
+    proxy = ''
     for p in paths:
-        lines.extend(Path(p).read_text(encoding='utf-8').splitlines())
-    return lines
+        for line in Path(p).read_text(encoding='utf-8').splitlines():
+            matched = PROXY_DIRECTIVE.match(line)
+            if matched and not proxy:
+                proxy = matched.group('proxy').strip()
+            lines.append(line)
+    return lines, proxy
 
 
 def _genpac_version():
@@ -197,7 +210,8 @@ def main(argv=None):
     src.add_argument('--gfwlist-url', help='在线 gfwlist 地址')
     ap.add_argument('--user-rule-from', action='append', default=[],
                     metavar='FILE', help='自定义规则文件，可重复')
-    ap.add_argument('--proxy', required=True, help='PAC 返回的代理串')
+    ap.add_argument('--proxy',
+                    help='PAC 返回的代理串；缺省时读自定义规则文件里的 "! proxy: ..."')
     ap.add_argument('-o', '--output', required=True, help='输出 PAC 路径')
     ap.add_argument('--engine', choices=('optimized', 'genpac'), default='optimized')
     ap.add_argument('--runtime', default=str(RUNTIME_JS), help='运行时模板路径')
@@ -208,7 +222,13 @@ def main(argv=None):
     args = ap.parse_args(argv)
 
     gfwlist_lines, source, modified = load_gfwlist(args.gfwlist, args.gfwlist_url)
-    user_lines = load_user_rules(args.user_rule_from)
+    user_lines, file_proxy = load_user_rules(args.user_rule_from)
+
+    proxy = args.proxy or file_proxy
+    if not proxy:
+        raise SystemExit(
+            '缺少代理串：用 --proxy 指定，或在自定义规则文件里写 '
+            '"! proxy: PROXY 127.0.0.1:8080;"')
 
     genpac_compat.install()
     user_parsed = pacgen.parse_precise(user_lines)
@@ -222,17 +242,17 @@ def main(argv=None):
     }
 
     if args.engine == 'genpac':
-        pac = render_genpac_pac(args.proxy, user_parsed, gfwlist_parsed, meta)
+        pac = render_genpac_pac(proxy, user_parsed, gfwlist_parsed, meta)
     else:
         runtime_js = Path(args.runtime).read_text(encoding='utf-8')
-        pac = pacgen.render_pac(args.proxy, buckets, runtime_js,
-                                header_lines(args.proxy, buckets, meta))
+        pac = pacgen.render_pac(proxy, buckets, runtime_js,
+                                header_lines(proxy, buckets, meta))
 
     Path(args.output).write_text(pac, encoding='utf-8', newline='\n')
 
     if args.baseline_out:
         Path(args.baseline_out).write_text(
-            render_genpac_pac(args.proxy, user_parsed, gfwlist_parsed, meta),
+            render_genpac_pac(proxy, user_parsed, gfwlist_parsed, meta),
             encoding='utf-8', newline='\n')
 
     if args.sample_urls_out:

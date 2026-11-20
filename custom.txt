@@ -1,0 +1,28 @@
+! ---------------------------------------------------------------------------
+! gfwlist2pac custom rules  (this file is watched by the CI workflow)
+!
+! Proxy string that PAC returns when a rule matches. Edit this line to
+! replicate this setup with your own proxy:
+!   proxy: SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;
+!
+! Rule syntax (gfwlist / AutoProxy):
+!   ||example.com      use proxy for example.com and all its subdomains
+!   @@||example.com    bypass the proxy for example.com and its subdomains
+!   ! ...              comment
+!
+! User rules are evaluated before gfwlist rules.
+! ---------------------------------------------------------------------------
+
+! force direct
+@@||pbq.cc.cd
+@@||pbq.ccwu.cc
+
+! force proxy
+||github.com
+||githubusercontent.com
+||githubassets.com
+||github.io
+||github.dev
+||github.blog
+||github.community
+||githubstatus.com

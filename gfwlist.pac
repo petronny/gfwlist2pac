@@ -1,5 +1,5 @@
 //! gfwlist2pac | genpac 3.0.1 precise rules | PAC runtime for Windows (JScript 5.8)
-//! GFWList: 2026-11-21 00:10:15 [../work/gfwlist.txt]
+//! GFWList: 2026-11-21 00:10:15 [gfwlist/gfwlist.txt]
 //! buckets: user/direct:2h+0r user/proxy:8h+0r gfwlist/direct:31h+2r gfwlist/proxy:4142h+287r
 //! proxy: SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;
 /*

@@ -4,7 +4,8 @@ import unittest
 from pathlib import Path
 
 from tools import genpac_compat, pacgen
-from tools.build_pac import load_gfwlist, sample_urls, std_datetime, strict_urls
+from tools.build_pac import (load_gfwlist, load_user_rules, sample_urls,
+                             std_datetime, strict_urls)
 from tools.verify_pac import lint_runtime
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -114,6 +115,32 @@ class GfwlistInputTest(unittest.TestCase):
         self.assertRegex(std_datetime('Fri, 20 Nov 2026 20:39:38 +0800'),
                          r'^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$')
         self.assertEqual(std_datetime('-'), '-')
+
+
+class UserRulesTest(unittest.TestCase):
+    def test_proxy_directive_is_extracted(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / 'custom.txt'
+            path.write_text('! proxy: SOCKS5 1.2.3.4:1080; DIRECT;\n||a.example\n',
+                            encoding='utf-8')
+            lines, proxy = load_user_rules([str(path)])
+            self.assertEqual(proxy, 'SOCKS5 1.2.3.4:1080; DIRECT;')
+            self.assertIn('||a.example', lines)
+            # 指令行本身留在规则行里，对 genpac 而言就是注释
+            self.assertIn('! proxy: SOCKS5 1.2.3.4:1080; DIRECT;', lines)
+
+    def test_first_proxy_directive_wins(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            first = Path(tmp) / 'a.txt'
+            first.write_text('! proxy: PROXY 10.0.0.1:8080\n', encoding='utf-8')
+            second = Path(tmp) / 'b.txt'
+            second.write_text('! proxy: PROXY 10.0.0.2:8080\n', encoding='utf-8')
+            _, proxy = load_user_rules([str(first), str(second)])
+            self.assertEqual(proxy, 'PROXY 10.0.0.1:8080')
+
+    def test_repo_custom_file_has_proxy(self):
+        _, proxy = load_user_rules([str(ROOT / 'custom.txt')])
+        self.assertIn('PROXY', proxy)
 
 
 class SampleUrlsTest(unittest.TestCase):
