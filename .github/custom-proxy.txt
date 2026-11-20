@@ -1,0 +1,8 @@
+||github.com
+||githubusercontent.com
+||githubassets.com
+||github.io
+||github.dev
+||github.blog
+||github.community
+||githubstatus.com
