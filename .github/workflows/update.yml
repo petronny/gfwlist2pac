@@ -10,80 +10,85 @@ concurrency:
   group: auto-update
   cancel-in-progress: false
 
+permissions:
+  contents: write
+
+env:
+  PAC_PROXY: "SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;"
+
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Install packages
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y openssh-client python3-setuptools
-
       - uses: actions/checkout@v4
         with:
           ref: master
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: actions/checkout@v4
-        with:
-          repository: JinnLynn/genpac
-          ref: v2.0.1
-          path: genpac
 
       - uses: actions/checkout@v4
         with:
           repository: gfwlist/gfwlist
           path: gfwlist
 
-      - uses: petronny/git-config-user@master
+      # 固定 Python 版本：genpac 3.0.1 在新的 Python 上有兼容性问题，
+      # 由 tools/genpac_compat.py 处理，这里同时用 3.13 证明兼容层有效。
+      - uses: actions/setup-python@v5
         with:
-          path: .
+          python-version: '3.13'
 
-      - name: Install genpac
+      - name: Install dependencies
         run: |
-          cd genpac
+          set -euo pipefail
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          # genpac 的依赖钉在旧版本，用 --no-deps 安装，避免老版本 PyYAML 编译失败
+          python -m pip install --no-deps "genpac==3.0.1"
 
-          # Python collections 兼容性修复
-          sed 's/from collections import Callable/from collections.abc import Callable/g' -i $(grep 'from collections import Callable' . -rIl)
-
-          # Python 3.14 正则替换模板兼容性修复
-          python3 - <<'PY'
-          from pathlib import Path
-
-          p = Path("genpac/core.py")
-          s = p.read_text()
-
-          old = r"""re.sub(r'\\\^', r'(?:[^\w\-.%\u0080-\uFFFF]|$)', line)"""
-          new = r"""re.sub(r'\\\^', lambda _: r'(?:[^\w\-.%\u0080-\uFFFF]|$)', line)"""
-
-          assert old in s, "目标代码不存在，补丁未应用"
-
-          p.write_text(s.replace(old, new, 1))
-
-          print("Python 3.14 compatibility patch applied")
-          PY
-
-          sudo python3 setup.py install
-
-      - name: Update
+      - name: Build PAC
         run: |
-          set -x
-
-          genpac \
-            --pac-proxy "SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;" \
-            --gfwlist-url - \
-            --gfwlist-local gfwlist/gfwlist.txt \
+          set -euo pipefail
+          mkdir -p build
+          python -m tools.build_pac \
+            --gfwlist gfwlist/gfwlist.txt \
             --user-rule-from custom-proxy.txt \
-            --pac-precise \
-            -o gfwlist.pac
+            --proxy "$PAC_PROXY" \
+            --output build/gfwlist.pac \
+            --baseline-out build/genpac-baseline.pac \
+            --sample-urls-out build/parity-urls.txt \
+            --strict-urls-out build/boundary-urls.txt
 
-          sed '1,7d' -i gfwlist.pac
+      # 出厂检验：与 genpac 3.0.1 原生模板逐条对拍 + Windows 引擎语法检查
+      - name: Verify PAC
+        run: |
+          set -euo pipefail
+          python -m tools.verify_pac \
+            --candidate build/gfwlist.pac \
+            --baseline build/genpac-baseline.pac \
+            --urls build/parity-urls.txt \
+            --strict-urls build/boundary-urls.txt
+          python -m unittest discover -s tests -v
 
+      - name: Commit
+        run: |
+          set -euo pipefail
+          cp build/gfwlist.pac gfwlist.pac
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add gfwlist.pac
-          git commit -m "[$(LANG=C date)] auto update" || exit 0
 
-          [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
+          # 输出不含构建时间，规则没变时不会产生空提交
+          if git diff --cached --quiet; then
+            echo "no rule changes"
+            exit 0
+          fi
+
+          git commit -m "[$(LANG=C date -u)] auto update"
+
+          if [ -n "${{ secrets.READ_ONLY }}" ]; then
+            git show --stat HEAD
+            echo "READ_ONLY 已设置，仅展示变更不推送"
+            exit 0
+          fi
 
           git pull --rebase origin master
           git push origin master

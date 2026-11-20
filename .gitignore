@@ -1,2 +1,8 @@
 env/
 *.sw*
+build/
+.venv/
+__pycache__/
+*.pyc
+# CI 里 checkout 的 gfwlist 仓库
+gfwlist/

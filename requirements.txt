@@ -1,0 +1,13 @@
+# 构建所需的 Python 依赖。
+#
+# genpac 3.0.1 的依赖被硬钉在旧版本（requests==2.31.0 / PyYAML==6.0.1 / netaddr==1.3.0），
+# 在 Python 3.13+ 上 PyYAML 6.0.1 没有轮子、装不上，会把整个构建拖死。
+# 所以 genpac 本体单独用 --no-deps 安装，依赖版本由本文件统一管理：
+#
+#   pip install -r requirements.txt
+#   pip install --no-deps "genpac==3.0.1"
+
+requests[socks]>=2.31.0,<3
+publicsuffixlist>=1.0.2
+netaddr>=1.3.0
+PyYAML>=6.0.2
