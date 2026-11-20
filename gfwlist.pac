@@ -1,4 +1,4 @@
-var proxy = 'SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;';
+var proxy = 'SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;';
 var rules = [
     [
         [],
@@ -986,6 +986,7 @@ var rules = [
             "dtiblog.com",
             "dtic.mil",
             "dubox.com",
+            "duck.ai",
             "duck.com",
             "duckduckgo.com",
             "duckmylife.com",
@@ -1340,10 +1341,10 @@ var rules = [
             "gabocorp.com",
             "gagaoolala.com",
             "galenwu.com",
-            "game735.com",
             "gamer.com.tw",
             "gamerp.jp",
             "gamez.com.tw",
+            "gamma.app",
             "ganjing.com",
             "ganjingworld.com",
             "gaoming.net",
@@ -3316,6 +3317,7 @@ var rules = [
             "sotwe.com",
             "soubory.com",
             "soulcaliburhentai.net",
+            "soulogic.com",
             "soundcloud.com",
             "soundofhope.org",
             "soundon.fm",
