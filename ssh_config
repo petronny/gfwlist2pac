@@ -1,4 +1,0 @@
-Host *
-	IdentityFile ~/.ssh/github
-	StrictHostKeyChecking no
-	UserKnownHostsFile /dev/null
