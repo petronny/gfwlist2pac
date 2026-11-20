@@ -42,7 +42,7 @@ jobs:
         run: |
           set -x
 
-          genpac --pac-proxy "SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;" --gfwlist-url - --gfwlist-local gfwlist/gfwlist.txt --user-rule-from custom-proxy.txt -o gfwlist.pac
+          genpac --pac-proxy "SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;" --gfwlist-url - --gfwlist-local gfwlist/gfwlist.txt --user-rule-from custom-proxy.txt --pac-precise -o gfwlist.pac
           sed '1,7d' -i gfwlist.pac
 
           git add gfwlist.pac
