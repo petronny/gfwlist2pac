@@ -1,3 +1,4 @@
+! 强制代理
 ||github.com
 ||githubusercontent.com
 ||githubassets.com
@@ -6,3 +7,7 @@
 ||github.blog
 ||github.community
 ||githubstatus.com
+
+! 强制直连
+@@||pbq.cc.cd
+@@||pbq.ccwu.cc
