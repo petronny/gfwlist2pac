@@ -5,6 +5,11 @@ on:
     - cron: '37 */6 * * *'
   workflow_dispatch:
 
+# 防止定时任务和手动任务并发执行
+concurrency:
+  group: auto-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -12,10 +17,12 @@ jobs:
     steps:
       - name: Install packages
         run: |
-          sudo apt-get install openssh-client python3-setuptools
+          sudo apt-get update
+          sudo apt-get install -y openssh-client python3-setuptools
 
       - uses: actions/checkout@v4
         with:
+          ref: master
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/checkout@v4
@@ -33,16 +40,44 @@ jobs:
         with:
           path: .
 
-      - run: |
+      - name: Install genpac
+        run: |
           cd genpac
+
+          # Python collections 兼容性修复
           sed 's/from collections import Callable/from collections.abc import Callable/g' -i $(grep 'from collections import Callable' . -rIl)
+
+          # Python 3.14 正则替换模板兼容性修复
+          python3 - <<'PY'
+          from pathlib import Path
+
+          p = Path("genpac/core.py")
+          s = p.read_text()
+
+          old = r"""re.sub(r'\\\^', r'(?:[^\w\-.%\u0080-\uFFFF]|$)', line)"""
+          new = r"""re.sub(r'\\\^', lambda _: r'(?:[^\w\-.%\u0080-\uFFFF]|$)', line)"""
+
+          assert old in s, "目标代码不存在，补丁未应用"
+
+          p.write_text(s.replace(old, new, 1))
+
+          print("Python 3.14 compatibility patch applied")
+          PY
+
           sudo python3 setup.py install
 
       - name: Update
         run: |
           set -x
 
-          genpac --pac-proxy "SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;" --gfwlist-url - --gfwlist-local gfwlist/gfwlist.txt --user-rule-from custom-proxy.txt --pac-precise -o gfwlist.pac
+          genpac \
+            --pac-proxy "SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;" \
+            --gfwlist-url - \
+            --gfwlist-local gfwlist/gfwlist.txt \
+            --user-rule-from custom-proxy.txt \
+            --pac-precise \
+            -o gfwlist.pac
+
           sed '1,7d' -i gfwlist.pac
 
           git add gfwlist.pac
@@ -50,4 +85,5 @@ jobs:
 
           [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
 
+          git pull --rebase origin master
           git push origin master
