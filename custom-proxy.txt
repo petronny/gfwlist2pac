@@ -1,3 +1,8 @@
+! 强制直连
+@@localhost
+@@||pbq.cc.cd
+@@||pbq.ccwu.cc
+
 ! 强制代理
 ||github.com
 ||githubusercontent.com
@@ -7,7 +12,3 @@
 ||github.blog
 ||github.community
 ||githubstatus.com
-
-! 强制直连
-@@||pbq.cc.cd
-@@||pbq.ccwu.cc
