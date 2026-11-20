@@ -2,7 +2,16 @@ var proxy = 'SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;';
 var rules = [
     [
         [],
-        []
+        [
+            "github.blog",
+            "github.com",
+            "github.community",
+            "github.dev",
+            "github.io",
+            "githubassets.com",
+            "githubstatus.com",
+            "githubusercontent.com"
+        ]
     ],
     [
         [
