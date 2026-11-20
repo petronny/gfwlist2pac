@@ -1,7 +1,10 @@
 var proxy = 'SOCKS5 192.168.30.3:7891; PROXY 192.168.30.3:7890; DIRECT;';
 var rules = [
     [
-        [],
+        [
+            "cc.cd",
+            "ccwu.cc"
+        ],
         [
             "github.blog",
             "github.com",
