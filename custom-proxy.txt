@@ -1,5 +1,4 @@
 ! 强制直连
-@@localhost
 @@||pbq.cc.cd
 @@||pbq.ccwu.cc
 
